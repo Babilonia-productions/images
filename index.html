@@ -44,8 +44,9 @@
   }
   nav.scrolled { background: rgba(15,15,15,0.88); backdrop-filter: blur(8px); }
 
-  .nav-logo { display: flex; align-items: center; }
-  .nav-logo img { height: 30px; width: auto; }
+  .nav-logo { display: flex; align-items: center; gap: 10px; color: var(--white); text-decoration: none; }
+  .brand-mark { width: 26px; height: 26px; flex-shrink: 0; }
+  .nav-logo .brand-wordmark { font-family: 'Bebas Neue', sans-serif; font-size: 20px; letter-spacing: 0.06em; color: var(--white); }
 
   .nav-links {
     display: flex;
@@ -718,7 +719,9 @@
     align-items: start;
   }
 
-  .footer-logo img { height: 30px; margin-bottom: 14px; }
+  .footer-logo { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+  .footer-logo .brand-mark { width: 26px; height: 26px; }
+  .footer-logo .brand-wordmark { font-family: 'Bebas Neue', sans-serif; font-size: 22px; letter-spacing: 0.06em; color: var(--white); }
 
   .footer-tagline { font-size: 13px; font-weight: 300; color: rgba(255,255,255,0.5); line-height: 1.6; }
 
@@ -810,7 +813,12 @@
 
 <!-- NAV -->
 <nav id="nav">
-  <a href="#" class="nav-logo"><img src="assets/img/logo-white.png" alt="Babilônia Productions"></a>
+  <a href="#" class="nav-logo">
+    <svg class="brand-mark" viewBox="0 0 64 60" fill="currentColor" aria-hidden="true">
+      <path fill-rule="evenodd" d="M4,22 L14,2 L22,18 L42,18 L50,2 L60,22 Q60,50 32,54 Q4,50 4,22 Z M20,30 Q24,26 28,30 Q24,34 20,30 Z M36,30 Q40,26 44,30 Q40,34 36,30 Z"/>
+    </svg>
+    <span class="brand-wordmark">Babilônia</span>
+  </a>
   <ul class="nav-links">
     <li><a href="#work">Our Work</a></li>
     <li><a href="#approach">Approach</a></li>
@@ -1113,7 +1121,12 @@
 <!-- FOOTER -->
 <footer>
   <div>
-    <span class="footer-logo"><img src="assets/img/logo-white.png" alt="Babilônia Productions"></span>
+    <span class="footer-logo">
+      <svg class="brand-mark" viewBox="0 0 64 60" fill="currentColor" aria-hidden="true" style="color:var(--white);">
+        <path fill-rule="evenodd" d="M4,22 L14,2 L22,18 L42,18 L50,2 L60,22 Q60,50 32,54 Q4,50 4,22 Z M20,30 Q24,26 28,30 Q24,34 20,30 Z M36,30 Q40,26 44,30 Q40,34 36,30 Z"/>
+      </svg>
+      <span class="brand-wordmark">Babilônia Productions</span>
+    </span>
     <p class="footer-tagline">Creative production studio<br>based in Rio de Janeiro, Brazil.<br>Founded 2024.</p>
     <div class="footer-socials">
       <a href="#" aria-label="Instagram" title="Add your Instagram URL">
