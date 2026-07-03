@@ -417,14 +417,14 @@
     aspect-ratio: 4/5;
   }
 
-  .work-card img {
+  .work-card img, .work-card video {
     width: 100%;
     height: 100%;
     object-fit: cover;
     filter: grayscale(20%);
     transition: filter 0.4s, transform 0.5s;
   }
-  .work-card:hover img { filter: grayscale(0%); transform: scale(1.06); }
+  .work-card:hover img, .work-card:hover video { filter: grayscale(0%); transform: scale(1.06); }
 
   .work-card-label {
     position: absolute;
@@ -947,13 +947,30 @@
     </div>
   </div>
 
+  <!-- CASE STUDY: SOLI&SUN -->
+  <div class="case-study fade-up">
+    <div class="case-study-media">
+      <img src="assets/img/soli-sun-01.jpg" alt="Soli&amp;Sun campaign, model on a fishing boat in Copacabana">
+      <img src="assets/img/soli-sun-02.jpg" alt="Soli&amp;Sun campaign, model at a Rio street market">
+      <img src="assets/img/soli-sun-03.jpg" alt="Soli&amp;Sun campaign, beach chair with the bag and a coconut">
+    </div>
+    <div class="case-study-text">
+      <div class="case-study-tag">CASE STUDY</div>
+      <h3 class="case-study-title">Soli&amp;Sun</h3>
+      <p class="case-study-copy">A full production built around one accessory: the bag. We shot it where it actually lives, on a fishing boat in Copacabana, weaving through a street market, and propped on a beach chair next to a coconut, so every scene reads as a real day in Rio rather than a studio setup.</p>
+      <p class="case-study-copy">Full production meant handling casting, locations, and crew end to end, so the brand only had to show up for the shoot.</p>
+    </div>
+  </div>
+
   <!-- MORE WORK -->
   <div class="work-grid fade-up">
-    <div class="work-card"><img src="assets/img/coolway-02.jpg" alt="Coolway campaign in Copacabana"><div class="work-card-label">Coolway</div></div>
+    <div class="work-card">
+      <video src="assets/video/coolway-rio.mp4" poster="assets/img/coolway-video-poster.jpg" autoplay muted loop playsinline></video>
+      <div class="work-card-label">Coolway</div>
+    </div>
     <div class="work-card"><img src="assets/img/work-graffiti.jpg" alt="Casa Rosa campaign"><div class="work-card-label">Casa Rosa</div></div>
     <div class="work-card"><img src="assets/img/dsquared2-01.jpg" alt="Dsquared2 location scout"><div class="work-card-label">Dsquared2</div></div>
     <div class="work-card"><img src="assets/img/ernest-leoty-01.jpg" alt="Ernest Leoty campaign"><div class="work-card-label">Ernest Leoty</div></div>
-    <div class="work-card"><img src="assets/img/soli-sun-01.jpg" alt="Soli&amp;Sun campaign"><div class="work-card-label">Soli&amp;Sun</div></div>
     <div class="work-card"><img src="assets/img/newyorker-01.jpg" alt="New Yorker campaign"><div class="work-card-label">New Yorker</div></div>
     <div class="work-card"><img src="assets/img/farm-01.jpg" alt="Farm Rio talent scouting"><div class="work-card-label">Farm Rio, Talent Scout</div></div>
   </div>
