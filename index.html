@@ -8,7 +8,7 @@ description: "Babilônia Productions is a Rio de Janeiro-based production compan
 <section class="hero">
   <div class="hero-media">
     <!-- Swap this img for a <video class="hero-video" autoplay muted loop playsinline poster="/assets/img/hero-poster.jpg"><source src="/assets/video/reel.mp4" type="video/mp4"></video> once a show-reel file is available. -->
-    <img class="hero-video" src="/assets/img/hero-poster.jpg" alt="">
+    <img class="hero-video" src="{{ '/assets/img/hero-poster.jpg' | relative_url }}" alt="">
     <div class="hero-media-overlay"></div>
   </div>
   <div class="hero-badge">
@@ -84,13 +84,13 @@ description: "Babilônia Productions is a Rio de Janeiro-based production compan
 
   {% assign studies = site.case_studies | sort: "order" %}
   {% for cs in studies %}
-  <a href="{{ cs.url }}" class="case-study fade-up{% cycle '', ' reverse' %}">
+  <a href="{{ cs.url | relative_url }}" class="case-study fade-up{% cycle '', ' reverse' %}">
     <div class="case-study-media">
       {% for item in cs.gallery limit:3 %}
         {% if item.type == "video" %}
-        <video src="{{ item.src }}" poster="{{ item.poster }}" autoplay muted loop playsinline></video>
+        <video src="{{ item.src | relative_url }}" poster="{{ item.poster | relative_url }}" autoplay muted loop playsinline></video>
         {% else %}
-        <img src="{{ item.src }}" alt="{{ item.alt | default: cs.title }}">
+        <img src="{{ item.src | relative_url }}" alt="{{ item.alt | default: cs.title }}">
         {% endif %}
       {% endfor %}
     </div>
@@ -111,15 +111,15 @@ description: "Babilônia Productions is a Rio de Janeiro-based production compan
 
   <!-- MORE WORK -->
   <div class="work-grid fade-up">
-    <a class="work-card" href="/work/coolway/">
-      <video src="/assets/video/coolway-rio.mp4" poster="/assets/img/coolway-video-poster.jpg" autoplay muted loop playsinline></video>
+    <a class="work-card" href="{{ '/work/coolway/' | relative_url }}">
+      <video src="{{ '/assets/video/coolway-rio.mp4' | relative_url }}" poster="{{ '/assets/img/coolway-video-poster.jpg' | relative_url }}" autoplay muted loop playsinline></video>
       <div class="work-card-label">Coolway, Brazil Production</div>
     </a>
-    <a class="work-card" href="/work/casa-rosa/"><img src="/assets/img/work-graffiti.jpg" alt="Casa Rosa campaign"><div class="work-card-label">Casa Rosa, Brazil Production</div></a>
-    <div class="work-card"><img src="/assets/img/dsquared2-02.jpg" alt="Dsquared2 campaign"><div class="work-card-label">Dsquared2, Location Production</div></div>
-    <div class="work-card"><img src="/assets/img/newyorker-01.jpg" alt="New Yorker campaign"><div class="work-card-label">New Yorker, Location Production</div></div>
-    <div class="work-card"><img src="/assets/img/corona-01.jpg" alt="Corona campaign at Copacabana beach"><div class="work-card-label">Corona, Location Production</div></div>
-    <div class="work-card"><img src="/assets/img/farm-01.jpg" alt="Farm Rio talent scouting"><div class="work-card-label">Farm Rio, Talent Scout</div></div>
+    <a class="work-card" href="{{ '/work/casa-rosa/' | relative_url }}"><img src="{{ '/assets/img/work-graffiti.jpg' | relative_url }}" alt="Casa Rosa campaign"><div class="work-card-label">Casa Rosa, Brazil Production</div></a>
+    <div class="work-card"><img src="{{ '/assets/img/dsquared2-02.jpg' | relative_url }}" alt="Dsquared2 campaign"><div class="work-card-label">Dsquared2, Location Production</div></div>
+    <div class="work-card"><img src="{{ '/assets/img/newyorker-01.jpg' | relative_url }}" alt="New Yorker campaign"><div class="work-card-label">New Yorker, Location Production</div></div>
+    <div class="work-card"><img src="{{ '/assets/img/corona-01.jpg' | relative_url }}" alt="Corona campaign at Copacabana beach"><div class="work-card-label">Corona, Location Production</div></div>
+    <div class="work-card"><img src="{{ '/assets/img/farm-01.jpg' | relative_url }}" alt="Farm Rio talent scouting"><div class="work-card-label">Farm Rio, Talent Scout</div></div>
   </div>
 </section>
 
@@ -206,7 +206,7 @@ description: "Babilônia Productions is a Rio de Janeiro-based production compan
   </div>
   <div class="team-grid fade-up">
     <div class="team-card">
-      <img class="team-photo" src="/assets/img/team-lenita.jpg" alt="Lenita, Creative Director">
+      <img class="team-photo" src="{{ '/assets/img/team-lenita.jpg' | relative_url }}" alt="Lenita, Creative Director">
       <div>
         <div class="team-role">Creative Director</div>
         <div class="team-name">Lenita</div>
@@ -214,7 +214,7 @@ description: "Babilônia Productions is a Rio de Janeiro-based production compan
       </div>
     </div>
     <div class="team-card">
-      <img class="team-photo" src="/assets/img/team-fabio.png" alt="Fabio Ventura, Director of Production">
+      <img class="team-photo" src="{{ '/assets/img/team-fabio.png' | relative_url }}" alt="Fabio Ventura, Director of Production">
       <div>
         <div class="team-role">Director of Production</div>
         <div class="team-name">Fabio Ventura</div>
@@ -226,7 +226,7 @@ description: "Babilônia Productions is a Rio de Janeiro-based production compan
 
 <!-- CLIENTS -->
 <section class="clients" id="clients">
-  <img class="clients-bg" src="/assets/img/clients-bg.jpg" alt="">
+  <img class="clients-bg" src="{{ '/assets/img/clients-bg.jpg' | relative_url }}" alt="">
   <div class="clients-inner">
     <div class="section-label clients-label">
       <span class="section-label-line"></span>
@@ -261,7 +261,7 @@ description: "Babilônia Productions is a Rio de Janeiro-based production compan
 
 <!-- CTA STRIP -->
 <section class="cta-strip" id="contact">
-  <img class="cta-bg" src="/assets/img/cta-bg.png" alt="">
+  <img class="cta-bg" src="{{ '/assets/img/cta-bg.png' | relative_url }}" alt="">
   <div class="cta-inner">
     <h2 class="cta-title">Come to Rio with<br>a Vision. Leave<br>with a <em>Campaign Your<br>Audiences Can't Stop Watching.</em></h2>
     <div class="cta-actions">

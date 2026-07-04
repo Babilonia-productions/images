@@ -12,13 +12,13 @@ description: "Case studies from Babilônia Productions: real access, real locati
   <div class="index-grid fade-up">
     {% assign studies = site.case_studies | sort: "order" %}
     {% for cs in studies %}
-    <a class="index-card" href="{{ cs.url }}">
+    <a class="index-card" href="{{ cs.url | relative_url }}">
       <div class="index-card-media">
         {% assign thumb = cs.gallery[0] %}
         {% if thumb.type == "video" %}
-        <video src="{{ thumb.src }}" poster="{{ thumb.poster }}" autoplay muted loop playsinline></video>
+        <video src="{{ thumb.src | relative_url }}" poster="{{ thumb.poster | relative_url }}" autoplay muted loop playsinline></video>
         {% else %}
-        <img src="{{ thumb.src }}" alt="{{ cs.title }}">
+        <img src="{{ thumb.src | relative_url }}" alt="{{ cs.title }}">
         {% endif %}
       </div>
       <div class="index-card-tag">{{ cs.tag }}</div>

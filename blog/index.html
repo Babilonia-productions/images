@@ -11,7 +11,7 @@ description: "Behind-the-scenes stories, production notes, and Rio culture piece
 
   <div class="index-grid fade-up">
     {% for post in site.posts %}
-    <a class="index-card" href="{{ post.url }}">
+    <a class="index-card" href="{{ post.url | relative_url }}">
       <div class="index-card-tag">{{ post.date | date: "%B %-d, %Y" }}</div>
       <h3 class="index-card-title">{{ post.title }}</h3>
       <p class="index-card-excerpt">{{ post.excerpt | default: post.content | strip_html | truncatewords: 30 }}</p>

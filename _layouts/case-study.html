@@ -2,7 +2,7 @@
 layout: default
 ---
 <section class="page-hero fade-up">
-  <a href="/work/" class="page-back">← All Case Studies</a>
+  <a href="{{ '/work/' | relative_url }}" class="page-back">← All Case Studies</a>
   <div class="page-hero-tag">{{ page.tag }}</div>
   <h1 class="page-hero-title">{{ page.title }}</h1>
 </section>
@@ -12,9 +12,9 @@ layout: default
   {% for item in page.gallery %}
   <div class="cs-gallery-item{% if item.wide %} wide{% endif %}">
     {% if item.type == "video" %}
-    <video src="{{ item.src }}" poster="{{ item.poster }}" autoplay muted loop playsinline></video>
+    <video src="{{ item.src | relative_url }}" poster="{{ item.poster | relative_url }}" autoplay muted loop playsinline></video>
     {% else %}
-    <img src="{{ item.src }}" alt="{{ item.alt | default: page.title }}">
+    <img src="{{ item.src | relative_url }}" alt="{{ item.alt | default: page.title }}">
     {% endif %}
   </div>
   {% endfor %}
