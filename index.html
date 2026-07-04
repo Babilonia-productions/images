@@ -254,7 +254,7 @@
   .stats-bar {
     background: var(--cream-dark);
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
 
   .stat-cell {
@@ -799,7 +799,7 @@
     .hero-badge { top: auto; bottom: 300px; right: 24px; }
 
     .stats-bar { grid-template-columns: repeat(2, 1fr); }
-    .stat-cell:nth-child(2) { border-right: none; }
+    .stat-cell:nth-child(2n) { border-right: none; }
 
     .work, .why, .who, .team, .clients, .cta-strip { padding-left: 24px; padding-right: 24px; }
     .work-header, .why, .team-grid { grid-template-columns: 1fr; gap: 32px; }
@@ -862,8 +862,8 @@
   </div>
   <div class="hero-content">
     <p class="hero-eyebrow">Rio de Janeiro · Brazil · Production Partner for Global Brands</p>
-    <h1 class="hero-title">We Connect Brands to the <em>Energy</em> of Brazil.</h1>
-    <p class="hero-sub">Full-service photo, film and production for brands, agencies, and creators shooting in Brazil. Most productions arrive in Rio with a concept. We arrive with the keys.</p>
+    <h1 class="hero-title">We Turn Brazil's Energy Into Campaigns Your Audience <em>Won't Scroll Past.</em></h1>
+    <p class="hero-sub">Babilônia Productions pairs documentary instincts with deep local access to reach stories no one else can, and the creative and strategic craft to turn them into campaigns that travel.</p>
     <div class="hero-cta-group">
       <a href="#contact" class="btn-primary">Start a Project</a>
       <a href="#work" class="btn-ghost">See Our Work →</a>
@@ -914,13 +914,17 @@
     <div class="stat-num">26</div>
     <div class="stat-label">Brazilian States Covered</div>
   </div>
+  <div class="stat-cell">
+    <div class="stat-num">Multilingual</div>
+    <div class="stat-label">Team</div>
+  </div>
 </div>
 
 <!-- WORK -->
 <section class="work" id="work">
   <div class="work-header fade-up">
     <h2 class="work-title">Why Work <em>With Us.</em></h2>
-    <p class="work-intro">We source and create narratives, not stock content. Two recent productions show how we work: real access, real locations, real Rio.</p>
+    <p class="work-intro">We source and create narratives, not stock content. A few recent productions show how we work: real access, real locations, real Brazil energy.</p>
   </div>
 
   <!-- CASE STUDY: FLOYD -->
@@ -933,8 +937,7 @@
     <div class="case-study-text">
       <div class="case-study-tag">CASE STUDY · BRAZIL PRODUCTION</div>
       <h3 class="case-study-title">Floyd</h3>
-      <p class="case-study-copy">Floyd doesn't do generic campaigns. Every drop is a moment, the kind that stops the scroll because the story is different. For this one, we set up a chessboard on Ipanema beach and shot the whole thing on 35mm film. No digital clean lines, no studio lighting, just grain, texture, and real Rio in the background.</p>
-      <p class="case-study-copy">Editorial content that felt like it was pulled from another era, while it performed like it was made for right now.</p>
+      <p class="case-study-copy">Floyd's campaigns are all about "bringing the mojo back". For this one, we set up a chessboard on Ipanema beach and shot the whole thing on 35mm film. Felt like it was pulled from another era, loved by audiences now.</p>
     </div>
   </div>
 
@@ -949,7 +952,6 @@
       <div class="case-study-tag">CASE STUDY · TALENT SCOUT · LOCATION PRODUCTION</div>
       <h3 class="case-study-title">Nike × NOCTA</h3>
       <p class="case-study-copy">We helped produce Nike's NOCTA Cardinal Summer campaign in Rio. Cast straight from the favela, no agencies, no model cards. Shot inside people's homes, on the courts, in the streets at night.</p>
-      <p class="case-study-copy">This is the kind of access you can't manufacture.</p>
       <p class="case-study-credit">Executive Production by Eden.br</p>
       <div class="case-study-stats">
         <span><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-7.2-4.6-10-9.1C.3 8.8 1.9 5 5.6 5c2 0 3.4 1 4.4 2.4C11 6 12.4 5 14.4 5 18.1 5 19.7 8.8 22 11.9 19.2 16.4 12 21 12 21z"/></svg> 39.5K</span>
@@ -969,8 +971,8 @@
     <div class="case-study-text">
       <div class="case-study-tag">CASE STUDY · FULL PRODUCTION</div>
       <h3 class="case-study-title">Soli&amp;Sun</h3>
-      <p class="case-study-copy">A full production built around one accessory: the bag. We shot it where it actually lives, on a fishing boat in Copacabana, weaving through a street market, and propped on a beach chair next to a coconut, so every scene reads as a real day in Rio rather than a studio setup.</p>
-      <p class="case-study-copy">Full production meant handling casting, locations, and crew end to end, so the brand only had to show up for the shoot.</p>
+      <p class="case-study-copy">A full production built around one accessory: the bag. We brought the bag to the most iconic places in Rio, as travelers would in the city.</p>
+      <p class="case-study-copy">Full remote production meant handling casting, locations, styling, and crew end to end.</p>
       <p class="case-study-credit">Remote production: brand managed from Europe, executed by our crew on the ground in Rio.</p>
     </div>
   </div>
@@ -985,7 +987,7 @@
     <div class="case-study-text">
       <div class="case-study-tag">CASE STUDY · LOCATION PRODUCTION</div>
       <h3 class="case-study-title">Ernest Leoty</h3>
-      <p class="case-study-copy">A location-driven shoot built around Rio's own textures: sun-bleached rock, tree cover, and open sky standing in for a studio. We scouted the spots, built the shot list around natural light, and let the city do the set design.</p>
+      <p class="case-study-copy">A location-driven shoot built around Rio's own textures: sun-bleached rock, tree cover, and open sky standing in for a studio. We scouted the spots, built the shot list around natural light, and let nature do the set design.</p>
     </div>
   </div>
 
@@ -1013,8 +1015,8 @@
       <span class="section-label-line"></span>
       <span class="section-label-text">What Makes Us Different</span>
     </div>
-    <h2 class="why-title">Brazil Has Its Own Language. <em>We Make Your Customers Understand It.</em></h2>
-    <p class="why-body">Most productions arrive in Rio with a concept. We arrive with the keys. We're deeply embedded in the city's culture, with access to places, people and stories that can't be manufactured. Our background is in documentary, so whether it's a lifestyle campaign or a branded film, we know how to translate Rio's culture into work that actually lands.</p>
+    <h2 class="why-title">Audiences Don't Connect With <em>Generic Content.</em></h2>
+    <p class="why-body">They follow, buy from, and share the brands whose work feels real and relatable. We create that connection from inside the city's culture, with access to unique places, people and stories – narrating lifestyle campaigns with the "I wish I was there" factor.</p>
     <a href="#contact" class="why-link">Let's create together →</a>
   </div>
   <div class="why-right fade-up">
@@ -1029,21 +1031,21 @@
       <div class="why-item-icon">02</div>
       <div>
         <div class="why-item-title">Strong Local Network, Global Mindset</div>
-        <p class="why-item-text">Top talent, locations and partners across all 26 Brazilian states.</p>
+        <p class="why-item-text">We work with top talent, locations and partners across all 26 Brazilian states. We're a multilingual team with experience in marketing, PR, and production across the globe.</p>
       </div>
     </div>
     <div class="why-item">
       <div class="why-item-icon">03</div>
       <div>
         <div class="why-item-title">Agile, Reliable and Solution-Driven</div>
-        <p class="why-item-text">We make productions smooth, efficient and enjoyable.</p>
+        <p class="why-item-text">We make productions smooth, efficient and so enjoyable that people want to work with us again and again.</p>
       </div>
     </div>
     <div class="why-item">
       <div class="why-item-icon">04</div>
       <div>
         <div class="why-item-title">Deeply Connected to Brazilian Culture</div>
-        <p class="why-item-text">Access to places, people and stories that go beyond the obvious.</p>
+        <p class="why-item-text">Access to places, people and stories that go beyond the obvious, connecting authenticity with brand affinity.</p>
       </div>
     </div>
   </div>
@@ -1128,14 +1130,13 @@
       <span class="client-name">Coolway</span>
       <span class="client-name">Ernest Leoty</span>
       <span class="client-name">Casa Rosa</span>
-      <span class="client-name">Lokoa the Label</span>
+      <span class="client-name">Lokoa The Label</span>
       <span class="client-name">Magali Pascal</span>
       <span class="client-name">Arezzo</span>
       <span class="client-name">Yoreh</span>
       <span class="client-name">Rocus</span>
       <span class="client-name">Burga</span>
-      <span class="client-name">Matinee</span>
-      <span class="client-name">Property</span>
+      <span class="client-name">Matinee Property</span>
       <span class="client-name">Soli&Sun</span>
       <span class="client-name">Seasky Productions</span>
       <span class="client-name">Corona</span>
@@ -1147,7 +1148,7 @@
 <section class="cta-strip" id="contact">
   <img class="cta-bg" src="assets/img/cta-bg.png" alt="">
   <div class="cta-inner">
-    <h2 class="cta-title">Come to Rio with<br>a Vision. Leave<br>with a <em>Memory Your<br>Audiences Won't Forget.</em></h2>
+    <h2 class="cta-title">Come to Rio with<br>a Vision. Leave<br>with a <em>Campaign Your<br>Audiences Can't Stop Watching.</em></h2>
     <div class="cta-actions">
       <a href="mailto:babiloniaproductions@outlook.com?body=Hi%2C%20I%27d%20love%20to%20learn%20more%20about%20productions" class="btn-large">Get in Touch</a>
       <span class="cta-contact">babiloniaproductions@outlook.com<br><a href="https://wa.me/5521977433092" target="_blank" rel="noopener" style="color:inherit; text-decoration:none;">+55 (21) 97743 3092</a></span>
