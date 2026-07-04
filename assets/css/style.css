@@ -427,6 +427,9 @@
     overflow: hidden;
     cursor: pointer;
     aspect-ratio: 4/5;
+    display: block;
+    text-decoration: none;
+    color: inherit;
   }
 
   .work-card img, .work-card video {
