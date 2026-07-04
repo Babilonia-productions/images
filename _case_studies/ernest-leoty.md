@@ -1,6 +1,6 @@
 ---
 title: "Ernest Leoty"
-tag: "CASE STUDY · LOCATION PRODUCTION"
+tag: "CASE STUDY · FULL PRODUCTION"
 order: 4
 summary: "A location-driven shoot built around Rio's own textures: sun-bleached rock, tree cover, and open sky standing in for a studio."
 gallery:

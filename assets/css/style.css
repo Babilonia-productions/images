@@ -952,6 +952,8 @@
     .hero-badge { top: 90px; bottom: auto; right: 16px; padding: 12px 14px; min-width: 84px; }
     .hero-badge-num { font-size: 26px; }
     .hero-eyebrow, .hero-title { padding-right: 96px; }
+    .hero-eyebrow { display: none; }
+    .hero-cta-group .btn-primary { display: none; }
 
     .stats-bar { grid-template-columns: repeat(2, 1fr); }
     .stat-cell:nth-child(2n) { border-right: none; }

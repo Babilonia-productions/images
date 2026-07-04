@@ -1,6 +1,6 @@
 ---
 title: "Coolway"
-tag: "CASE STUDY · LOCATION PRODUCTION"
+tag: "CASE STUDY · FULL PRODUCTION"
 order: 6
 summary: "A footwear campaign for Coolway shot across Rio, from the Copacabana seawall to a neighborhood soccer court."
 gallery:
