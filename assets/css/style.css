@@ -157,6 +157,16 @@
     flex-wrap: wrap;
   }
 
+  /* On shorter viewports (common laptops like 1366x768, 1280x720) the
+     bottom-aligned hero content is tall enough to push its top line up
+     behind the transparent nav bar. Scale it down so it always clears. */
+  @media (max-height: 820px) {
+    .hero-eyebrow { margin-bottom: 14px; }
+    .hero-title { font-size: clamp(36px, 5.5vw, 72px); margin-bottom: 16px; }
+    .hero-sub { font-size: 15px; margin-bottom: 24px; }
+    .hero-content { padding-bottom: 56px; }
+  }
+
   .btn-primary {
     display: inline-block;
     font-size: 13px;
@@ -918,8 +928,15 @@
     .nav-links { display: none; }
     .nav-right { gap: 16px; }
 
-    .hero-content { padding: 0 24px 60px; }
-    .hero-badge { top: auto; bottom: 300px; right: 24px; }
+    /* width:100% keeps this flex item pinned to the viewport width; without it,
+       the padding-right reserved below makes the browser's flex shrink-to-fit
+       sizing overshoot and overflow the screen horizontally. */
+    .hero-content { width: 100%; padding: 0 24px 60px; }
+    /* Fixed to a safe zone near the top (not tied to text length) so it
+       never collides with the headline regardless of how many lines it wraps to. */
+    .hero-badge { top: 90px; bottom: auto; right: 16px; padding: 12px 14px; min-width: 84px; }
+    .hero-badge-num { font-size: 26px; }
+    .hero-eyebrow, .hero-title { padding-right: 96px; }
 
     .stats-bar { grid-template-columns: repeat(2, 1fr); }
     .stat-cell:nth-child(2n) { border-right: none; }
