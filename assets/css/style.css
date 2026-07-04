@@ -316,6 +316,18 @@
     margin-bottom: 80px;
   }
 
+  .work-teaser {
+    padding-bottom: 100px;
+  }
+
+  .work-teaser .work-header {
+    margin-bottom: 40px;
+  }
+
+  .more-work-label {
+    margin-top: 100px;
+  }
+
   .work-title {
     font-family: 'Bebas Neue', sans-serif;
     font-size: clamp(56px, 6vw, 88px);

@@ -75,52 +75,13 @@ description: "Babilônia Productions is a Rio de Janeiro-based production compan
   </div>
 </div>
 
-<!-- WORK -->
-<section class="work" id="work">
+<!-- WORK TEASER -->
+<section class="work work-teaser" id="work">
   <div class="work-header fade-up">
     <h2 class="work-title">Why Work <em>With Us.</em></h2>
-    <p class="work-intro">We source and create narratives, not stock content. A few recent productions show how we work: real access, real locations, real Brazil energy.</p>
+    <p class="work-intro">We source and create narratives, not stock content. Real access, real locations, real Brazil energy — see it in the portfolio.</p>
   </div>
-
-  {% assign studies = site.case_studies | sort: "order" %}
-  {% for cs in studies %}
-  <a href="{{ cs.url | relative_url }}" class="case-study fade-up{% cycle '', ' reverse' %}">
-    <div class="case-study-media">
-      {% for item in cs.gallery limit:3 %}
-        {% if item.type == "video" %}
-        <video src="{{ item.src | relative_url }}" poster="{{ item.poster | relative_url }}" autoplay muted loop playsinline></video>
-        {% else %}
-        <img src="{{ item.src | relative_url }}" alt="{{ item.alt | default: cs.title }}">
-        {% endif %}
-      {% endfor %}
-    </div>
-    <div class="case-study-text">
-      <div class="case-study-tag">{{ cs.tag }}</div>
-      <h3 class="case-study-title">{{ cs.title }}</h3>
-      <p class="case-study-copy">{{ cs.summary }}</p>
-      {% if cs.credit %}<p class="case-study-credit">{{ cs.credit }}</p>{% endif %}
-      {% if cs.stats %}
-      <div class="case-study-stats">
-        {% for stat in cs.stats %}<span>{{ stat }}</span>{% endfor %}
-      </div>
-      {% endif %}
-      <span class="case-study-link">View Case Study →</span>
-    </div>
-  </a>
-  {% endfor %}
-
-  <!-- MORE WORK -->
-  <div class="work-grid fade-up">
-    <a class="work-card" href="{{ '/work/coolway/' | relative_url }}">
-      <video src="{{ '/assets/video/coolway-rio.mp4' | relative_url }}" poster="{{ '/assets/img/coolway-video-poster.jpg' | relative_url }}" autoplay muted loop playsinline></video>
-      <div class="work-card-label">Coolway, Brazil Production</div>
-    </a>
-    <a class="work-card" href="{{ '/work/casa-rosa/' | relative_url }}"><img src="{{ '/assets/img/work-graffiti.jpg' | relative_url }}" alt="Casa Rosa campaign"><div class="work-card-label">Casa Rosa, Brazil Production</div></a>
-    <div class="work-card"><img src="{{ '/assets/img/dsquared2-02.jpg' | relative_url }}" alt="Dsquared2 campaign"><div class="work-card-label">Dsquared2, Location Production</div></div>
-    <div class="work-card"><img src="{{ '/assets/img/newyorker-01.jpg' | relative_url }}" alt="New Yorker campaign"><div class="work-card-label">New Yorker, Location Production</div></div>
-    <div class="work-card"><img src="{{ '/assets/img/corona-01.jpg' | relative_url }}" alt="Corona campaign at Copacabana beach"><div class="work-card-label">Corona, Location Production</div></div>
-    <div class="work-card"><img src="{{ '/assets/img/farm-01.jpg' | relative_url }}" alt="Farm Rio talent scouting"><div class="work-card-label">Farm Rio, Talent Scout</div></div>
-  </div>
+  <a href="{{ '/work/' | relative_url }}" class="btn-large work-teaser-cta fade-up">View Full Portfolio →</a>
 </section>
 
 <!-- WHY / APPROACH -->
