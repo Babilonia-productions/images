@@ -800,6 +800,7 @@
 
     .stats-bar { grid-template-columns: repeat(2, 1fr); }
     .stat-cell:nth-child(2n) { border-right: none; }
+    .stat-cell:last-child:nth-child(odd) { grid-column: 1 / -1; border-right: none; }
 
     .work, .why, .who, .team, .clients, .cta-strip { padding-left: 24px; padding-right: 24px; }
     .work-header, .why, .team-grid { grid-template-columns: 1fr; gap: 32px; }
