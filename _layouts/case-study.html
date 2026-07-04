@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<section class="page-hero fade-up">
+  <a href="/work/" class="page-back">← All Case Studies</a>
+  <div class="page-hero-tag">{{ page.tag }}</div>
+  <h1 class="page-hero-title">{{ page.title }}</h1>
+</section>
+
+{% if page.gallery %}
+<div class="cs-gallery fade-up">
+  {% for item in page.gallery %}
+  <div class="cs-gallery-item{% if item.wide %} wide{% endif %}">
+    {% if item.type == "video" %}
+    <video src="{{ item.src }}" poster="{{ item.poster }}" autoplay muted loop playsinline></video>
+    {% else %}
+    <img src="{{ item.src }}" alt="{{ item.alt | default: page.title }}">
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<div class="cs-body fade-up">
+  {{ content }}
+  {% if page.credit %}<p class="case-study-credit">{{ page.credit }}</p>{% endif %}
+</div>
+
+{% if page.stats %}
+<div class="cs-stats fade-up">
+  {% for stat in page.stats %}
+  <span>{{ stat }}</span>
+  {% endfor %}
+</div>
+{% endif %}
