@@ -7,6 +7,9 @@ collections:
   case_studies:
     output: true
     permalink: /work/:path/
+  case_studies_pt:
+    output: true
+    permalink: /pt/work/:path/
 
 defaults:
   - scope:
@@ -14,15 +17,28 @@ defaults:
       type: "case_studies"
     values:
       layout: "case-study"
+      lang: "en"
+  - scope:
+      path: ""
+      type: "case_studies_pt"
+    values:
+      layout: "case-study"
+      lang: "pt"
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+      lang: "en"
+  - scope:
+      path: "pt"
+    values:
+      lang: "pt"
   - scope:
       path: ""
     values:
       layout: "default"
+      lang: "en"
 
 exclude:
   - "BulkResizePhotos.com-7.zip"

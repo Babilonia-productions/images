@@ -1,0 +1,31 @@
+---
+layout: default
+title: "Nosso Trabalho | Babilônia Productions"
+description: "Estudos de caso da Babilônia Productions: acesso real, locações reais, a verdadeira energia do Brasil."
+permalink: /pt/work/
+---
+<section class="work" id="work-index" style="padding-top:160px;">
+  <div class="work-header fade-up">
+    <h2 class="work-title">Nosso <em>Trabalho.</em></h2>
+    <p class="work-intro">Criamos narrativas, não conteúdo de banco de imagens. Explore produções recentes e veja como trabalhamos: acesso real, locações reais, a verdadeira energia do Brasil.</p>
+  </div>
+
+  <div class="index-grid fade-up">
+    {% assign studies = site.case_studies_pt | sort: "order" %}
+    {% for cs in studies %}
+    <a class="index-card" href="{{ cs.url | relative_url }}">
+      <div class="index-card-media">
+        {% assign thumb = cs.gallery[0] %}
+        {% if thumb.type == "video" %}
+        <video src="{{ thumb.src | relative_url }}" poster="{{ thumb.poster | relative_url }}" autoplay muted loop playsinline></video>
+        {% else %}
+        <img src="{{ thumb.src | relative_url }}" alt="{{ cs.title }}">
+        {% endif %}
+      </div>
+      <div class="index-card-tag">{{ cs.tag }}</div>
+      <h3 class="index-card-title">{{ cs.title }}</h3>
+      <p class="index-card-excerpt">{{ cs.summary }}</p>
+    </a>
+    {% endfor %}
+  </div>
+</section>

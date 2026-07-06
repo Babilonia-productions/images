@@ -1,16 +1,31 @@
 ---
 layout: default
 ---
+{% if page.lang == "pt" %}
+  {% assign cs_back_url = "/pt/work/" %}
+  {% assign cs_back_label = "← Todos os Estudos de Caso" %}
+  {% assign cs_client_label = "Cliente" %}
+  {% assign cs_year_label = "Ano" %}
+  {% assign cs_tags_label = "Tags" %}
+  {% assign cs_credits_label = "Créditos" %}
+{% else %}
+  {% assign cs_back_url = "/work/" %}
+  {% assign cs_back_label = "← All Case Studies" %}
+  {% assign cs_client_label = "Client" %}
+  {% assign cs_year_label = "Year" %}
+  {% assign cs_tags_label = "Tags" %}
+  {% assign cs_credits_label = "Credits" %}
+{% endif %}
 <section class="page-hero fade-up">
-  <a href="{{ '/work/' | relative_url }}" class="page-back">← All Case Studies</a>
+  <a href="{{ cs_back_url | relative_url }}" class="page-back">{{ cs_back_label }}</a>
   <div class="page-hero-tag">{{ page.tag }}</div>
   <h1 class="page-hero-title">{{ page.title }}</h1>
   {% if page.subtitle %}<p class="page-hero-subtitle">{{ page.subtitle }}</p>{% endif %}
   {% if page.client or page.year or page.case_tags %}
   <div class="page-hero-meta">
-    {% if page.client %}<div class="page-hero-meta-item"><span>Client</span>{{ page.client }}</div>{% endif %}
-    {% if page.year %}<div class="page-hero-meta-item"><span>Year</span>{{ page.year }}</div>{% endif %}
-    {% if page.case_tags %}<div class="page-hero-meta-item"><span>Tags</span>{{ page.case_tags | join: " / " }}</div>{% endif %}
+    {% if page.client %}<div class="page-hero-meta-item"><span>{{ cs_client_label }}</span>{{ page.client }}</div>{% endif %}
+    {% if page.year %}<div class="page-hero-meta-item"><span>{{ cs_year_label }}</span>{{ page.year }}</div>{% endif %}
+    {% if page.case_tags %}<div class="page-hero-meta-item"><span>{{ cs_tags_label }}</span>{{ page.case_tags | join: " / " }}</div>{% endif %}
   </div>
   {% endif %}
 </section>
@@ -60,7 +75,7 @@ layout: default
 <div class="cs-credits fade-up">
   <div class="section-label cs-credits-label">
     <span class="section-label-line"></span>
-    <span class="section-label-text">Credits</span>
+    <span class="section-label-text">{{ cs_credits_label }}</span>
   </div>
   <div class="cs-credits-grid">
     {% for c in page.credits %}

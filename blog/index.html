@@ -10,7 +10,8 @@ description: "Behind-the-scenes stories, production notes, and Rio culture piece
   </div>
 
   <div class="index-grid fade-up">
-    {% for post in site.posts %}
+    {% assign en_posts = site.posts | where_exp: "post", "post.lang != 'pt'" %}
+    {% for post in en_posts %}
     <a class="index-card" href="{{ post.url | relative_url }}">
       <div class="index-card-tag">{{ post.date | date: "%B %-d, %Y" }}</div>
       <h3 class="index-card-title">{{ post.title }}</h3>

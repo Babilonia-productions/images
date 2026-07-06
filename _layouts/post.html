@@ -2,10 +2,17 @@
 layout: default
 ---
 <section class="page-hero fade-up">
+  {% if page.lang == "pt" %}
+  <a href="{{ '/pt/blog/' | relative_url }}" class="page-back">← Todos os Posts</a>
+  <div class="page-hero-tag">Notícias da Babilônia</div>
+  <h1 class="page-hero-title">{{ page.title }}</h1>
+  <p class="page-hero-date">{{ page.date | date: "%d.%m.%Y" }}</p>
+  {% else %}
   <a href="{{ '/blog/' | relative_url }}" class="page-back">← All Posts</a>
   <div class="page-hero-tag">News from Babilônia</div>
   <h1 class="page-hero-title">{{ page.title }}</h1>
   <p class="page-hero-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+  {% endif %}
 </section>
 
 <div class="post-body fade-up">
