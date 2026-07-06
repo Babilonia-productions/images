@@ -5,6 +5,14 @@ layout: default
   <a href="{{ '/work/' | relative_url }}" class="page-back">← All Case Studies</a>
   <div class="page-hero-tag">{{ page.tag }}</div>
   <h1 class="page-hero-title">{{ page.title }}</h1>
+  {% if page.subtitle %}<p class="page-hero-subtitle">{{ page.subtitle }}</p>{% endif %}
+  {% if page.client or page.year or page.case_tags %}
+  <div class="page-hero-meta">
+    {% if page.client %}<div class="page-hero-meta-item"><span>Client</span>{{ page.client }}</div>{% endif %}
+    {% if page.year %}<div class="page-hero-meta-item"><span>Year</span>{{ page.year }}</div>{% endif %}
+    {% if page.case_tags %}<div class="page-hero-meta-item"><span>Tags</span>{{ page.case_tags | join: " / " }}</div>{% endif %}
+  </div>
+  {% endif %}
 </section>
 
 {% if page.gallery %}
@@ -26,10 +34,41 @@ layout: default
   {% if page.credit %}<p class="case-study-credit">{{ page.credit }}</p>{% endif %}
 </div>
 
+{% if page.gallery_bottom %}
+<div class="cs-gallery cs-gallery-bottom fade-up">
+  {% for item in page.gallery_bottom %}
+  <div class="cs-gallery-item{% if item.wide %} wide{% endif %}">
+    {% if item.type == "video" %}
+    <video src="{{ item.src | relative_url }}" poster="{{ item.poster | relative_url }}" autoplay muted loop playsinline></video>
+    {% else %}
+    <img src="{{ item.src | relative_url }}" alt="{{ item.alt | default: page.title }}">
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
 {% if page.stats %}
 <div class="cs-stats fade-up">
   {% for stat in page.stats %}
   <span>{{ stat }}</span>
   {% endfor %}
+</div>
+{% endif %}
+
+{% if page.credits %}
+<div class="cs-credits fade-up">
+  <div class="section-label cs-credits-label">
+    <span class="section-label-line"></span>
+    <span class="section-label-text">Credits</span>
+  </div>
+  <div class="cs-credits-grid">
+    {% for c in page.credits %}
+    <div class="cs-credits-item">
+      <span class="cs-credits-role">{{ c.role }}</span>
+      <span class="cs-credits-name">{{ c.name }}</span>
+    </div>
+    {% endfor %}
+  </div>
 </div>
 {% endif %}

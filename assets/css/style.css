@@ -881,6 +881,39 @@
 
   .page-hero-date { font-size: 13px; font-weight: 300; color: var(--muted); margin-top: 20px; }
 
+  .page-hero-subtitle {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: clamp(20px, 2.2vw, 28px);
+    color: var(--crimson);
+    margin-top: 14px;
+  }
+
+  .page-hero-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 36px;
+    padding-top: 28px;
+    border-top: 1px solid rgba(15,15,15,0.1);
+    max-width: 900px;
+  }
+
+  .page-hero-meta-item {
+    font-size: 15px;
+    font-weight: 300;
+    color: var(--black);
+  }
+
+  .page-hero-meta-item span {
+    display: block;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.16em;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+
   .page-back {
     display: inline-block;
     font-size: 13px;
@@ -916,6 +949,50 @@
   .cs-body { padding: 60px 48px 40px; max-width: 760px; }
   .cs-body p { font-size: 16px; font-weight: 300; line-height: 1.85; color: var(--muted); margin-bottom: 20px; }
   .cs-body .case-study-credit { margin-bottom: 20px; }
+
+  .cs-body h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--crimson);
+    margin: 48px 0 12px;
+  }
+  .cs-body h2:first-child { margin-top: 0; }
+
+  .cs-body h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: clamp(28px, 3.2vw, 40px);
+    line-height: 1.05;
+    color: var(--black);
+    margin: 0 0 20px;
+  }
+
+  .cs-gallery-bottom { margin-top: 8px; }
+
+  .cs-credits {
+    padding: 20px 48px 100px;
+    max-width: 900px;
+  }
+
+  .cs-credits-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 40px;
+    row-gap: 20px;
+  }
+
+  .cs-credits-item {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid rgba(15,15,15,0.08);
+    font-size: 14px;
+  }
+
+  .cs-credits-role { color: var(--muted); font-weight: 300; }
+  .cs-credits-name { color: var(--black); font-weight: 500; text-align: right; }
 
   .cs-stats {
     padding: 0 48px 100px;
@@ -1011,5 +1088,7 @@
     .page-hero { padding: 130px 24px 40px; }
     .cs-gallery { padding: 0 24px 24px; grid-template-columns: 1fr 1fr; }
     .cs-gallery-item.wide { grid-column: span 2; }
-    .cs-body, .cs-stats, .post-body { padding-left: 24px; padding-right: 24px; }
+    .cs-body, .cs-stats, .post-body, .cs-credits { padding-left: 24px; padding-right: 24px; }
+    .cs-credits-grid { grid-template-columns: 1fr; }
+    .page-hero-meta { gap: 24px; }
   }
