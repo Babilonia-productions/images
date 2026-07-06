@@ -59,6 +59,23 @@
 
   .nav-right { display: flex; align-items: center; gap: 28px; }
 
+  .nav-lang {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 12px;
+    letter-spacing: 0.12em;
+  }
+  .nav-lang a {
+    color: var(--white);
+    opacity: 0.55;
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+  .nav-lang a:hover { opacity: 1; }
+  .nav-lang a.active { opacity: 1; border-bottom: 1px solid rgba(255,255,255,0.7); padding-bottom: 1px; }
+  .nav-lang-sep { color: rgba(255,255,255,0.35); }
+
   .social-links { display: flex; align-items: center; gap: 16px; }
   .social-links a {
     color: var(--white);
