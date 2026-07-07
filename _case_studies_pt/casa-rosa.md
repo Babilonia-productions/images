@@ -14,5 +14,18 @@ gallery:
   - type: image
     src: /assets/img/CASA%20ROSA-22.jpg
     alt: "Campanha Casa Rosa, retrato próximo nas pedras"
+gallery_bottom:
+  - type: image
+    src: /assets/img/CASA%20ROSA-1.jpg
+    alt: "Campanha Casa Rosa, moda praia no litoral"
+  - type: image
+    src: /assets/img/CASA%20ROSA-7.jpg
+    alt: "Campanha Casa Rosa, estampa marcante à beira-mar"
+  - type: image
+    src: /assets/img/CASA%20ROSA-78.jpg
+    alt: "Campanha Casa Rosa, retrato ensolarado"
+  - type: image
+    src: /assets/img/CASA%20ROSA-88.jpg
+    alt: "Campanha Casa Rosa, look editorial nas pedras"
 ---
 Uma produção completa para a linha de moda praia da Casa Rosa. Fotografamos pelas praias e pelo costão rochoso do Rio, abraçando as estampas marcantes e a paleta ensolarada da marca.

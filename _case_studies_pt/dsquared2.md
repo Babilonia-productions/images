@@ -26,6 +26,18 @@ gallery_bottom:
   - type: image
     src: /assets/img/dsquared2-04.jpg
     alt: "Campanha Dsquared2, laje à noite"
+  - type: image
+    src: /assets/img/dsquared2-05.jpg
+    alt: "Still da campanha Dsquared2"
+  - type: image
+    src: /assets/img/dsquared2-06.jpg
+    alt: "Campanha Dsquared2, grupo junto à janela"
+  - type: image
+    src: /assets/img/dsquared2-07.jpg
+    alt: "Still da campanha Dsquared2"
+  - type: image
+    src: /assets/img/dsquared2-08.jpg
+    alt: "Still da campanha Dsquared2"
 credits:
   - role: "Direção & DF (Filme)"
     name: "Famke Van Hagen & Gabriel Novis"

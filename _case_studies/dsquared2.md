@@ -26,6 +26,18 @@ gallery_bottom:
   - type: image
     src: /assets/img/dsquared2-04.jpg
     alt: "Dsquared2 campaign, rooftop at night"
+  - type: image
+    src: /assets/img/dsquared2-05.jpg
+    alt: "Dsquared2 campaign still"
+  - type: image
+    src: /assets/img/dsquared2-06.jpg
+    alt: "Dsquared2 campaign, group by the window"
+  - type: image
+    src: /assets/img/dsquared2-07.jpg
+    alt: "Dsquared2 campaign still"
+  - type: image
+    src: /assets/img/dsquared2-08.jpg
+    alt: "Dsquared2 campaign still"
 credits:
   - role: "Direction & DP (Film)"
     name: "Famke Van Hagen & Gabriel Novis"

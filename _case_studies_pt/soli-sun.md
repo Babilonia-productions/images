@@ -15,6 +15,19 @@ gallery:
   - type: image
     src: /assets/img/soli-sun-03.jpg
     alt: "Campanha Soli&Sun, cadeira de praia com a bolsa e um coco"
+gallery_bottom:
+  - type: image
+    src: /assets/img/soli-sun-04.jpg
+    alt: "Campanha Soli&Sun, bolsa rosa em um barco de pesca"
+  - type: image
+    src: /assets/img/soli-sun-05.jpg
+    alt: "Campanha Soli&Sun, nécessaire verde no caminhão da feira"
+  - type: image
+    src: /assets/img/soli-sun-06.jpg
+    alt: "Campanha Soli&Sun, bolsa listrada na praia"
+  - type: image
+    src: /assets/img/soli-sun-07.jpg
+    alt: "Campanha Soli&Sun, clutch verde na rua"
 ---
 Uma produção completa construída em torno de um acessório: a bolsa. Levamos a bolsa aos lugares mais icônicos do Rio, como fariam os viajantes na cidade.
 
