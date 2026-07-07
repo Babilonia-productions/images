@@ -24,7 +24,7 @@ A escala do Brasil é continental. Você pode escolher entre:
 - **A Floresta Amazônica**, uma catedral natural de verdes e sombras.
 - **As cidades vibrantes do Sul**, com arquitetura, vida de rua e ritmo moderno.
 
-E não podemos esquecer das pessoas. O Brasil produziu alguns dos modelos mais marcantes do mundo — [Marlon Teixeira](https://www.instagram.com/marlontx/), [Juliana Nalu](https://www.instagram.com/juliananalu/), [Narah Baptista](https://www.instagram.com/narahbaptista/), Aaron Bueno, Fabio Ventura, [Emilly Nunes](https://www.instagram.com/emillynunes/) e muitos outros. A variedade de looks, estilos e energia torna o casting aqui fácil e empolgante ao mesmo tempo.
+E não podemos esquecer das pessoas. O Brasil produziu alguns dos modelos mais marcantes do mundo — [Marlon Teixeira](https://www.instagram.com/marlontx/), [Juliana Nalu](https://www.instagram.com/juliananalu/), [Narah Baptista](https://www.instagram.com/narahbaptista/), Aaron Bueno, [Fabio Ventura](https://www.instagram.com/999_nt/), [Emilly Nunes](https://www.instagram.com/emillynunes/) e muitos outros. A variedade de looks, estilos e energia torna o casting aqui fácil e empolgante ao mesmo tempo.
 
 Por fim, o trabalho criativo brasileiro tem um DNA próprio. Em uma indústria obcecada pela mesmice global, o Brasil ousa ser contraditório, misturando tradição e tecnologia, seriedade e humor, profundidade cultural e apelo pop. É essa mistura que dá aos visuais brasileiros seu impacto emocional, e atrai marcas para filmar sua próxima campanha bem aqui.
 
