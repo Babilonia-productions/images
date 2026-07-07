@@ -22,7 +22,7 @@ Brazil's scale is continental. You can choose from:
 - **The Amazon rainforest**, a natural cathedral of greens and shadows.
 - **The vibrant cities of the South**, with architecture, street life, and modern rhythm.
 
-And let's not forget the people. Brazil has produced some of the most striking models in the world — [Marlon Teixeira](https://www.instagram.com/marlontx/), [Juliana Nalu](https://www.instagram.com/juliananalu/), [Narah Baptista](https://www.instagram.com/narahbaptista/), Aaron Bueno, Fabio Ventura, [Emilly Nunes](https://www.instagram.com/emillynunes/), and many more. The variety of looks, styles, and energy makes casting here both easy and exciting.
+And let's not forget the people. Brazil has produced some of the most striking models in the world — [Marlon Teixeira](https://www.instagram.com/marlontx/), [Juliana Nalu](https://www.instagram.com/juliananalu/), [Narah Baptista](https://www.instagram.com/narahbaptista/), Aaron Bueno, [Fabio Ventura](https://www.instagram.com/999_nt/), [Emilly Nunes](https://www.instagram.com/emillynunes/), and many more. The variety of looks, styles, and energy makes casting here both easy and exciting.
 
 Lastly, Brazilian creative work has a distinct DNA. In an industry obsessed with global sameness, Brazil dares to be contradictory, mixing tradition and technology, seriousness and humor, cultural depth and pop appeal. It's that mix that gives Brazilian visuals their emotional punch, and attracts brands to shoot their next campaign right here.
 
