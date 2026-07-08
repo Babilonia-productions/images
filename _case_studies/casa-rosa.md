@@ -6,7 +6,7 @@ order: 5
 client: "Casa Rosa"
 year: "2026"
 case_tags: ["Fashion", "Branded Content", "Photography", "Campaign"]
-summary: "A full production for Casa Rosa's swimwear line, shot across Rio's beaches and coastline around the brand's bold prints and sun-soaked color palette."
+summary: "A dreamy, nature-driven campaign for Casa Rosa shot on the quiet side of Rio, vintage silhouettes set into the sand, rock, and greenery of Praia Vermelha and Flamengo."
 gallery:
   - type: image
     src: /assets/img/work-graffiti.jpg
