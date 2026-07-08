@@ -1,11 +1,11 @@
 ---
 title: "Coolway"
-subtitle: "Footwear on Home Turf"
+subtitle: "Rio Campaign"
 tag: "CASE STUDY · FULL PRODUCTION"
 order: 6
 client: "Coolway"
 year: "2026"
-case_tags: ["Footwear", "Full Production", "Photography", "Campaign Film"]
+case_tags: ["Footwear", "Branded Content", "Photography", "Campaign"]
 summary: "A footwear campaign for Coolway shot across Rio, from the Copacabana seawall to a neighborhood soccer court."
 gallery:
   - type: image
@@ -47,31 +47,39 @@ credits:
     name: "Léa Prévot"
   - role: "Production"
     name: "Babilônia Productions"
+  - role: "Producers"
+    name: "Helene Doetsch & Fabio Ventura"
+  - role: "Assistant Producer"
+    name: "Lucia Pilar"
+  - role: "Edit & Color"
+    name: "Maxime Meucci"
   - role: "Styling"
     name: "Gabriel Menezes de Sousa & Cinia Pietrocola"
   - role: "Talent"
-    name: "Graziela Gandra"
-  - role: "Featuring"
-    name: "Soccer players from the Babilônia community"
+    name: "Graziela Gandra & Rafa Fonseca"
   - role: "Fixer"
     name: "Fabio Ventura"
+  - role: "Assistant"
+    name: "Cris Vigorito"
+  - role: "Security"
+    name: "Douglas Nogueira & Cleiton"
   - role: "Agency"
     name: "2manyriders"
 ---
 
 ## The Context
-### Shoes Are Made for Streets. So We Used Ours.
+### Shoes Made for Streets. Streets That Deliver.
 
-Footwear campaigns live or die on context: the shoe has to look like it belongs where it's standing. For Coolway, working with agency 2manyriders, the answer was to shoot the collection on Babilônia's home turf, literally. The production ran from the Copacabana seawall into the favela itself, the bakery, the bars, the alleys, and the neighborhood soccer court, places we don't need to scout because we walk through them every day.
+Coolway came to Rio through agency 2manyriders for a footwear campaign that needed more than one postcard shot, it needed the full range of the city. Babilônia handled production for a shoot that moved across Rio in a single arc: from the Copacabana seawall at sunrise, up to a favela viewpoint and its soccer court, and through the backstreets in between. Three worlds, one city, one pair of shoes carrying the story.
 
 ## The Approach
-### A Day in the Life, Frame by Frame.
+### From the Seawall to the Viewpoint.
 
-The campaign was built like a day in the neighborhood. Morning light on the seawall in Leme, then up into Babilônia's backstreets: a stoop here, a corner bar there, laundry lines and painted walls doing the art direction for free. Instead of extras from a casting agency, we brought in the real thing, a pickup game on the community court, five local players, a motorbike, a bicycle, the everyday traffic of the hill.
+The route was the concept. Footwear lives on the ground, so we built the campaign around the surfaces of Rio itself, the iconic Copacabana calçadão at first light, before the crowds; the raw energy of a neighborhood soccer court with the city spread out below; and the in-between spaces where Rio actually happens, the backstreets that don't make it onto tourist maps.
 
-That access is the whole trick. Shooting inside a favela with a full crew, product, and talent takes relationships that can't be rented for a day rate. Ours are permanent: the court, the bar, and the bakery said yes because they know us. The result is a campaign where the shoes sit inside real life, in motion, on concrete, in the game, instead of hovering over a seamless backdrop.
+Moving a production through that many locations in tight windows takes local fluency: sunrise timing on the seawall, access and trust in the favela, and a crew that can pack up and move fast without losing the light. Talent Graziela Gandra and Rafa Fonseca gave the campaign faces that belong in every one of those settings, and the mix of motion and stills captured a product genuinely at home on Rio's ground.
 
 ## The Outcome
-### Product in Motion, City in Frame.
+### One City. Every Surface Covered.
 
-Coolway got a full campaign package, stills and film, that moves the way the product is meant to: through streets, over courts, along the beach. Every frame carries the texture of a real neighborhood, and none of it needed set dressing. For Babilônia, it's the home-field case study, proof that when the location is where you're from, authenticity isn't a creative direction, it's the default.
+The campaign gave Coolway a footwear story with real range, beach glamour, street grit, and community energy in a single cohesive body of work, impossible to mistake for a studio production. For Babilônia, it's another chapter in a growing run of international campaigns produced end to end on our home turf: agencies bring the brand, we bring the city.

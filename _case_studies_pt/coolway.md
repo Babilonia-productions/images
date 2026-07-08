@@ -1,11 +1,11 @@
 ---
 title: "Coolway"
-subtitle: "Calçados em Casa"
+subtitle: "Campanha Rio"
 tag: "ESTUDO DE CASO · PRODUÇÃO COMPLETA"
 order: 6
 client: "Coolway"
 year: "2026"
-case_tags: ["Calçados", "Produção Completa", "Fotografia", "Filme de Campanha"]
+case_tags: ["Calçados", "Branded Content", "Fotografia", "Campanha"]
 summary: "Uma campanha de calçados para a Coolway rodada pelo Rio, do calçadão de Copacabana a uma quadra de futebol de bairro."
 gallery:
   - type: image
@@ -47,31 +47,39 @@ credits:
     name: "Léa Prévot"
   - role: "Produção"
     name: "Babilônia Productions"
+  - role: "Produtores"
+    name: "Helene Doetsch & Fabio Ventura"
+  - role: "Assistente de Produção"
+    name: "Lucia Pilar"
+  - role: "Edição & Cor"
+    name: "Maxime Meucci"
   - role: "Styling"
     name: "Gabriel Menezes de Sousa & Cinia Pietrocola"
-  - role: "Talento"
-    name: "Graziela Gandra"
-  - role: "Participação"
-    name: "Jogadores de futebol da comunidade da Babilônia"
+  - role: "Talentos"
+    name: "Graziela Gandra & Rafa Fonseca"
   - role: "Fixer"
     name: "Fabio Ventura"
+  - role: "Assistente"
+    name: "Cris Vigorito"
+  - role: "Segurança"
+    name: "Douglas Nogueira & Cleiton"
   - role: "Agência"
     name: "2manyriders"
 ---
 
 ## O Contexto
-### Sapato É Feito para a Rua. Então Usamos as Nossas.
+### Sapatos Feitos para a Rua. Ruas Que Entregam.
 
-Campanhas de calçado vivem ou morrem pelo contexto: o tênis precisa parecer que pertence ao lugar onde está pisando. Para a Coolway, em parceria com a agência 2manyriders, a resposta foi fotografar a coleção em casa, literalmente. A produção foi do calçadão de Copacabana para dentro da própria favela: a padaria, os bares, os becos e a quadra de futebol do bairro, lugares que não precisamos garimpar porque passamos por eles todos os dias.
+A Coolway chegou ao Rio pela agência 2manyriders para uma campanha de calçados que precisava de mais do que uma foto de cartão-postal: precisava de toda a amplitude da cidade. A Babilônia cuidou da produção de um ensaio que atravessou o Rio em um único arco: do calçadão de Copacabana ao nascer do sol, subindo até um mirante de favela e sua quadra de futebol, passando pelos becos no meio do caminho. Três mundos, uma cidade, um par de tênis carregando a história.
 
 ## A Abordagem
-### Um Dia na Vida, Quadro a Quadro.
+### Do Calçadão ao Mirante.
 
-A campanha foi construída como um dia no bairro. Luz da manhã no calçadão do Leme, depois subindo pelos becos da Babilônia: uma escada aqui, um boteco ali, varais e muros pintados fazendo a direção de arte de graça. Em vez de figurantes de agência, trouxemos a coisa real: uma pelada na quadra da comunidade, cinco jogadores locais, uma moto, uma bicicleta, o trânsito de todo dia do morro.
+O trajeto era o conceito. Calçado vive no chão, então construímos a campanha em torno das superfícies do próprio Rio: o icônico calçadão de Copacabana na primeira luz, antes das multidões; a energia crua de uma quadra de futebol de bairro com a cidade se espalhando lá embaixo; e os espaços intermediários onde o Rio de verdade acontece, os becos que não aparecem nos mapas turísticos.
 
-Esse acesso é o segredo inteiro. Fotografar dentro de uma favela com equipe completa, produto e talento exige relações que não se alugam por diária. As nossas são permanentes: a quadra, o bar e a padaria disseram sim porque nos conhecem. O resultado é uma campanha em que o tênis vive dentro da vida real, em movimento, no concreto, dentro do jogo, em vez de flutuar sobre um fundo infinito.
+Mover uma produção por tantas locações em janelas apertadas exige fluência local: o timing do nascer do sol no calçadão, acesso e confiança na favela, e uma equipe que desmonta e se desloca rápido sem perder a luz. Os talentos Graziela Gandra e Rafa Fonseca deram à campanha rostos que pertencem a cada um desses cenários, e a mistura de vídeo e fotos capturou um produto genuinamente em casa no chão do Rio.
 
 ## O Resultado
-### Produto em Movimento, Cidade no Quadro.
+### Uma Cidade. Todas as Superfícies Cobertas.
 
-A Coolway saiu com um pacote completo de campanha, fotos e filme, que se move do jeito que o produto foi feito para se mover: pelas ruas, pelas quadras, pela praia. Cada quadro carrega a textura de um bairro de verdade, e nada precisou de cenografia. Para a Babilônia, é o estudo de caso de jogar em casa: quando a locação é o lugar de onde você vem, autenticidade não é direção criativa, é o padrão.
+A campanha deu à Coolway uma história de calçados com amplitude de verdade: glamour de praia, aspereza de rua e energia de comunidade em um único corpo de trabalho coeso, impossível de confundir com uma produção de estúdio. Para a Babilônia, é mais um capítulo de uma sequência crescente de campanhas internacionais produzidas de ponta a ponta em casa: as agências trazem a marca, nós trazemos a cidade.
