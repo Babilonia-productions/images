@@ -1,11 +1,11 @@
 ---
 title: "Casa Rosa"
-subtitle: "Swimwear at First Light"
+subtitle: "Rio Campaign"
 tag: "CASE STUDY · BRAZIL PRODUCTION"
 order: 5
 client: "Casa Rosa"
 year: "2026"
-case_tags: ["Swimwear", "Fashion", "Photography", "Location Production"]
+case_tags: ["Fashion", "Branded Content", "Photography", "Campaign"]
 summary: "A full production for Casa Rosa's swimwear line, shot across Rio's beaches and coastline around the brand's bold prints and sun-soaked color palette."
 gallery:
   - type: image
@@ -38,31 +38,39 @@ credits:
     name: "Léa Prévot"
   - role: "Production"
     name: "Babilônia Productions"
+  - role: "Producers"
+    name: "Helene Doetsch & Fabio Ventura"
+  - role: "Assistant Producer"
+    name: "Lucia Pilar"
+  - role: "Edit & Color"
+    name: "Maxime Meucci"
   - role: "Styling"
-    name: "Gabriel Menezes de Sousa"
-  - role: "Make-up"
-    name: "Ygor Oliveira"
+    name: "Gabriel Menezes de Sousa & Cinia Pietrocola"
   - role: "Talent"
     name: "Graziela Gandra"
   - role: "Fixer"
-    name: "Douglas Nogueira"
+    name: "Fabio Ventura"
+  - role: "Assistant"
+    name: "Jeanne Portier"
+  - role: "Security"
+    name: "Douglas Nogueira & Cleiton"
   - role: "Agency"
     name: "2manyriders"
 ---
 
 ## The Context
-### Half a Day. A Whole Campaign.
+### The Quiet Side of Rio.
 
-Casa Rosa's swimwear lives on bold prints and a sun-soaked palette, and the brief asked Rio to match it. Working with agency 2manyriders, Babilônia produced a location shoot built around the two things the city does better than anywhere: first light on the water and color on every corner. The catch was the format, a half-day production, which meant every hour had to be planned down to the minute.
+Not every Rio campaign needs the crowds and the noise. For Casa Rosa, working with agency 2manyriders, the brief pointed the other way: dreamy, beachy, and nature-driven, away from the busy postcard beaches and into the softer corners of the city. Babilônia produced the shoot across Praia Vermelha and Flamengo, two locations where the mountains meet the water and Rio slows down.
 
 ## The Approach
-### Chase the Sunrise, Then Chase the Color.
+### Vintage Silhouettes, Rustic Nature.
 
-The day started before the city woke up: a 5 AM call, and by sunrise the swimwear looks were already in front of the camera at Praia Vermelha, the beach tucked beneath the Sugarloaf, where golden morning light hits sand, rock, and calm water all at once. Shooting at that hour bought us more than light, it bought us empty locations and total freedom to move.
+The collection set the tone: an 80s and 90s look that asked for a setting to match its nostalgia. Instead of recreating the era with props and sets, we placed it inside Rio's rustic nature, sand, rock, and greenery doing the work that a stylized backdrop never could. The vintage silhouettes slotted into the landscape like they'd always been there, giving the campaign the feeling of a found photograph rather than a produced one.
 
-When the sun climbed too high, the production moved with it, trading the coastline for the city's most colorful corners: painted walls, old botecos, and the streets between Flamengo and Largo do Machado. Against that backdrop, the prints did the talking. A lean crew, tight call sheet, and locations locked in advance meant the whole campaign wrapped before most productions finish breakfast.
+Praia Vermelha delivered the intimacy, a small cove framed by the Sugarloaf's granite, sheltered from the city's pace, while Flamengo added its tree cover and open waterfront. Shooting in these quieter locations meant working around public space, changing light, and tight windows, the kind of choreography that runs smoothly when the crew knows the terrain by heart.
 
 ## The Outcome
-### Big Campaign Energy, Half-Day Budget.
+### A Campaign That Feels Remembered, Not Staged.
 
-Casa Rosa walked away with a full swimwear campaign, beach, rocks, and city color, produced in a single morning. It's the kind of shoot that proves production value isn't about the size of the crew or the length of the day, it's about knowing exactly where to be and when. That knowledge is local by definition, and it's what Babilônia puts on every call sheet.
+The result is a body of work with a softness rare in fashion campaigns, dreamlike, sun-washed imagery where the clothes and the coastline share the same era. For Casa Rosa, it delivered a distinct visual identity built on mood rather than spectacle. And for Babilônia, it rounds out the range: from favela nights to remote beaches to the quiet coves in between, there's no version of Rio we can't produce.

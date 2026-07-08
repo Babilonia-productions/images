@@ -1,11 +1,11 @@
 ---
 title: "Casa Rosa"
-subtitle: "Moda Praia na Primeira Luz"
+subtitle: "Campanha Rio"
 tag: "ESTUDO DE CASO · PRODUÇÃO BRASIL"
 order: 5
 client: "Casa Rosa"
 year: "2026"
-case_tags: ["Moda Praia", "Moda", "Fotografia", "Locação"]
+case_tags: ["Moda", "Branded Content", "Fotografia", "Campanha"]
 summary: "Uma produção completa para a linha de moda praia da Casa Rosa, fotografada pelas praias e pelo litoral do Rio em torno das estampas marcantes e da paleta ensolarada da marca."
 gallery:
   - type: image
@@ -38,31 +38,39 @@ credits:
     name: "Léa Prévot"
   - role: "Produção"
     name: "Babilônia Productions"
+  - role: "Produtores"
+    name: "Helene Doetsch & Fabio Ventura"
+  - role: "Assistente de Produção"
+    name: "Lucia Pilar"
+  - role: "Edição & Cor"
+    name: "Maxime Meucci"
   - role: "Styling"
-    name: "Gabriel Menezes de Sousa"
-  - role: "Maquiagem"
-    name: "Ygor Oliveira"
+    name: "Gabriel Menezes de Sousa & Cinia Pietrocola"
   - role: "Talento"
     name: "Graziela Gandra"
   - role: "Fixer"
-    name: "Douglas Nogueira"
+    name: "Fabio Ventura"
+  - role: "Assistente"
+    name: "Jeanne Portier"
+  - role: "Segurança"
+    name: "Douglas Nogueira & Cleiton"
   - role: "Agência"
     name: "2manyriders"
 ---
 
 ## O Contexto
-### Meio Dia. Uma Campanha Inteira.
+### O Lado Silencioso do Rio.
 
-A moda praia da Casa Rosa vive de estampas marcantes e de uma paleta ensolarada, e o briefing pediu que o Rio estivesse à altura. Em parceria com a agência 2manyriders, a Babilônia produziu um ensaio em locação construído em torno das duas coisas que a cidade faz melhor do que qualquer outra: a primeira luz sobre a água e cor em cada esquina. O detalhe era o formato, uma produção de meio dia, o que significou planejar cada hora minuto a minuto.
+Nem toda campanha no Rio precisa das multidões e do barulho. Para a Casa Rosa, em parceria com a agência 2manyriders, o briefing apontou para o outro lado: onírico, praiano e guiado pela natureza, longe das praias-cartão-postal movimentadas e em direção aos cantos mais suaves da cidade. A Babilônia produziu o ensaio entre a Praia Vermelha e o Flamengo, duas locações onde as montanhas encontram a água e o Rio desacelera.
 
 ## A Abordagem
-### Persiga o Nascer do Sol, Depois Persiga a Cor.
+### Silhuetas Vintage, Natureza Rústica.
 
-O dia começou antes de a cidade acordar: chamada às 5 da manhã e, ao nascer do sol, os looks de moda praia já estavam diante da câmera na Praia Vermelha, a praia aos pés do Pão de Açúcar, onde a luz dourada da manhã atinge areia, pedra e mar calmo ao mesmo tempo. Fotografar naquela hora nos comprou mais do que luz: comprou locações vazias e liberdade total de movimento.
+A coleção deu o tom: um visual anos 80 e 90 que pedia um cenário à altura da sua nostalgia. Em vez de recriar a época com objetos de cena e sets, nós a colocamos dentro da natureza rústica do Rio: areia, pedra e verde fazendo o trabalho que um fundo estilizado nunca conseguiria. As silhuetas vintage se encaixaram na paisagem como se sempre tivessem estado ali, dando à campanha a sensação de uma fotografia encontrada, e não produzida.
 
-Quando o sol subiu demais, a produção se moveu com ele, trocando o litoral pelos cantos mais coloridos da cidade: muros pintados, botecos antigos e as ruas entre o Flamengo e o Largo do Machado. Contra esse cenário, as estampas falaram por si. Equipe enxuta, cronograma apertado e locações garantidas com antecedência fizeram a campanha inteira terminar antes de a maioria das produções acabar o café da manhã.
+A Praia Vermelha entregou a intimidade, uma pequena enseada emoldurada pelo granito do Pão de Açúcar, protegida do ritmo da cidade, enquanto o Flamengo somou sua copa de árvores e orla aberta. Fotografar nessas locações mais silenciosas significou trabalhar em espaço público, com luz em constante mudança e janelas apertadas, o tipo de coreografia que só roda lisa quando a equipe conhece o terreno de cor.
 
 ## O Resultado
-### Energia de Campanha Grande, Orçamento de Meio Dia.
+### Uma Campanha Que Parece Lembrada, Não Encenada.
 
-A Casa Rosa saiu com uma campanha completa de moda praia, praia, pedras e a cor da cidade, produzida em uma única manhã. É o tipo de ensaio que prova que valor de produção não é sobre o tamanho da equipe nem a duração do dia: é sobre saber exatamente onde estar e quando. Esse conhecimento é local por definição, e é o que a Babilônia coloca em cada ordem do dia.
+O resultado é um corpo de trabalho com uma suavidade rara em campanhas de moda: imagens oníricas, lavadas de sol, em que as roupas e o litoral compartilham a mesma época. Para a Casa Rosa, entregou uma identidade visual própria, construída sobre atmosfera em vez de espetáculo. E para a Babilônia, completa o repertório: das noites de favela às praias remotas e às enseadas silenciosas no meio do caminho, não existe versão do Rio que a gente não produza.
