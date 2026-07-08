@@ -15,15 +15,15 @@
   </a>
   <ul class="nav-links">
     {% if page.lang == "pt" %}
+    <li><a href="{{ '/pt/' | relative_url }}">Sobre</a></li>
     <li><a href="{{ '/pt/work/' | relative_url }}">Portfólio</a></li>
-    <li><a href="{{ '/pt/blog/' | relative_url }}">Blog</a></li>
-    <li><a href="{{ '/pt/#approach' | relative_url }}">Abordagem</a></li>
     <li><a href="{{ '/pt/#team' | relative_url }}">Equipe</a></li>
+    <li><a href="{{ '/pt/blog/' | relative_url }}">Blog</a></li>
     {% else %}
+    <li><a href="{{ '/' | relative_url }}">About</a></li>
     <li><a href="{{ '/work/' | relative_url }}">Portfolio</a></li>
-    <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-    <li><a href="{{ '/#approach' | relative_url }}">Approach</a></li>
     <li><a href="{{ '/#team' | relative_url }}">Team</a></li>
+    <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
     {% endif %}
   </ul>
   <div class="nav-right">
