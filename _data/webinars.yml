@@ -1,0 +1,20 @@
+# Webinars & podcast appearances.
+# Newest first. `youtube` is the video ID; thumbnails and links are derived from it.
+- youtube: "frYP18uDnCY"
+  date: 2026-07-03
+  show: "The AI Revolution Show"
+  title_en: "Building AI-Native Software and the Future of Sales"
+  title_pt: "Construindo Software AI-Native e o Futuro das Vendas"
+  guest: "Adam Liska"
+  host: "Alex Theuma"
+  blurb_en: "Adam Liska, co-founder and CEO of Airspeed (formerly Glyphic AI), sits down with Alex Theuma after a Series A and rebrand. Drawing on his time building Gemini at DeepMind, Adam explains why AI-native companies must rethink their architecture, why reliability beats peak model performance, and why the future of sales is humans working alongside agents."
+  blurb_pt: "Adam Liska, cofundador e CEO da Airspeed (antiga Glyphic AI), conversa com Alex Theuma após uma rodada Series A e um rebrand. Com base em sua experiência construindo o Gemini na DeepMind, Adam explica por que empresas AI-native precisam repensar sua arquitetura, por que confiabilidade importa mais do que desempenho de ponta e por que o futuro das vendas são humanos trabalhando ao lado de agentes."
+
+- youtube: "_W8hDfAgFa0"
+  show: "GTMnow"
+  title_en: "The Execution Gap: Where Pipeline Quietly Dies"
+  title_pt: "O Gap de Execução: Onde o Pipeline Morre em Silêncio"
+  guest: "Adam Liska"
+  host: "Sophie Buonassisi"
+  blurb_en: "\"I'll follow up on that\" is the most expensive sentence in sales. Adam Liska joins Sophie Buonassisi on GTMnow to break down the execution gap — the space between knowing what to do in a deal and actually doing it — what should be automated now, what stays human, and why this is about to be the golden age for sales reps."
+  blurb_pt: "\"Vou dar um retorno sobre isso\" é a frase mais cara em vendas. Adam Liska se junta a Sophie Buonassisi no GTMnow para destrinchar o gap de execução — o espaço entre saber o que fazer em um negócio e de fato fazê-lo — o que deve ser automatizado agora, o que permanece humano e por que esta pode ser a era de ouro para os vendedores."
