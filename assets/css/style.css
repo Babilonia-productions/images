@@ -897,6 +897,43 @@
 
   .index-card-excerpt { font-size: 15px; font-weight: 300; line-height: 1.7; color: var(--muted); }
 
+  /* WEBINAR CARD EXTRAS */
+  .index-card-media.is-video { position: relative; }
+  .index-card-media.is-video::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 68px;
+    height: 68px;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    background: rgba(20, 20, 20, 0.55);
+    transition: background 0.4s, transform 0.4s;
+  }
+  .index-card-media.is-video::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 2;
+    transform: translate(-40%, -50%);
+    border-style: solid;
+    border-width: 12px 0 12px 20px;
+    border-color: transparent transparent transparent var(--white);
+  }
+  .index-card:hover .index-card-media.is-video::after {
+    background: var(--crimson);
+    transform: translate(-50%, -50%) scale(1.08);
+  }
+  .webinar-meta {
+    font-size: 13px;
+    font-weight: 300;
+    color: var(--muted);
+    margin-bottom: 16px;
+  }
+  .webinar-meta strong { font-weight: 500; color: var(--black); }
+
   /* CASE STUDY / POST PAGE HEADER */
   .page-hero {
     padding: 160px 48px 60px;

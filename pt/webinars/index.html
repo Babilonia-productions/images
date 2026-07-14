@@ -1,0 +1,26 @@
+---
+layout: default
+title: "Webinars | Babilônia Productions"
+description: "Palestras, podcasts e participações em webinars da rede Babilônia Productions."
+permalink: /pt/webinars/
+---
+<section class="work" id="webinars-index" style="padding-top:160px;">
+  <div class="work-header fade-up">
+    <h2 class="work-title">Webinars &amp; <em>Palestras.</em></h2>
+    <p class="work-intro">Conversas, podcasts e participações em webinars de toda a rede.</p>
+  </div>
+
+  <div class="index-grid fade-up">
+    {% for w in site.data.webinars %}
+    <a class="index-card" href="https://www.youtube.com/watch?v={{ w.youtube }}" target="_blank" rel="noopener">
+      <div class="index-card-media is-video">
+        <img src="https://img.youtube.com/vi/{{ w.youtube }}/hqdefault.jpg" alt="{{ w.title_pt }}" loading="lazy">
+      </div>
+      <div class="index-card-tag">{{ w.show }}{% if w.date %} · {{ w.date | date: "%d.%m.%Y" }}{% endif %}</div>
+      <h3 class="index-card-title">{{ w.title_pt }}</h3>
+      <p class="webinar-meta"><strong>{{ w.guest }}</strong> com {{ w.host }}</p>
+      <p class="index-card-excerpt">{{ w.blurb_pt }}</p>
+    </a>
+    {% endfor %}
+  </div>
+</section>
