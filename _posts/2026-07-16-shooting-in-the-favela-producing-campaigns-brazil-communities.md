@@ -1,5 +1,5 @@
 ---
-title: "Shooting in the Favela: Yes or No to Producing Campaigns in Brazil's Communities?"
+title: "Filming in the Favela: Yes or No to Producing Campaigns in Brazil's Communities?"
 excerpt: "Rocinha's Porta do Céu was, for years, just a laje with a good view. Now it's one of the most shared backdrops in Rio — and brands keep showing up. The real question isn't whether to shoot in the favela. It's who gets hired, credited, and paid."
 ---
 Rocinha's Porta do Céu was, for years, just a laje with a good view. Now it's one of the most shared backdrops in Rio: drone footage of that rooftop, the ocean, and Dois Irmãos behind it has been circulating so widely on Instagram and TikTok that [The Telegraph and The Guardian both ran features](https://oglobo.globo.com/rio/noticia/2026/06/10/jornais-britanicos-repercutem-sucesso-turistico-da-rocinha-impulsionado-por-videos-de-drones-nas-redes-sociais.ghtml) on the tourism boom it's driving. A view that outsiders spent decades filing under "no-go zone" is now a postcard. That's what's possible when a favela gets pointed at with a camera instead of a warning label.
