@@ -17,12 +17,12 @@
     {% if page.lang == "pt" %}
     <li><a href="{{ '/pt/' | relative_url }}">Sobre</a></li>
     <li><a href="{{ '/pt/work/' | relative_url }}">Portfólio</a></li>
-    <li><a href="{{ '/pt/#team' | relative_url }}">Equipe</a></li>
+    {% comment %}<li><a href="{{ '/pt/#team' | relative_url }}">Equipe</a></li>{% endcomment %}
     <li><a href="{{ '/pt/blog/' | relative_url }}">Blog</a></li>
     {% else %}
     <li><a href="{{ '/' | relative_url }}">About</a></li>
     <li><a href="{{ '/work/' | relative_url }}">Portfolio</a></li>
-    <li><a href="{{ '/#team' | relative_url }}">Team</a></li>
+    {% comment %}<li><a href="{{ '/#team' | relative_url }}">Team</a></li>{% endcomment %}
     <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
     {% endif %}
   </ul>
