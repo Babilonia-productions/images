@@ -29,7 +29,7 @@
     <ul class="footer-links">
       <li><a href="{{ '/pt/work/' | relative_url }}">O Que Fazemos</a></li>
       <li><a href="{{ '/pt/#approach' | relative_url }}">Por Que Nós</a></li>
-      <li><a href="{{ '/pt/#team' | relative_url }}">Equipe</a></li>
+      {% comment %}<li><a href="{{ '/pt/#team' | relative_url }}">Equipe</a></li>{% endcomment %}
       <li><a href="{{ '/pt/blog/' | relative_url }}">Blog</a></li>
     </ul>
     {% else %}
@@ -37,7 +37,7 @@
     <ul class="footer-links">
       <li><a href="{{ '/work/' | relative_url }}">What We Do</a></li>
       <li><a href="{{ '/#approach' | relative_url }}">Why Us</a></li>
-      <li><a href="{{ '/#team' | relative_url }}">Team</a></li>
+      {% comment %}<li><a href="{{ '/#team' | relative_url }}">Team</a></li>{% endcomment %}
       <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
     </ul>
     {% endif %}
