@@ -7,6 +7,8 @@ client: "Nike / NOCTA"
 year: "2026"
 case_tags: ["Scout de Talentos", "Produção de Locação", "Moda", "Campanha"]
 summary: "Ajudamos a produzir a campanha NOCTA Cardinal Summer da Nike no Rio. Casting direto da favela, sem agências, sem model cards."
+og_image: /assets/img/og/nike-nocta.jpg
+og_image_alt: "Retratos da campanha Nike NOCTA, com casting direto da favela no Rio"
 stats:
   - "39,5 mil curtidas"
   - "379 comentários"

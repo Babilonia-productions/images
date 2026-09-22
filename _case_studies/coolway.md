@@ -7,6 +7,8 @@ client: "Coolway"
 year: "2026"
 case_tags: ["Footwear", "Branded Content", "Photography", "Campaign"]
 summary: "A footwear campaign for Coolway shot across Rio, from the Copacabana seawall to a neighborhood soccer court."
+og_image: /assets/img/og/coolway.jpg
+og_image_alt: "Coolway campaign, morning light on the Copacabana seawall"
 gallery:
   - type: image
     src: /assets/img/COOLWAY-124.jpg

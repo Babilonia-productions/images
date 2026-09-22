@@ -7,6 +7,8 @@ client: "DSQUARED2"
 year: "2026"
 case_tags: ["Fashion", "Branded Content", "Photography", "Campaign Film"]
 summary: "A nighttime SS26 swimwear and underwear campaign shot across Rio's Babilônia favela, heat, boldness, and a setting no studio could replicate."
+og_image: /assets/img/og/dsquared2.jpg
+og_image_alt: "Dsquared2 SS26 campaign shot at night in Rio's Babilônia favela"
 stats:
   - "50+ Photos"
   - "3 Fashion Films"

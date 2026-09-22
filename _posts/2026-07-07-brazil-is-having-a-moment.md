@@ -1,6 +1,8 @@
 ---
 title: "Brazil Is Having a Moment: How to Shoot Your Next Campaign Here"
 excerpt: "Between Rabanne's electric summer campaign in Rio and Byredo's \"Alto Astral,\" international brands are rediscovering the country's colorful energy, lush landscapes, and unshakable sense of joy."
+og_image: /assets/img/og/post-brazil-moment.jpg
+og_image_alt: "A Rio fashion campaign shot at Praia Vermelha beneath Pão de Açúcar"
 ---
 Brazil is having a moment.
 

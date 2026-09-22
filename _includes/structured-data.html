@@ -1,0 +1,161 @@
+{%- comment -%}
+  JSON-LD for search engines and answer engines.
+
+  Emits one @graph per page: the Organization and WebSite nodes on every page
+  (stable @ids so the entity resolves consistently), plus a node describing
+  the page itself — BlogPosting for posts, CreativeWork for case studies —
+  and a BreadcrumbList for nested pages.
+
+  Called with explicit parameters so it never depends on assigns made in
+  other includes:
+    {% include structured-data.html description=... image=... %}
+{%- endcomment -%}
+
+{%- assign org_id = "/#organization" | absolute_url -%}
+{%- assign site_id = "/#website" | absolute_url -%}
+{%- assign page_url = page.url | absolute_url -%}
+{%- assign page_image = include.image | absolute_url -%}
+{%- if page.lang == "pt" -%}
+  {%- assign content_language = "pt-BR" -%}
+  {%- assign home_label = "Início" -%}
+  {%- assign work_label = "Trabalho" -%}
+  {%- assign blog_label = "Notícias" -%}
+  {%- assign work_url = "/pt/work/" -%}
+  {%- assign blog_url = "/pt/blog/" -%}
+  {%- assign home_url = "/pt/" -%}
+{%- else -%}
+  {%- assign content_language = "en" -%}
+  {%- assign home_label = "Home" -%}
+  {%- assign work_label = "Work" -%}
+  {%- assign blog_label = "News" -%}
+  {%- assign work_url = "/work/" -%}
+  {%- assign blog_url = "/blog/" -%}
+  {%- assign home_url = "/" -%}
+{%- endif -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": {{ org_id | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "legalName": "Babilônia Productions LTDA",
+      "alternateName": "Babilonia Productions",
+      "url": {{ "/" | absolute_url | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "foundingDate": "2024",
+      "taxID": "60.863.163/0001-20",
+      "email": "contact@babiloniaproductions.com",
+      "telephone": "+55-21-97743-3092",
+      "logo": {
+        "@type": "ImageObject",
+        "url": {{ "/assets/img/brand/logo.png" | absolute_url | jsonify }},
+        "width": 512,
+        "height": 512
+      },
+      "image": {{ "/assets/img/og/default.jpg" | absolute_url | jsonify }},
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua Gustavo Sampaio",
+        "addressLocality": "Leme, Rio de Janeiro",
+        "addressRegion": "RJ",
+        "addressCountry": "BR"
+      },
+      "knowsLanguage": ["en", "pt-BR"],
+      "areaServed": {
+        "@type": "Country",
+        "name": "Brazil"
+      },
+      "sameAs": [
+        "https://www.instagram.com/babiloniaproductions/",
+        "https://www.youtube.com/@Babiloniaproductions"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ site_id | jsonify }},
+      "url": {{ "/" | absolute_url | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "inLanguage": ["en", "pt-BR"],
+      "publisher": { "@id": {{ org_id | jsonify }} }
+    }
+    {%- if page.layout == "case-study" -%},
+    {
+      "@type": "CreativeWork",
+      "@id": {{ page_url | append: "#work" | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      {%- if page.subtitle %}
+      "alternativeHeadline": {{ page.subtitle | jsonify }},
+      {%- endif %}
+      "description": {{ include.description | jsonify }},
+      "image": {{ page_image | jsonify }},
+      "inLanguage": {{ content_language | jsonify }},
+      {%- if page.year %}
+      "dateCreated": {{ page.year | jsonify }},
+      {%- endif %}
+      {%- if page.case_tags %}
+      "keywords": {{ page.case_tags | join: ", " | jsonify }},
+      {%- endif %}
+      {%- if page.client %}
+      "about": {
+        "@type": "Brand",
+        "name": {{ page.client | jsonify }}
+      },
+      {%- endif %}
+      "creator": { "@id": {{ org_id | jsonify }} },
+      "publisher": { "@id": {{ org_id | jsonify }} },
+      "isPartOf": { "@id": {{ site_id | jsonify }} }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": {{ page_url | append: "#breadcrumb" | jsonify }},
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": {{ home_label | jsonify }}, "item": {{ home_url | absolute_url | jsonify }} },
+        { "@type": "ListItem", "position": 2, "name": {{ work_label | jsonify }}, "item": {{ work_url | absolute_url | jsonify }} },
+        { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }} }
+      ]
+    }
+    {%- elsif page.layout == "post" -%},
+    {
+      "@type": "BlogPosting",
+      "@id": {{ page_url | append: "#post" | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "mainEntityOfPage": { "@type": "WebPage", "@id": {{ page_url | jsonify }} },
+      "headline": {{ page.title | truncate: 110 | jsonify }},
+      "description": {{ include.description | jsonify }},
+      "image": {{ page_image | jsonify }},
+      "inLanguage": {{ content_language | jsonify }},
+      "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+      "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
+      "author": { "@id": {{ org_id | jsonify }} },
+      "publisher": { "@id": {{ org_id | jsonify }} },
+      "isPartOf": { "@id": {{ site_id | jsonify }} }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": {{ page_url | append: "#breadcrumb" | jsonify }},
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": {{ home_label | jsonify }}, "item": {{ home_url | absolute_url | jsonify }} },
+        { "@type": "ListItem", "position": 2, "name": {{ blog_label | jsonify }}, "item": {{ blog_url | absolute_url | jsonify }} },
+        { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }} }
+      ]
+    }
+    {%- else -%},
+    {
+      "@type": "WebPage",
+      "@id": {{ page_url | append: "#webpage" | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | default: site.title | jsonify }},
+      "description": {{ include.description | jsonify }},
+      "image": {{ page_image | jsonify }},
+      "inLanguage": {{ content_language | jsonify }},
+      "isPartOf": { "@id": {{ site_id | jsonify }} },
+      "about": { "@id": {{ org_id | jsonify }} }
+    }
+    {%- endif -%}
+  ]
+}
+</script>

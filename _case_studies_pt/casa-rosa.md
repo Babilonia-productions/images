@@ -7,6 +7,8 @@ client: "Casa Rosa"
 year: "2026"
 case_tags: ["Moda", "Branded Content", "Fotografia", "Campanha"]
 summary: "Uma campanha onírica e guiada pela natureza para a Casa Rosa, fotografada no lado silencioso do Rio: silhuetas vintage na areia, na pedra e no verde da Praia Vermelha e do Flamengo."
+og_image: /assets/img/og/casa-rosa.jpg
+og_image_alt: "Campanha da Casa Rosa: silhuetas vintage diante de uma parede vermelha no Rio"
 gallery:
   - type: image
     src: /assets/img/work-graffiti.jpg

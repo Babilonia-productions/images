@@ -7,6 +7,8 @@ client: "Magali Pascal"
 year: "2026"
 case_tags: ["Moda", "Conteúdo de Marca", "Fotografia", "Fashion Film"]
 summary: "Uma boutique de luxo de Bali lança a ALEGRIA no Rio: imagens elegantes e sensuais feitas em Ipanema, no Centro Histórico e na Urca — e uma coleção que esgotou rapidamente."
+og_image: /assets/img/og/magali-pascal.jpg
+og_image_alt: "Campanha ALEGRIA da Magali Pascal na Praia Vermelha, sob o Pão de Açúcar"
 gallery:
   - type: image
     src: /assets/img/magali-pascal-03.jpg

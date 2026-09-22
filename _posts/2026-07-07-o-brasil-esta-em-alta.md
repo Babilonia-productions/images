@@ -1,6 +1,8 @@
 ---
 title: "O Brasil Está em Alta: Como Produzir Sua Próxima Campanha Aqui"
 excerpt: "Entre a campanha elétrica de verão da Rabanne no Rio e o \"Alto Astral\" da Byredo, marcas internacionais estão redescobrindo a energia colorida do país, suas paisagens exuberantes e sua inabalável alegria."
+og_image: /assets/img/og/post-brazil-moment.jpg
+og_image_alt: "Campanha de moda no Rio fotografada na Praia Vermelha, sob o Pão de Açúcar"
 lang: pt
 permalink: /pt/blog/brazil-is-having-a-moment/
 ---

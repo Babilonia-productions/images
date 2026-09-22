@@ -1,0 +1,14 @@
+---
+layout: null
+permalink: /robots.txt
+sitemap: false
+---
+User-agent: *
+Allow: /
+
+# Pull request preview builds are deployed under /preview/pr-N/ and carry a
+# noindex tag; keep crawlers out of them so they never compete with the
+# production pages for the same content.
+Disallow: /preview/
+
+Sitemap: {{ "/sitemap.xml" | absolute_url }}
