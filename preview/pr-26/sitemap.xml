@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://babiloniaproductions.com/preview/pr-26/blog/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-26/blog/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-26/pt/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-26/blog/"/>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-26/work/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-26/work/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-26/pt/work/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-26/work/"/>
-  </url>
-  <url>
     <loc>https://babiloniaproductions.com/preview/pr-26/pt/blog/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-26/blog/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-26/pt/blog/"/>
@@ -30,6 +18,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-26/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-26/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-26/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/preview/pr-26/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-26/blog/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-26/pt/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-26/blog/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/preview/pr-26/work/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-26/work/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-26/pt/work/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-26/work/"/>
   </url>
   <url>
     <loc>https://babiloniaproductions.com/preview/pr-26/</loc>
