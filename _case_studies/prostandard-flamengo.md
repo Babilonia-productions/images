@@ -7,6 +7,8 @@ client: "ProStandard"
 year: "2026"
 case_tags: ["Sportswear", "Branded Content", "Photography", "Campaign"]
 summary: "An NFL × Flamengo collaboration for ProStandard, taken from first idea to full execution in seven days: six models, four locations, one shoot day."
+og_image: /assets/img/og/prostandard-flamengo.jpg
+og_image_alt: "The full ProStandard NFL × Flamengo cast on the Rio beachfront under the palms"
 stats:
   - "7 Days, Idea to Execution"
   - "6 Models · 4 Locations"

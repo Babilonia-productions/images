@@ -7,6 +7,8 @@ client: "Ernest Leoty"
 year: "2026"
 case_tags: ["Moda", "Produção Completa", "Fotografia", "Locação"]
 summary: "Um ensaio guiado pelas locações e construído com as texturas do próprio Rio: pedra clareada pelo sol, copa das árvores e céu aberto no lugar do estúdio."
+og_image: /assets/img/og/ernest-leoty.jpg
+og_image_alt: "Campanha SS26 da Ernest Leoty nas pedras de uma praia do Rio"
 gallery:
   - type: video
     src: /assets/video/ernest-leoty.mp4

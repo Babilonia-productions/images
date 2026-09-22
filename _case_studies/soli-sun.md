@@ -7,6 +7,8 @@ client: "Soli & Sun"
 year: "2025"
 case_tags: ["Accessories", "Remote Production", "Photography", "Branded Content"]
 summary: "A full production built around one accessory: the bag. We brought it to the most iconic places in Rio, as travelers would in the city."
+og_image: /assets/img/og/soli-sun.jpg
+og_image_alt: "Soli&Sun campaign, the bag at a Rio street market"
 gallery:
   - type: image
     src: /assets/img/soli-sun-01.jpg

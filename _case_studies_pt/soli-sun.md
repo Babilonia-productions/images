@@ -7,6 +7,8 @@ client: "Soli & Sun"
 year: "2025"
 case_tags: ["Acessórios", "Produção Remota", "Fotografia", "Branded Content"]
 summary: "Uma produção completa construída em torno de um acessório: a bolsa. Nós a levamos aos lugares mais icônicos do Rio, como fariam os viajantes na cidade."
+og_image: /assets/img/og/soli-sun.jpg
+og_image_alt: "Campanha da Soli&Sun: a bolsa em um mercado de rua no Rio"
 gallery:
   - type: image
     src: /assets/img/soli-sun-01.jpg

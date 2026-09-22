@@ -7,6 +7,8 @@ client: "Floyd"
 year: "2026"
 case_tags: ["Accessories", "Branded Content", "Photography", "Fashion Film"]
 summary: "Floyd's campaigns are all about \"bringing the mojo back\". For this one, we set up a chessboard on Ipanema beach and shot the whole thing on 16mm film."
+og_image: /assets/img/og/floyd.jpg
+og_image_alt: "Floyd campaign, a chess game set up on Ipanema beach and shot on 16mm film"
 gallery:
   - type: video
     src: /assets/video/floyd.mp4

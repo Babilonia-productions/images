@@ -7,6 +7,8 @@ client: "ProStandard"
 year: "2026"
 case_tags: ["Sportswear", "Conteúdo de Marca", "Fotografia", "Campanha"]
 summary: "Uma collab NFL × Flamengo para a ProStandard, da primeira ideia à execução completa em sete dias: seis modelos, quatro locações, um dia de gravação."
+og_image: /assets/img/og/prostandard-flamengo.jpg
+og_image_alt: "O elenco completo da campanha ProStandard NFL × Flamengo na orla do Rio, sob as palmeiras"
 stats:
   - "7 Dias, da Ideia à Execução"
   - "6 Modelos · 4 Locações"

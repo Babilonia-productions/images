@@ -41,6 +41,7 @@ defaults:
       lang: "en"
 
 exclude:
+  - tools
   - "BulkResizePhotos.com-7.zip"
   - "0703(4).mp4"
   - "Screen Recording 2026-07-03 at 11.48.43.mov"

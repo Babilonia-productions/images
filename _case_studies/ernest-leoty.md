@@ -7,6 +7,8 @@ client: "Ernest Leoty"
 year: "2026"
 case_tags: ["Fashion", "Full Production", "Photography", "Location Shoot"]
 summary: "A location-driven shoot built around Rio's own textures: sun-bleached rock, tree cover, and open sky standing in for a studio."
+og_image: /assets/img/og/ernest-leoty.jpg
+og_image_alt: "Ernest Leoty SS26 campaign on the rocks of a Rio beach"
 gallery:
   - type: video
     src: /assets/video/ernest-leoty.mp4

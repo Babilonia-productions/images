@@ -7,6 +7,8 @@ client: "Coolway"
 year: "2026"
 case_tags: ["Calçados", "Branded Content", "Fotografia", "Campanha"]
 summary: "Uma campanha de calçados para a Coolway rodada pelo Rio, do calçadão de Copacabana a uma quadra de futebol de bairro."
+og_image: /assets/img/og/coolway.jpg
+og_image_alt: "Campanha da Coolway: luz da manhã no calçadão de Copacabana"
 gallery:
   - type: image
     src: /assets/img/COOLWAY-124.jpg

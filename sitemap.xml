@@ -1,0 +1,59 @@
+---
+layout: null
+permalink: /sitemap.xml
+sitemap: false
+---
+{%- comment -%}
+  Hand-rolled because the build runs a bare `gem install jekyll` with no
+  Gemfile, so jekyll-sitemap isn't available.
+
+  Lists every page whose URL is a directory (which excludes robots.txt and
+  this file) and that hasn't opted out with `sitemap: false`. Each entry
+  carries xhtml:link alternates when a translation actually exists, so
+  Google pairs the EN and PT versions instead of reading them as duplicates.
+
+  changefreq and priority are deliberately omitted — Google and Bing ignore
+  both. lastmod is emitted only where we have a real date to give.
+{%- endcomment -%}
+{%- assign all_docs = site.pages | concat: site.posts | concat: site.case_studies | concat: site.case_studies_pt -%}
+{%- assign all_urls = all_docs | map: "url" -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{%- for doc in all_docs -%}
+{%- assign last_char = doc.url | slice: -1 -%}
+{%- if doc.sitemap == false or last_char != "/" -%}{%- continue -%}{%- endif -%}
+{%- if doc.lang == "pt" -%}
+  {%- assign en_url = doc.url | remove_first: "/pt" -%}
+  {%- if en_url == "" -%}{%- assign en_url = "/" -%}{%- endif -%}
+  {%- assign pt_url = doc.url -%}
+{%- else -%}
+  {%- assign en_url = doc.url -%}
+  {%- capture pt_url %}/pt{{ doc.url }}{% endcapture -%}
+{%- endif -%}
+{%- comment -%}
+  Only posts have a real date. Collection documents and pages inherit one
+  from the build, so emitting that would hand Google a lastmod that changes
+  on every deploy whether or not the page did.
+{%- endcomment -%}
+{%- assign has_modified = false -%}
+{%- if doc.last_modified_at -%}
+  {%- assign modified = doc.last_modified_at -%}
+  {%- assign has_modified = true -%}
+{%- elsif doc.layout == "post" and doc.date -%}
+  {%- assign modified = doc.date -%}
+  {%- assign has_modified = true -%}
+{%- endif %}
+  <url>
+    <loc>{{ doc.url | absolute_url | xml_escape }}</loc>
+{%- if has_modified %}
+    <lastmod>{{ modified | date_to_xmlschema }}</lastmod>
+{%- endif %}
+{%- if all_urls contains en_url and all_urls contains pt_url %}
+    <xhtml:link rel="alternate" hreflang="en" href="{{ en_url | absolute_url | xml_escape }}"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="{{ pt_url | absolute_url | xml_escape }}"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ en_url | absolute_url | xml_escape }}"/>
+{%- endif %}
+  </url>
+{%- endfor %}
+</urlset>

@@ -7,6 +7,8 @@ client: "Casa Rosa"
 year: "2026"
 case_tags: ["Fashion", "Branded Content", "Photography", "Campaign"]
 summary: "A dreamy, nature-driven campaign for Casa Rosa shot on the quiet side of Rio, vintage silhouettes set into the sand, rock, and greenery of Praia Vermelha and Flamengo."
+og_image: /assets/img/og/casa-rosa.jpg
+og_image_alt: "Casa Rosa campaign, vintage silhouettes against a red wall in Rio"
 gallery:
   - type: image
     src: /assets/img/work-graffiti.jpg

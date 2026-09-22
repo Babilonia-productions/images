@@ -7,6 +7,8 @@ client: "DSQUARED2"
 year: "2026"
 case_tags: ["Moda", "Conteúdo de Marca", "Fotografia", "Filme de Campanha"]
 summary: "Uma campanha noturna SS26 de moda praia e underwear rodada na favela da Babilônia, no Rio: calor, ousadia e um cenário que nenhum estúdio conseguiria replicar."
+og_image: /assets/img/og/dsquared2.jpg
+og_image_alt: "Campanha SS26 da Dsquared2, fotografada à noite na favela da Babilônia, no Rio"
 stats:
   - "50+ Fotos"
   - "3 Fashion Films"

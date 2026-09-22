@@ -7,6 +7,8 @@ client: "Floyd"
 year: "2026"
 case_tags: ["Acessórios", "Conteúdo de Marca", "Fotografia", "Fashion Film"]
 summary: "As campanhas da Floyd são sobre \"trazer o mojo de volta\". Nesta, montamos um tabuleiro de xadrez na praia de Ipanema e filmamos tudo em película 16mm."
+og_image: /assets/img/og/floyd.jpg
+og_image_alt: "Campanha da Floyd: um tabuleiro de xadrez montado na praia de Ipanema, filmado em 16mm"
 gallery:
   - type: video
     src: /assets/video/floyd.mp4
