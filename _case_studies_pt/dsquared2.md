@@ -2,7 +2,7 @@
 title: "Dsquared2"
 subtitle: "Campanha SS26 de Moda Praia & Underwear"
 tag: "ESTUDO DE CASO · SS26"
-order: 7
+order: 8
 client: "DSQUARED2"
 year: "2026"
 case_tags: ["Moda", "Conteúdo de Marca", "Fotografia", "Filme de Campanha"]

@@ -2,7 +2,7 @@
 title: "Casa Rosa"
 subtitle: "Rio Campaign"
 tag: "CASE STUDY · BRAZIL PRODUCTION"
-order: 5
+order: 6
 client: "Casa Rosa"
 year: "2026"
 case_tags: ["Fashion", "Branded Content", "Photography", "Campaign"]

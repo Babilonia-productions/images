@@ -2,7 +2,7 @@
 title: "Soli&Sun"
 subtitle: "The Bag in Rio"
 tag: "CASE STUDY · REMOTE PRODUCTION"
-order: 3
+order: 4
 client: "Soli & Sun"
 year: "2025"
 case_tags: ["Accessories", "Remote Production", "Photography", "Branded Content"]

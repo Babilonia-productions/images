@@ -2,7 +2,7 @@
 title: "Coolway"
 subtitle: "Rio Campaign"
 tag: "CASE STUDY · FULL PRODUCTION"
-order: 6
+order: 7
 client: "Coolway"
 year: "2026"
 case_tags: ["Footwear", "Branded Content", "Photography", "Campaign"]
