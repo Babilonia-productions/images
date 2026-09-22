@@ -11,7 +11,7 @@ og_image: /assets/img/og/prostandard-flamengo.jpg
 og_image_alt: "The full ProStandard NFL × Flamengo cast on the Rio beachfront under the palms"
 stats:
   - "Qual Jogo? Os Dois"
-  - "9 Faces · Real Rio"
+  - "6 Faces · Real Rio"
   - "7 Days, Idea to Production"
 gallery:
   - type: image
@@ -91,7 +91,7 @@ The challenge came attached. Seven days from the first conversation to the camer
 
 With director Roger Castillo and DOP Fernando Duarte, we took the collection out into the city instead of building a version of the city indoors. A rooftop above the hillside. A favela court. Spots anyone from here recognizes on sight. Ipanema at its most unmistakable.
 
-Nine faces carrying the pieces, and everyday life moving behind every frame — no cleared streets, no dressed extras, no attempt to tidy Rio into a backdrop. The city stays itself, and the collection has to hold its own inside it.
+Six faces carrying the pieces, and everyday life moving behind every frame — no cleared streets, no dressed extras, no attempt to tidy Rio into a backdrop. The city stays itself, and the collection has to hold its own inside it.
 
 The finish stays premium and minimal against all of that: high fashion set against real life, the clothes given room while the street keeps moving. That contrast is the whole point, and a studio would have flattened it.
 
@@ -104,6 +104,6 @@ The thing we hadn't planned for was the pieces stopping traffic. Red and black o
 ## The Outcome
 ### Both Games, One City.
 
-Seven days from idea to production, and nothing in the finished work to suggest it: two of the most recognizable identities in sport sharing the same streets, the same light, the same nine faces. Rooted in Rio rather than staged in it.
+Seven days from idea to production, and nothing in the finished work to suggest it: two of the most recognizable identities in sport sharing the same streets, the same light, the same six faces. Rooted in Rio rather than staged in it.
 
 And the question gets its answer in the last shot, when everyone comes onto the pitch together. Qual jogo? Os dois.

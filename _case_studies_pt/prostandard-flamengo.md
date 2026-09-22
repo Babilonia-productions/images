@@ -11,7 +11,7 @@ og_image: /assets/img/og/prostandard-flamengo.jpg
 og_image_alt: "O elenco completo da campanha ProStandard NFL × Flamengo na orla do Rio, sob as palmeiras"
 stats:
   - "Qual Jogo? Os Dois"
-  - "9 Rostos · Rio de Verdade"
+  - "6 Rostos · Rio de Verdade"
   - "7 Dias, da Ideia à Produção"
 gallery:
   - type: image
@@ -91,7 +91,7 @@ O desafio veio junto. Sete dias entre a primeira conversa e a câmera rodando, c
 
 Com o diretor Roger Castillo e o DOP Fernando Duarte, levamos a coleção para a cidade em vez de construir uma versão da cidade dentro de um estúdio. Um rooftop acima do morro. Uma quadra de favela. Pontos que qualquer um daqui reconhece de primeira. Ipanema no seu registro mais inconfundível.
 
-Nove rostos vestindo as peças, e a vida cotidiana passando atrás de cada quadro — nenhuma rua fechada, nenhum figurante vestido, nenhuma tentativa de arrumar o Rio para virar fundo. A cidade continua sendo ela mesma, e a coleção tem que se sustentar dentro disso.
+Seis rostos vestindo as peças, e a vida cotidiana passando atrás de cada quadro — nenhuma rua fechada, nenhum figurante vestido, nenhuma tentativa de arrumar o Rio para virar fundo. A cidade continua sendo ela mesma, e a coleção tem que se sustentar dentro disso.
 
 O acabamento se mantém premium e minimalista em cima de tudo isso: alta moda contra a vida real, com espaço para as peças enquanto a rua segue andando. Esse contraste é o ponto, e um estúdio teria achatado tudo.
 
@@ -104,6 +104,6 @@ O que a gente não tinha previsto foi as peças pararem a rua. Vermelho e preto 
 ## O Resultado
 ### Os Dois Jogos, Uma Cidade.
 
-Sete dias da ideia à produção, e nada no resultado final que entregue isso: duas das identidades mais reconhecíveis do esporte dividindo as mesmas ruas, a mesma luz, os mesmos nove rostos. Enraizada no Rio, não montada nele.
+Sete dias da ideia à produção, e nada no resultado final que entregue isso: duas das identidades mais reconhecíveis do esporte dividindo as mesmas ruas, a mesma luz, os mesmos seis rostos. Enraizada no Rio, não montada nele.
 
 E a pergunta ganha resposta no último plano, quando todo mundo entra em campo junto. Qual jogo? Os dois.
