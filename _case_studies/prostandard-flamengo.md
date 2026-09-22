@@ -1,18 +1,18 @@
 ---
 title: "ProStandard"
-subtitle: "NFL × Flamengo, Across Rio in Seven Days"
+subtitle: "NFL × Flamengo, Idea to Production in Seven Days"
 tag: "CASE STUDY · FULL PRODUCTION"
 order: 0
 client: "ProStandard"
 year: "2026"
 case_tags: ["Sportswear", "Branded Content", "Photography", "Campaign"]
-summary: "An NFL × Flamengo collection for ProStandard, built around the one question every carioca was already asking — American football or futebol — and shot across the real Rio in seven days from first conversation to delivery."
+summary: "An NFL × Flamengo collection for ProStandard, built around the one question every carioca was already asking — American football or futebol — and shot across the real Rio seven days after the first conversation."
 og_image: /assets/img/og/prostandard-flamengo.jpg
 og_image_alt: "The full ProStandard NFL × Flamengo cast on the Rio beachfront under the palms"
 stats:
   - "Qual Jogo? Os Dois"
   - "9 Faces · Real Rio"
-  - "7 Days, Idea to Delivery"
+  - "7 Days, Idea to Production"
 gallery:
   - type: image
     src: /assets/img/prostandard-01.jpg
@@ -84,7 +84,7 @@ credits:
 
 American football or futebol. For an NFL × Flamengo collection, that was the question every carioca was already asking — half a joke, half a real loyalty test — and answering it was the brief. Not settling it. Answering it: os dois.
 
-The challenge came attached. Seven days from the first conversation to finished assets, with casting, locations, the shoot and delivery all inside that window — the stretch most productions this size spend on pre-production alone. Which meant the idea had to be right on the first pass, because there was no second one.
+The challenge came attached. Seven days from the first conversation to the camera rolling, with the concept, the casting, the locations and the whole schedule inside that window — the stretch most productions this size spend on pre-production alone. Which meant the idea had to be right on the first pass, because there was no second one.
 
 ## The Approach
 ### The Real Rio, Not a Set.
@@ -104,6 +104,6 @@ The thing we hadn't planned for was the pieces stopping traffic. Red and black o
 ## The Outcome
 ### Both Games, One City.
 
-Full campaign delivered on schedule, with nothing in the finished work to suggest how fast it moved: two of the most recognizable identities in sport sharing the same streets, the same light, the same nine faces. Rooted in Rio rather than staged in it.
+Seven days from idea to production, and nothing in the finished work to suggest it: two of the most recognizable identities in sport sharing the same streets, the same light, the same nine faces. Rooted in Rio rather than staged in it.
 
 And the question gets its answer in the last shot, when everyone comes onto the pitch together. Qual jogo? Os dois.

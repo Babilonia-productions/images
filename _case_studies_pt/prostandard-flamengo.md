@@ -1,18 +1,18 @@
 ---
 title: "ProStandard"
-subtitle: "NFL × Flamengo, pelo Rio em Sete Dias"
+subtitle: "NFL × Flamengo, da Ideia à Produção em Sete Dias"
 tag: "ESTUDO DE CASO · PRODUÇÃO COMPLETA"
 order: 0
 client: "ProStandard"
 year: "2026"
 case_tags: ["Sportswear", "Conteúdo de Marca", "Fotografia", "Campanha"]
-summary: "Uma coleção NFL × Flamengo para a ProStandard, construída em torno da pergunta que todo carioca já estava fazendo — futebol americano ou futebol — e gravada no Rio de verdade em sete dias, da primeira conversa à entrega."
+summary: "Uma coleção NFL × Flamengo para a ProStandard, construída em torno da pergunta que todo carioca já estava fazendo — futebol americano ou futebol — e gravada no Rio de verdade sete dias depois da primeira conversa."
 og_image: /assets/img/og/prostandard-flamengo.jpg
 og_image_alt: "O elenco completo da campanha ProStandard NFL × Flamengo na orla do Rio, sob as palmeiras"
 stats:
   - "Qual Jogo? Os Dois"
   - "9 Rostos · Rio de Verdade"
-  - "7 Dias, da Ideia à Entrega"
+  - "7 Dias, da Ideia à Produção"
 gallery:
   - type: image
     src: /assets/img/prostandard-01.jpg
@@ -84,7 +84,7 @@ credits:
 
 Futebol americano ou futebol. Para uma coleção NFL × Flamengo, era a pergunta que todo carioca já estava fazendo — metade piada, metade teste de lealdade de verdade — e responder a ela era o briefing. Não resolver a disputa. Responder: os dois.
 
-O desafio veio junto. Sete dias entre a primeira conversa e os materiais finalizados, com casting, locações, gravação e entrega dentro dessa janela — o tempo que a maioria das produções desse porte gasta só na pré-produção. Ou seja: a ideia precisava estar certa de primeira, porque não havia segunda.
+O desafio veio junto. Sete dias entre a primeira conversa e a câmera rodando, com o conceito, o casting, as locações e todo o cronograma dentro dessa janela — o tempo que a maioria das produções desse porte gasta só na pré-produção. Ou seja: a ideia precisava estar certa de primeira, porque não havia segunda.
 
 ## A Abordagem
 ### O Rio de Verdade, Não um Cenário.
@@ -104,6 +104,6 @@ O que a gente não tinha previsto foi as peças pararem a rua. Vermelho e preto 
 ## O Resultado
 ### Os Dois Jogos, Uma Cidade.
 
-Campanha completa entregue no prazo, sem nada no resultado final que entregue a velocidade: duas das identidades mais reconhecíveis do esporte dividindo as mesmas ruas, a mesma luz, os mesmos nove rostos. Enraizada no Rio, não montada nele.
+Sete dias da ideia à produção, e nada no resultado final que entregue isso: duas das identidades mais reconhecíveis do esporte dividindo as mesmas ruas, a mesma luz, os mesmos nove rostos. Enraizada no Rio, não montada nele.
 
 E a pergunta ganha resposta no último plano, quando todo mundo entra em campo junto. Qual jogo? Os dois.
