@@ -1,18 +1,18 @@
 ---
 title: "ProStandard"
-subtitle: "NFL × Flamengo, Shot Across Rio"
+subtitle: "NFL × Flamengo, Across Rio in Seven Days"
 tag: "CASE STUDY · FULL PRODUCTION"
 order: 0
 client: "ProStandard"
 year: "2026"
 case_tags: ["Sportswear", "Branded Content", "Photography", "Campaign"]
-summary: "An NFL × Flamengo collection for ProStandard, built around the one question every carioca was already asking — American football or futebol — and shot across the real Rio rather than staged in a studio."
+summary: "An NFL × Flamengo collection for ProStandard, built around the one question every carioca was already asking — American football or futebol — and shot across the real Rio in seven days from first conversation to delivery."
 og_image: /assets/img/og/prostandard-flamengo.jpg
 og_image_alt: "The full ProStandard NFL × Flamengo cast on the Rio beachfront under the palms"
 stats:
   - "Qual Jogo? Os Dois"
-  - "9 Faces"
-  - "Rio Streets, Not a Studio"
+  - "9 Faces · Real Rio"
+  - "7 Days, Idea to Delivery"
 gallery:
   - type: image
     src: /assets/img/prostandard-01.jpg
@@ -82,9 +82,9 @@ credits:
 ## The Context
 ### Qual Jogo? Os Dois.
 
-American football or futebol. For an NFL × Flamengo collection, that was the question every carioca was already asking — half a joke, half a real loyalty test — and it was the question ProStandard's campaign had to answer.
+American football or futebol. For an NFL × Flamengo collection, that was the question every carioca was already asking — half a joke, half a real loyalty test — and answering it was the brief. Not settling it. Answering it: os dois.
 
-The answer was never going to be one or the other. It was os dois. Both. The job was to make that land as a feeling rather than a slogan, which meant holding the question open across the whole campaign and letting the last shot settle it.
+The challenge came attached. Seven days from the first conversation to finished assets, with casting, locations, the shoot and delivery all inside that window — the stretch most productions this size spend on pre-production alone. Which meant the idea had to be right on the first pass, because there was no second one.
 
 ## The Approach
 ### The Real Rio, Not a Set.
@@ -95,11 +95,15 @@ Nine faces carrying the pieces, and everyday life moving behind every frame — 
 
 The finish stays premium and minimal against all of that: high fashion set against real life, the clothes given room while the street keeps moving. That contrast is the whole point, and a studio would have flattened it.
 
-Working this way only holds together on home turf — knowing which rooftop gives you the frame, who to ask for access at a court, how the beach reads at which hour, and how long the move between two points actually takes rather than how long the map claims.
+On that schedule it only holds together on home turf. Knowing which rooftop gives you the frame, who to ask for access at a court, how the beach reads at which hour, and how long the move between two points actually takes rather than how long the map claims — that is what lets a day this full stay a day rather than a week.
+
+Somewhere in the middle of it, lunch: proper churrasco, the whole crew around it. Not a detail we would normally put in a case study, except that it is genuinely part of how the day held. Fast productions come apart when people are running on nothing. This one didn't.
+
+The thing we hadn't planned for was the pieces stopping traffic. Red and black on Rio streets in the middle of a working day, heads turning at every location, people coming over to ask where they could buy it weeks before the collection launched. When strangers want the product off the model's back, the campaign is already working.
 
 ## The Outcome
 ### Both Games, One City.
 
-A campaign rooted in Rio rather than staged in it: two of the most recognizable identities in sport sharing the same streets, the same light, the same nine faces.
+Full campaign delivered on schedule, with nothing in the finished work to suggest how fast it moved: two of the most recognizable identities in sport sharing the same streets, the same light, the same nine faces. Rooted in Rio rather than staged in it.
 
 And the question gets its answer in the last shot, when everyone comes onto the pitch together. Qual jogo? Os dois.

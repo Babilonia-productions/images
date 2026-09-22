@@ -1,18 +1,18 @@
 ---
 title: "ProStandard"
-subtitle: "NFL × Flamengo, nas Ruas do Rio"
+subtitle: "NFL × Flamengo, pelo Rio em Sete Dias"
 tag: "ESTUDO DE CASO · PRODUÇÃO COMPLETA"
 order: 0
 client: "ProStandard"
 year: "2026"
 case_tags: ["Sportswear", "Conteúdo de Marca", "Fotografia", "Campanha"]
-summary: "Uma coleção NFL × Flamengo para a ProStandard, construída em torno da pergunta que todo carioca já estava fazendo — futebol americano ou futebol — e gravada no Rio de verdade, não montada em estúdio."
+summary: "Uma coleção NFL × Flamengo para a ProStandard, construída em torno da pergunta que todo carioca já estava fazendo — futebol americano ou futebol — e gravada no Rio de verdade em sete dias, da primeira conversa à entrega."
 og_image: /assets/img/og/prostandard-flamengo.jpg
 og_image_alt: "O elenco completo da campanha ProStandard NFL × Flamengo na orla do Rio, sob as palmeiras"
 stats:
   - "Qual Jogo? Os Dois"
-  - "9 Rostos"
-  - "Ruas do Rio, Não Estúdio"
+  - "9 Rostos · Rio de Verdade"
+  - "7 Dias, da Ideia à Entrega"
 gallery:
   - type: image
     src: /assets/img/prostandard-01.jpg
@@ -82,9 +82,9 @@ credits:
 ## O Contexto
 ### Qual Jogo? Os Dois.
 
-Futebol americano ou futebol. Para uma coleção NFL × Flamengo, era a pergunta que todo carioca já estava fazendo — metade piada, metade teste de lealdade de verdade — e era a pergunta que a campanha da ProStandard tinha que responder.
+Futebol americano ou futebol. Para uma coleção NFL × Flamengo, era a pergunta que todo carioca já estava fazendo — metade piada, metade teste de lealdade de verdade — e responder a ela era o briefing. Não resolver a disputa. Responder: os dois.
 
-A resposta nunca seria uma coisa ou outra. Era os dois. O trabalho era fazer isso chegar como sensação, não como slogan: manter a pergunta aberta durante toda a campanha e deixar o último plano resolver.
+O desafio veio junto. Sete dias entre a primeira conversa e os materiais finalizados, com casting, locações, gravação e entrega dentro dessa janela — o tempo que a maioria das produções desse porte gasta só na pré-produção. Ou seja: a ideia precisava estar certa de primeira, porque não havia segunda.
 
 ## A Abordagem
 ### O Rio de Verdade, Não um Cenário.
@@ -95,11 +95,15 @@ Nove rostos vestindo as peças, e a vida cotidiana passando atrás de cada quadr
 
 O acabamento se mantém premium e minimalista em cima de tudo isso: alta moda contra a vida real, com espaço para as peças enquanto a rua segue andando. Esse contraste é o ponto, e um estúdio teria achatado tudo.
 
-Trabalhar assim só se sustenta em casa — saber qual rooftop entrega o frame, a quem pedir acesso numa quadra, como a praia rende em cada horário e quanto tempo o deslocamento entre dois pontos realmente leva, não o que o mapa promete.
+Nesse cronograma, só se sustenta em casa. Saber qual rooftop entrega o frame, a quem pedir acesso numa quadra, como a praia rende em cada horário e quanto tempo o deslocamento entre dois pontos realmente leva — não o que o mapa promete — é o que faz um dia tão cheio continuar sendo um dia, e não uma semana.
+
+No meio de tudo, o almoço: churrasco de verdade, a equipe inteira em volta. Não é o tipo de detalhe que normalmente entra num estudo de caso, mas faz parte de como o dia se sustentou. Produção rápida desanda quando as pessoas estão na reserva. Essa não desandou.
+
+O que a gente não tinha previsto foi as peças pararem a rua. Vermelho e preto no Rio em plena hora útil, todo mundo virando para olhar em cada locação, gente chegando perto para perguntar onde comprava — semanas antes de a coleção lançar. Quando estranhos querem tirar a peça das costas do modelo, a campanha já está funcionando.
 
 ## O Resultado
 ### Os Dois Jogos, Uma Cidade.
 
-Uma campanha enraizada no Rio, não montada nele: duas das identidades mais reconhecíveis do esporte dividindo as mesmas ruas, a mesma luz, os mesmos nove rostos.
+Campanha completa entregue no prazo, sem nada no resultado final que entregue a velocidade: duas das identidades mais reconhecíveis do esporte dividindo as mesmas ruas, a mesma luz, os mesmos nove rostos. Enraizada no Rio, não montada nele.
 
 E a pergunta ganha resposta no último plano, quando todo mundo entra em campo junto. Qual jogo? Os dois.
