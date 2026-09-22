@@ -14,11 +14,18 @@ stats:
 gallery:
   - type: image
     src: /assets/img/prostandard-01.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, dois modelos na orla com a camisa de baseball preta do CRF e o moletom vermelho da NFL"
+    alt: "Campanha NFL × Flamengo da ProStandard, o elenco completo de seis modelos na orla sob os coqueiros"
+    wide: true
   - type: image
     src: /assets/img/prostandard-02.jpg
+    alt: "Campanha NFL × Flamengo da ProStandard, dois modelos com a camisa de baseball preta do CRF e o moletom vermelho da NFL"
+  - type: image
+    src: /assets/img/prostandard-03.jpg
     alt: "Campanha NFL × Flamengo da ProStandard, modelo com uma bola de futebol americano em uma quadra de comunidade, equipe ao fundo"
     wide: true
+  - type: image
+    src: /assets/img/prostandard-04.jpg
+    alt: "Campanha NFL × Flamengo da ProStandard, a camisa vermelha do CRF com o escudo da NFL em close"
 films:
   - youtube_id: gllhZb_gohY
     title: "ProStandard NFL × Flamengo — filme da campanha"
@@ -27,13 +34,17 @@ films:
 gallery_bottom:
   - type: image
     src: /assets/img/prostandard-05.jpg
+    alt: "Campanha NFL × Flamengo da ProStandard, quatro modelos diante de um muro de tijolos com o morro ao fundo"
+    wide: true
+  - type: image
+    src: /assets/img/prostandard-06.jpg
+    alt: "Campanha NFL × Flamengo da ProStandard, retrato de óculos escuros e moletom preto do Flamengo à beira-mar"
+  - type: image
+    src: /assets/img/prostandard-07.jpg
     alt: "Campanha NFL × Flamengo da ProStandard, modelo com a camisa de baseball vermelha na balaustrada à beira-mar com a paisagem do Rio ao fundo"
     wide: true
   - type: image
-    src: /assets/img/prostandard-03.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, retrato de óculos escuros e moletom preto do Flamengo à beira-mar"
-  - type: image
-    src: /assets/img/prostandard-04.jpg
+    src: /assets/img/prostandard-08.jpg
     alt: "Campanha NFL × Flamengo da ProStandard, a camisa NFL × Flamengo nas pedras na beira da água"
 credits:
   - role: "Produção"
