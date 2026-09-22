@@ -25,6 +25,11 @@ gallery:
   - type: image
     src: /assets/img/prostandard-04.jpg
     alt: "Campanha NFL × Flamengo da ProStandard, modelo em movimento"
+films:
+  - youtube_id: gllhZb_gohY
+    title: "ProStandard NFL × Flamengo — filme da campanha"
+  - youtube_id: 728yxQ4An2c
+    title: "ProStandard NFL × Flamengo — filme da campanha"
 gallery_bottom:
   - type: image
     src: /assets/img/prostandard-05.jpg
