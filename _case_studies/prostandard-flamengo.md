@@ -25,7 +25,7 @@ gallery:
     wide: true
   - type: image
     src: /assets/img/prostandard-04.jpg
-    alt: "ProStandard NFL × Flamengo campaign, the red CRF jersey with the NFL shield in close-up"
+    alt: "ProStandard NFL × Flamengo campaign, two models at the court fence in the red CRF and black team jerseys"
 films:
   - youtube_id: gllhZb_gohY
     title: "ProStandard NFL × Flamengo — campaign film"
@@ -38,13 +38,15 @@ gallery_bottom:
     wide: true
   - type: image
     src: /assets/img/prostandard-06.jpg
-    alt: "ProStandard NFL × Flamengo campaign, portrait in sunglasses and the black Flamengo hoodie beside the sea"
+    alt: "ProStandard NFL × Flamengo campaign, the red CRF jersey with the NFL shield in close-up"
   - type: image
     src: /assets/img/prostandard-07.jpg
-    alt: "ProStandard NFL × Flamengo campaign, model in the red baseball jersey on a waterfront balustrade with the Rio skyline behind"
-    wide: true
+    alt: "ProStandard NFL × Flamengo campaign, portrait in sunglasses and the black Flamengo hoodie beside the sea"
   - type: image
     src: /assets/img/prostandard-08.jpg
+    alt: "ProStandard NFL × Flamengo campaign, model in the red baseball jersey on a waterfront balustrade"
+  - type: image
+    src: /assets/img/prostandard-09.jpg
     alt: "ProStandard NFL × Flamengo campaign, the NFL × Flamengo match jersey on the rocks at the water's edge"
 credits:
   - role: "Production"
