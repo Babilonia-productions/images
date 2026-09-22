@@ -25,7 +25,7 @@ gallery:
     wide: true
   - type: image
     src: /assets/img/prostandard-04.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, a camisa vermelha do CRF com o escudo da NFL em close"
+    alt: "Campanha NFL × Flamengo da ProStandard, dois modelos no alambrado da quadra com as camisas vermelha do CRF e preta do time"
 films:
   - youtube_id: gllhZb_gohY
     title: "ProStandard NFL × Flamengo — filme da campanha"
@@ -38,17 +38,39 @@ gallery_bottom:
     wide: true
   - type: image
     src: /assets/img/prostandard-06.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, retrato de óculos escuros e moletom preto do Flamengo à beira-mar"
+    alt: "Campanha NFL × Flamengo da ProStandard, a camisa vermelha do CRF com o escudo da NFL em close"
   - type: image
     src: /assets/img/prostandard-07.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, modelo com a camisa de baseball vermelha na balaustrada à beira-mar com a paisagem do Rio ao fundo"
-    wide: true
+    alt: "Campanha NFL × Flamengo da ProStandard, retrato de óculos escuros e moletom preto do Flamengo à beira-mar"
   - type: image
     src: /assets/img/prostandard-08.jpg
+    alt: "Campanha NFL × Flamengo da ProStandard, modelo com a camisa de baseball vermelha na balaustrada à beira-mar"
+  - type: image
+    src: /assets/img/prostandard-09.jpg
     alt: "Campanha NFL × Flamengo da ProStandard, a camisa NFL × Flamengo nas pedras na beira da água"
 credits:
   - role: "Produção"
     name: "Babilônia Productions"
+  - role: "Produção Executiva"
+    name: "Helene Doetsch"
+  - role: "Produtora"
+    name: "Lucia Pilar"
+  - role: "Direção"
+    name: "Roger Castillo"
+  - role: "Direção de Fotografia"
+    name: "Fernando Duarte"
+  - role: "Fotografia (Stills)"
+    name: "Victor Pollak"
+  - role: "Montagem"
+    name: "Richard Camilo"
+  - role: "Assistente"
+    name: "Renan"
+  - role: "2º Assistente"
+    name: "Walter"
+  - role: "Apoio de Produção"
+    name: "Douglas Nogueira"
+  - role: "Elenco"
+    name: "Ighor Albuquerque, Taylaine Santos de Oliveira, Pedro Chagas Fortes, Juan Pablo Penha Freitas"
   - role: "Cliente"
     name: "ProStandard"
   - role: "Collab"
