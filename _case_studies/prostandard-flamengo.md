@@ -14,17 +14,11 @@ stats:
 gallery:
   - type: image
     src: /assets/img/prostandard-01.jpg
-    alt: "ProStandard NFL × Flamengo campaign, models in red and black on a Rio street"
-    wide: true
+    alt: "ProStandard NFL × Flamengo campaign, two models on the beachfront in the black CRF baseball jersey and the red NFL hoodie"
   - type: image
     src: /assets/img/prostandard-02.jpg
-    alt: "ProStandard NFL × Flamengo campaign, jersey detail"
-  - type: image
-    src: /assets/img/prostandard-03.jpg
-    alt: "ProStandard NFL × Flamengo campaign, group portrait on location"
-  - type: image
-    src: /assets/img/prostandard-04.jpg
-    alt: "ProStandard NFL × Flamengo campaign, model in motion"
+    alt: "ProStandard NFL × Flamengo campaign, model with an American football on a neighborhood court, crew behind"
+    wide: true
 films:
   - youtube_id: gllhZb_gohY
     title: "ProStandard NFL × Flamengo — campaign film"
@@ -33,23 +27,14 @@ films:
 gallery_bottom:
   - type: image
     src: /assets/img/prostandard-05.jpg
-    alt: "ProStandard NFL × Flamengo campaign, second location in Rio"
-  - type: image
-    src: /assets/img/prostandard-06.jpg
-    alt: "ProStandard NFL × Flamengo campaign, editorial portrait"
-  - type: image
-    src: /assets/img/prostandard-07.jpg
-    alt: "ProStandard NFL × Flamengo campaign, collection piece in close-up"
+    alt: "ProStandard NFL × Flamengo campaign, model in the red baseball jersey on a waterfront balustrade with the Rio skyline behind"
     wide: true
   - type: image
-    src: /assets/img/prostandard-08.jpg
-    alt: "ProStandard NFL × Flamengo campaign, crew and cast between setups"
+    src: /assets/img/prostandard-03.jpg
+    alt: "ProStandard NFL × Flamengo campaign, portrait in sunglasses and the black Flamengo hoodie beside the sea"
   - type: image
-    src: /assets/img/prostandard-09.jpg
-    alt: "ProStandard NFL × Flamengo campaign, third location in Rio"
-  - type: image
-    src: /assets/img/prostandard-10.jpg
-    alt: "ProStandard NFL × Flamengo campaign, golden-hour look at the final location"
+    src: /assets/img/prostandard-04.jpg
+    alt: "ProStandard NFL × Flamengo campaign, the NFL × Flamengo match jersey on the rocks at the water's edge"
 credits:
   - role: "Production"
     name: "Babilônia Productions"
