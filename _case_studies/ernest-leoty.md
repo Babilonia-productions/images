@@ -2,7 +2,7 @@
 title: "Ernest Leoty"
 subtitle: "SS26"
 tag: "CASE STUDY · SS26"
-order: 4
+order: 5
 client: "Ernest Leoty"
 year: "2026"
 case_tags: ["Fashion", "Full Production", "Photography", "Location Shoot"]

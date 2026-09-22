@@ -2,7 +2,7 @@
 title: "Magali Pascal"
 subtitle: "Alegria, Encontrada no Rio"
 tag: "ESTUDO DE CASO · ALEGRIA"
-order: 0
+order: 1
 client: "Magali Pascal"
 year: "2026"
 case_tags: ["Moda", "Conteúdo de Marca", "Fotografia", "Fashion Film"]

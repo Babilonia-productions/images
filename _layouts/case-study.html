@@ -8,6 +8,7 @@ layout: default
   {% assign cs_year_label = "Ano" %}
   {% assign cs_tags_label = "Tags" %}
   {% assign cs_credits_label = "Créditos" %}
+  {% assign cs_films_label = "Os Filmes" %}
 {% else %}
   {% assign cs_back_url = "/work/" %}
   {% assign cs_back_label = "← All Case Studies" %}
@@ -15,6 +16,7 @@ layout: default
   {% assign cs_year_label = "Year" %}
   {% assign cs_tags_label = "Tags" %}
   {% assign cs_credits_label = "Credits" %}
+  {% assign cs_films_label = "The Films" %}
 {% endif %}
 <section class="page-hero fade-up">
   <a href="{{ cs_back_url | relative_url }}" class="page-back">{{ cs_back_label }}</a>
@@ -48,6 +50,26 @@ layout: default
   {{ content }}
   {% if page.credit %}<p class="case-study-credit">{{ page.credit }}</p>{% endif %}
 </div>
+
+{% if page.films %}
+<div class="cs-films fade-up">
+  <div class="section-label cs-films-label">
+    <span class="section-label-line"></span>
+    <span class="section-label-text">{{ cs_films_label }}</span>
+  </div>
+  <div class="cs-films-grid">
+    {% for film in page.films %}
+    <div class="cs-film">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ film.youtube_id }}?rel=0&amp;playsinline=1"
+              title="{{ film.title | default: page.title | escape }}"
+              loading="lazy"
+              allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen></iframe>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
 
 {% if page.gallery_bottom %}
 <div class="cs-gallery cs-gallery-bottom fade-up">

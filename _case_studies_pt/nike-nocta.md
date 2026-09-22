@@ -2,7 +2,7 @@
 title: "Nike × NOCTA"
 subtitle: "Cardinal Stock Summer 2026"
 tag: "ESTUDO DE CASO · VERÃO 2026"
-order: 2
+order: 3
 client: "Nike / NOCTA"
 year: "2026"
 case_tags: ["Scout de Talentos", "Produção de Locação", "Moda", "Campanha"]

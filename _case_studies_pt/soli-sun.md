@@ -2,7 +2,7 @@
 title: "Soli&Sun"
 subtitle: "A Bolsa no Rio"
 tag: "ESTUDO DE CASO · PRODUÇÃO REMOTA"
-order: 3
+order: 4
 client: "Soli & Sun"
 year: "2025"
 case_tags: ["Acessórios", "Produção Remota", "Fotografia", "Branded Content"]

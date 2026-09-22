@@ -2,7 +2,7 @@
 title: "Floyd"
 subtitle: "Bringing the Mojo Back, SS26"
 tag: "ESTUDO DE CASO · SS26"
-order: 1
+order: 2
 client: "Floyd"
 year: "2026"
 case_tags: ["Acessórios", "Conteúdo de Marca", "Fotografia", "Fashion Film"]
