@@ -14,17 +14,18 @@ stats:
 gallery:
   - type: image
     src: /assets/img/prostandard-01.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, modelos de vermelho e preto em uma rua do Rio"
+    alt: "Campanha NFL × Flamengo da ProStandard, o elenco completo de seis modelos na orla sob os coqueiros"
     wide: true
   - type: image
     src: /assets/img/prostandard-02.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, detalhe da camisa"
+    alt: "Campanha NFL × Flamengo da ProStandard, dois modelos com a camisa de baseball preta do CRF e o moletom vermelho da NFL"
   - type: image
     src: /assets/img/prostandard-03.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, retrato do grupo em locação"
+    alt: "Campanha NFL × Flamengo da ProStandard, modelo com uma bola de futebol americano em uma quadra de comunidade, equipe ao fundo"
+    wide: true
   - type: image
     src: /assets/img/prostandard-04.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, modelo em movimento"
+    alt: "Campanha NFL × Flamengo da ProStandard, a camisa vermelha do CRF com o escudo da NFL em close"
 films:
   - youtube_id: gllhZb_gohY
     title: "ProStandard NFL × Flamengo — filme da campanha"
@@ -33,23 +34,18 @@ films:
 gallery_bottom:
   - type: image
     src: /assets/img/prostandard-05.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, segunda locação no Rio"
+    alt: "Campanha NFL × Flamengo da ProStandard, quatro modelos diante de um muro de tijolos com o morro ao fundo"
+    wide: true
   - type: image
     src: /assets/img/prostandard-06.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, retrato editorial"
+    alt: "Campanha NFL × Flamengo da ProStandard, retrato de óculos escuros e moletom preto do Flamengo à beira-mar"
   - type: image
     src: /assets/img/prostandard-07.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, peça da coleção em close"
+    alt: "Campanha NFL × Flamengo da ProStandard, modelo com a camisa de baseball vermelha na balaustrada à beira-mar com a paisagem do Rio ao fundo"
     wide: true
   - type: image
     src: /assets/img/prostandard-08.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, equipe e elenco entre as trocas"
-  - type: image
-    src: /assets/img/prostandard-09.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, terceira locação no Rio"
-  - type: image
-    src: /assets/img/prostandard-10.jpg
-    alt: "Campanha NFL × Flamengo da ProStandard, look na golden hour na última locação"
+    alt: "Campanha NFL × Flamengo da ProStandard, a camisa NFL × Flamengo nas pedras na beira da água"
 credits:
   - role: "Produção"
     name: "Babilônia Productions"
