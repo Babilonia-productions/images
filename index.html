@@ -36,11 +36,11 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Organization",
+      "@type": ["Organization", "ProfessionalService"],
       "@id": "https://babiloniaproductions.com/#organization",
       "name": "Babilônia Productions",
       "legalName": "Babilônia Productions LTDA",
-      "alternateName": "Babilonia Productions",
+      "alternateName": ["Babilonia Productions", "Babilônia"],
       "url": "https://babiloniaproductions.com/",
       "description": "Babilônia Productions is a Rio de Janeiro-based production company creating high-impact lifestyle, fashion and documentary content for global brands and agencies.",
       "foundingDate": "2024",
@@ -57,14 +57,53 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Rua Gustavo Sampaio",
-        "addressLocality": "Leme, Rio de Janeiro",
+        "addressLocality": "Rio de Janeiro",
         "addressRegion": "RJ",
+        "postalCode": "22010-010",
         "addressCountry": "BR"
       },
+      "priceRange": "$$",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -22.9629,
+        "longitude": -43.1663
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "sales",
+          "email": "contact@babiloniaproductions.com",
+          "telephone": "+55-21-97743-3092",
+          "availableLanguage": ["en", "pt-BR"],
+          "areaServed": "Worldwide"
+        }
+      ],
       "knowsLanguage": ["en", "pt-BR"],
-      "areaServed": {
-        "@type": "Country",
-        "name": "Brazil"
+      "areaServed": [
+        { "@type": "City", "name": "Rio de Janeiro" },
+        { "@type": "State", "name": "Rio de Janeiro" },
+        { "@type": "Country", "name": "Brazil" }
+      ],
+      "knowsAbout": [
+        "Film production",
+        "Commercial photography",
+        "Fashion campaigns",
+        "Documentary production",
+        "Location scouting in Rio de Janeiro",
+        "Casting in Brazil",
+        "Production fixing for international crews"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Production services in Rio de Janeiro and across Brazil",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Full-service campaign production", "serviceType": "Film and photo production", "description": "Concept through delivery for brand campaigns shot in Rio de Janeiro and across Brazil.", "provider": { "@id": "https://babiloniaproductions.com/#organization" }, "areaServed": { "@type": "Country", "name": "Brazil" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Production service and fixing for international crews", "serviceType": "Production services", "description": "Local production support for agencies and brands shooting in Brazil: crew, logistics, location access and on-the-ground problem solving.", "provider": { "@id": "https://babiloniaproductions.com/#organization" }, "areaServed": { "@type": "Country", "name": "Brazil" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Casting", "serviceType": "Casting", "description": "Talent casting in Rio de Janeiro and nationwide.", "provider": { "@id": "https://babiloniaproductions.com/#organization" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Location scouting", "serviceType": "Location scouting", "description": "Scouting and securing locations across Rio de Janeiro and all 26 Brazilian states.", "provider": { "@id": "https://babiloniaproductions.com/#organization" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Stills photography", "serviceType": "Photography", "description": "Campaign and lifestyle stills, shot alongside or independently of motion.", "provider": { "@id": "https://babiloniaproductions.com/#organization" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Branded content and documentary", "serviceType": "Video production", "description": "Documentary-led branded films and social content.", "provider": { "@id": "https://babiloniaproductions.com/#organization" } } }
+        ]
       },
       "sameAs": [
         "https://www.instagram.com/babiloniaproductions/",
@@ -90,6 +129,72 @@
       "inLanguage": "en",
       "isPartOf": { "@id": "https://babiloniaproductions.com/#website" },
       "about": { "@id": "https://babiloniaproductions.com/#organization" }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://babiloniaproductions.com/#faq",
+      "url": "https://babiloniaproductions.com/",
+      "inLanguage": "en",
+      "isPartOf": { "@id": "https://babiloniaproductions.com/#website" },
+      "about": { "@id": "https://babiloniaproductions.com/#organization" },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does Babilônia Productions do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We are a production company based in Rio de Janeiro. We produce film and photography campaigns end to end — concept, casting, locations, crew, shoot and delivery — for brands and agencies, in Rio and across all 26 Brazilian states."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where are you based, and where can you shoot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our base is Rio de Janeiro and we produce across all 26 Brazilian states. Wherever the shoot lands, we arrive knowing the ground — the streets, the people, who to ask for access, and how long the move between two points really takes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you work with international brands and agencies?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Most of our work is for brands and agencies outside Brazil, among them Nike, DSQUARED2, Coolway, Farm, Havaianas, Arezzo and the Latin Recording Academy. The team works in English and Portuguese."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you act as our production service or fixer for a shoot in Brazil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. If you arrive with your own director or creative team, we handle the ground: crew, casting, locations and access, logistics, and the problems nobody planned for."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you shoot stills as well as film?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Both, usually on the same production. Most of our campaigns deliver motion and stills together, from one crew, rather than two separate bookings."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a production take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It follows the project, not a template: we have turned a production around in a single day, and we have built others over months. Speed is real here — our NFL × Flamengo capsule for ProStandard went from the first conversation to the camera rolling in seven days. So is the opposite. When a campaign is built for impact rather than volume, we give it the prep and the detail it asks for."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do we start?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Email contact@babiloniaproductions.com or message us on WhatsApp with whatever you have — a brief, a moodboard, or just a date and a rough idea. We come back with an approach and a budget."
+          }
+        }
+      ]
     }]
 }
 </script>
@@ -171,7 +276,7 @@
   <div class="hero-content">
     <p class="hero-eyebrow">Rio de Janeiro · Brazil · Production Partner for Global Brands</p>
     <h1 class="hero-title">We Turn Brazil's Energy Into Memorable <em>Photo &amp; Cinema.</em></h1>
-    <p class="hero-sub">Babilônia Productions pairs documentary instincts with local access to build narratives no one else can. Our creative and strategic craft helps turn your brand campaigns into memories that audiences don't scroll past.</p>
+    <p class="hero-sub">Babilônia Productions is a production company in Rio de Janeiro, pairing documentary instincts with local access to build narratives no one else can. Our creative and strategic craft helps turn your brand campaigns into memories that audiences don't scroll past.</p>
     <div class="hero-cta-group">
       <a href="#contact" class="btn-primary">Start a Project</a>
       <a href="/work/" class="btn-ghost hero-work-link">See Our Work →</a>
@@ -376,6 +481,47 @@
       <span class="client-name">Seasky Productions</span>
       <span class="client-name">Corona</span>
     </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="faq" id="faq">
+  <div class="faq-inner">
+    <div class="section-label">
+      <span class="section-label-line"></span>
+      <span class="section-label-text">Common Questions</span>
+    </div>
+    <h2 class="faq-title">Working With a Rio <em>Production Company.</em></h2>
+    <dl class="faq-list">
+      <div class="faq-item fade-up">
+        <dt class="faq-q">What does Babilônia Productions do?</dt>
+        <dd class="faq-a">We are a production company based in Rio de Janeiro. We produce film and photography campaigns end to end — concept, casting, locations, crew, shoot and delivery — for brands and agencies, in Rio and across all 26 Brazilian states.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">Where are you based, and where can you shoot?</dt>
+        <dd class="faq-a">Our base is Rio de Janeiro and we produce across all 26 Brazilian states. Wherever the shoot lands, we arrive knowing the ground — the streets, the people, who to ask for access, and how long the move between two points really takes.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">Do you work with international brands and agencies?</dt>
+        <dd class="faq-a">Yes. Most of our work is for brands and agencies outside Brazil, among them Nike, DSQUARED2, Coolway, Farm, Havaianas, Arezzo and the Latin Recording Academy. The team works in English and Portuguese.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">Can you act as our production service or fixer for a shoot in Brazil?</dt>
+        <dd class="faq-a">Yes. If you arrive with your own director or creative team, we handle the ground: crew, casting, locations and access, logistics, and the problems nobody planned for.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">Do you shoot stills as well as film?</dt>
+        <dd class="faq-a">Both, usually on the same production. Most of our campaigns deliver motion and stills together, from one crew, rather than two separate bookings.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">How long does a production take?</dt>
+        <dd class="faq-a">It follows the project, not a template: we have turned a production around in a single day, and we have built others over months. Speed is real here — our NFL × Flamengo capsule for ProStandard went from the first conversation to the camera rolling in seven days. So is the opposite. When a campaign is built for impact rather than volume, we give it the prep and the detail it asks for.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">How do we start?</dt>
+        <dd class="faq-a">Email contact@babiloniaproductions.com or message us on WhatsApp with whatever you have — a brief, a moodboard, or just a date and a rough idea. We come back with an approach and a budget.</dd>
+      </div>
+    </dl>
   </div>
 </section>
 
