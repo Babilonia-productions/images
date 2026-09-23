@@ -37,11 +37,17 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Organization",
+      {%- comment -%}
+        Typed as ProfessionalService as well as Organization: the searches
+        that matter here ("production company in Rio de Janeiro") are local
+        ones, and a bare Organization gives Google and the answer engines
+        nothing to place on a map or match against a city.
+      {%- endcomment %}
+      "@type": ["Organization", "ProfessionalService"],
       "@id": {{ org_id | jsonify }},
       "name": {{ site.title | jsonify }},
       "legalName": "Babilônia Productions LTDA",
-      "alternateName": "Babilonia Productions",
+      "alternateName": ["Babilonia Productions", "Babilônia"],
       "url": {{ "/" | absolute_url | jsonify }},
       "description": {{ site.description | jsonify }},
       "foundingDate": "2024",
@@ -58,14 +64,55 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Rua Gustavo Sampaio",
-        "addressLocality": "Leme, Rio de Janeiro",
+        "addressLocality": "Rio de Janeiro",
         "addressRegion": "RJ",
         "addressCountry": "BR"
       },
+      {%- comment -%}
+        Approximate: the Leme waterfront, not a surveyed door number. Enough
+        for a "near me" match, and it is a real place the company works from.
+      {%- endcomment %}
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -22.9629,
+        "longitude": -43.1663
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "sales",
+          "email": "contact@babiloniaproductions.com",
+          "telephone": "+55-21-97743-3092",
+          "availableLanguage": ["en", "pt-BR"],
+          "areaServed": "Worldwide"
+        }
+      ],
       "knowsLanguage": ["en", "pt-BR"],
-      "areaServed": {
-        "@type": "Country",
-        "name": "Brazil"
+      "areaServed": [
+        { "@type": "City", "name": "Rio de Janeiro" },
+        { "@type": "State", "name": "Rio de Janeiro" },
+        { "@type": "Country", "name": "Brazil" }
+      ],
+      "knowsAbout": [
+        "Film production",
+        "Commercial photography",
+        "Fashion campaigns",
+        "Documentary production",
+        "Location scouting in Rio de Janeiro",
+        "Casting in Brazil",
+        "Production fixing for international crews"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Production services in Rio de Janeiro and across Brazil",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Full-service campaign production", "serviceType": "Film and photo production", "description": "Concept through delivery for brand campaigns shot in Rio de Janeiro and across Brazil.", "provider": { "@id": {{ org_id | jsonify }} }, "areaServed": { "@type": "Country", "name": "Brazil" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Production service and fixing for international crews", "serviceType": "Production services", "description": "Local production support for agencies and brands shooting in Brazil: crew, logistics, location access and on-the-ground problem solving.", "provider": { "@id": {{ org_id | jsonify }} }, "areaServed": { "@type": "Country", "name": "Brazil" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Casting", "serviceType": "Casting", "description": "Talent casting in Rio de Janeiro and nationwide.", "provider": { "@id": {{ org_id | jsonify }} } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Location scouting", "serviceType": "Location scouting", "description": "Scouting and securing locations across Rio de Janeiro and all 26 Brazilian states.", "provider": { "@id": {{ org_id | jsonify }} } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Stills photography", "serviceType": "Photography", "description": "Campaign and lifestyle stills, shot alongside or independently of motion.", "provider": { "@id": {{ org_id | jsonify }} } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Branded content and documentary", "serviceType": "Video production", "description": "Documentary-led branded films and social content.", "provider": { "@id": {{ org_id | jsonify }} } } }
+        ]
       },
       "sameAs": [
         "https://www.instagram.com/babiloniaproductions/",
@@ -154,6 +201,35 @@
       "inLanguage": {{ content_language | jsonify }},
       "isPartOf": { "@id": {{ site_id | jsonify }} },
       "about": { "@id": {{ org_id | jsonify }} }
+    }
+    {%- endif -%}
+    {%- comment -%}
+      FAQ nodes are generated from the page's own `faq:` front matter, so the
+      markup a reader sees and the answers an answer engine quotes can never
+      drift apart. Google drops FAQPage rich results for questions that are
+      not visible on the page, and inventing hidden ones would be worse than
+      having none.
+    {%- endcomment -%}
+    {%- if page.faq -%},
+    {
+      "@type": "FAQPage",
+      "@id": {{ page_url | append: "#faq" | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "inLanguage": {{ content_language | jsonify }},
+      "isPartOf": { "@id": {{ site_id | jsonify }} },
+      "about": { "@id": {{ org_id | jsonify }} },
+      "mainEntity": [
+        {%- for item in page.faq %}
+        {
+          "@type": "Question",
+          "name": {{ item.q | jsonify }},
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": {{ item.a | strip_html | normalize_whitespace | strip | jsonify }}
+          }
+        }{% unless forloop.last %},{% endunless %}
+        {%- endfor %}
+      ]
     }
     {%- endif -%}
   ]

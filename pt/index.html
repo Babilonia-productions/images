@@ -5,6 +5,21 @@ description: "A Babilônia Productions é uma produtora com base no Rio de Janei
 og_image: /assets/img/og/default.jpg
 og_image_alt: "Campanha ALEGRIA da Magali Pascal na Praia Vermelha, sob o Pão de Açúcar, produzida no Rio de Janeiro"
 permalink: /pt/
+faq:
+  - q: "O que a Babilônia Productions faz?"
+    a: "Somos uma produtora com base no Rio de Janeiro. Produzimos campanhas de filme e fotografia de ponta a ponta — conceito, casting, locações, equipe, gravação e entrega — para marcas e agências, no Rio e nos 26 estados brasileiros."
+  - q: "Onde vocês ficam e onde conseguem gravar?"
+    a: "Nossa base é o Rio de Janeiro. O Rio é onde conhecemos as ruas, as pessoas e a quem pedir acesso, mas produzimos em qualquer lugar do Brasil."
+  - q: "Vocês trabalham com marcas e agências internacionais?"
+    a: "Sim. A maior parte do nosso trabalho é para marcas e agências de fora do Brasil, entre elas Nike, DSQUARED2, Coolway, Farm, Havaianas, Arezzo e a Latin Recording Academy. A equipe trabalha em inglês e português."
+  - q: "Vocês fazem production service ou fixer para gravações no Brasil?"
+    a: "Sim. Se você chega com seu próprio diretor ou equipe criativa, a gente cuida do chão: equipe, casting, locações e acesso, logística e os problemas que ninguém previu."
+  - q: "Vocês fazem foto além de filme?"
+    a: "Os dois, normalmente na mesma produção. A maioria das nossas campanhas entrega movimento e still juntos, com uma equipe só, em vez de duas contratações separadas."
+  - q: "Em quanto tempo vocês entregam uma campanha?"
+    a: "Depende do escopo, mas velocidade aqui é rotina. Nossa cápsula NFL × Flamengo para a ProStandard foi da primeira conversa à câmera rodando em sete dias, com casting, locações e todo o cronograma dentro dessa semana."
+  - q: "Como começamos?"
+    a: "Escreva para contact@babiloniaproductions.com ou mande mensagem no WhatsApp com o que você tiver — um briefing, um moodboard, ou só uma data e uma ideia. A gente volta com uma abordagem e um orçamento."
 ---
 
 <!-- HERO -->
@@ -20,7 +35,7 @@ permalink: /pt/
   <div class="hero-content">
     <p class="hero-eyebrow">Rio de Janeiro · Brasil · Parceira de Produção para Marcas Globais</p>
     <h1 class="hero-title">Transformamos a Energia do Brasil em <em>Foto &amp; Cinema</em> Inesquecíveis.</h1>
-    <p class="hero-sub">A Babilônia Productions une instinto documental e acesso local para construir narrativas que ninguém mais consegue. Nossa criatividade e estratégia transformam as campanhas da sua marca em memórias que o público não passa direto.</p>
+    <p class="hero-sub">A Babilônia Productions é uma produtora no Rio de Janeiro que une instinto documental e acesso local para construir narrativas que ninguém mais consegue. Nossa criatividade e estratégia transformam as campanhas da sua marca em memórias que o público não passa direto.</p>
     <div class="hero-cta-group">
       <a href="#contact" class="btn-primary">Inicie um Projeto</a>
       <a href="{{ '/pt/work/' | relative_url }}" class="btn-ghost hero-work-link">Veja Nosso Trabalho →</a>
@@ -261,6 +276,25 @@ permalink: /pt/
       <span class="client-name">Seasky Productions</span>
       <span class="client-name">Corona</span>
     </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="faq" id="faq">
+  <div class="faq-inner">
+    <div class="section-label">
+      <span class="section-label-line"></span>
+      <span class="section-label-text">Perguntas Frequentes</span>
+    </div>
+    <h2 class="faq-title">Trabalhar Com Uma <em>Produtora no Rio.</em></h2>
+    <dl class="faq-list">
+      {%- for item in page.faq %}
+      <div class="faq-item fade-up">
+        <dt class="faq-q">{{ item.q }}</dt>
+        <dd class="faq-a">{{ item.a }}</dd>
+      </div>
+      {%- endfor %}
+    </dl>
   </div>
 </section>
 

@@ -1,0 +1,70 @@
+---
+layout: null
+permalink: /llms.txt
+sitemap: false
+---
+{%- comment -%}
+  llms.txt — a plain-text brief for AI answer engines and agents, generated
+  from the same collections the site renders, so it cannot drift out of date
+  the way a hand-written copy would.
+
+  Kept deliberately factual. Anything an answer engine repeats here is
+  something we would say to a client on a call.
+{%- endcomment -%}
+# Babilônia Productions
+
+> A production company based in Rio de Janeiro, Brazil. We produce film and
+> photography campaigns end to end — concept, casting, locations, crew, shoot
+> and delivery — for brands and agencies, in Rio and across all 26 Brazilian
+> states. The team works in English and Portuguese.
+
+- Website: {{ "/" | absolute_url }}
+- Based in: Rio de Janeiro, RJ, Brazil
+- Works across: all of Brazil
+- Languages: English, Portuguese (pt-BR)
+- Contact: contact@babiloniaproductions.com · +55 21 97743-3092 (WhatsApp)
+- Founded: 2024
+- Portuguese version of this site: {{ "/pt/" | absolute_url }}
+
+## Services
+
+- Full-service campaign production: concept through delivery for brand
+  campaigns shot in Rio de Janeiro and across Brazil.
+- Production service and fixing for international crews: crew, logistics,
+  location access and on-the-ground problem solving for teams arriving with
+  their own director or creative.
+- Casting: talent casting in Rio de Janeiro and nationwide.
+- Location scouting: scouting and securing locations across Rio and all 26
+  Brazilian states.
+- Stills photography: campaign and lifestyle stills, usually shot on the same
+  production as motion rather than booked separately.
+- Branded content and documentary: documentary-led films and social content.
+
+## Selected clients
+
+Nike, DSQUARED2, Coolway, Farm, Havaianas, Arezzo, Dazed, Latin Recording
+Academy. 30+ campaigns produced in Brazil.
+
+## Work
+{% assign sorted_cases = site.case_studies | sort: "order" -%}
+{%- for cs in sorted_cases %}
+- [{{ cs.title }}{% if cs.subtitle %} — {{ cs.subtitle }}{% endif %}]({{ cs.url | absolute_url }}): {{ cs.summary | strip_html | normalize_whitespace | strip }}
+{%- endfor %}
+
+## News
+{% assign recent_posts = site.posts | where_exp: "p", "p.lang != 'pt'" -%}
+{%- for post in recent_posts limit: 15 %}
+- [{{ post.title }}]({{ post.url | absolute_url }}){% if post.description %}: {{ post.description | strip_html | normalize_whitespace | strip }}{% endif %}
+{%- endfor %}
+
+## Frequently asked
+{% assign home = site.pages | where: "url", "/" | first -%}
+{%- for item in home.faq %}
+### {{ item.q }}
+{{ item.a | strip_html | normalize_whitespace | strip }}
+{% endfor %}
+## Optional
+
+- [All work]({{ "/work/" | absolute_url }})
+- [News and production notes]({{ "/blog/" | absolute_url }})
+- [Sitemap]({{ "/sitemap.xml" | absolute_url }})
