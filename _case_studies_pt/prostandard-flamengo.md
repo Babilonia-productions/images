@@ -1,18 +1,18 @@
 ---
 title: "ProStandard"
-subtitle: "NFL × Flamengo, em Sete Dias"
+subtitle: "NFL × Flamengo, da Ideia à Produção em Sete Dias"
 tag: "ESTUDO DE CASO · PRODUÇÃO COMPLETA"
 order: 0
 client: "ProStandard"
 year: "2026"
 case_tags: ["Sportswear", "Conteúdo de Marca", "Fotografia", "Campanha"]
-summary: "Uma collab NFL × Flamengo para a ProStandard, da primeira ideia à execução completa em sete dias: seis modelos, quatro locações, um dia de gravação."
+summary: "Uma coleção NFL × Flamengo para a ProStandard, construída em torno da pergunta que todo carioca já estava fazendo — futebol americano ou futebol — e gravada no Rio de verdade sete dias depois da primeira conversa."
 og_image: /assets/img/og/prostandard-flamengo.jpg
 og_image_alt: "O elenco completo da campanha ProStandard NFL × Flamengo na orla do Rio, sob as palmeiras"
 stats:
-  - "7 Dias, da Ideia à Execução"
-  - "6 Modelos · 4 Locações"
-  - "1 Dia de Gravação"
+  - "Qual Jogo? Os Dois"
+  - "6 Rostos · Rio de Verdade"
+  - "7 Dias, da Ideia à Produção"
 gallery:
   - type: image
     src: /assets/img/prostandard-01.jpg
@@ -80,26 +80,30 @@ credits:
 ---
 
 ## O Contexto
-### Sete Dias. Sem Tempo Para Piscar.
+### Qual Jogo? Os Dois.
 
-A ProStandard chegou até nós com uma collab que precisava sair perfeita e quase nenhum tempo para acertar: uma cápsula NFL × Flamengo, e sete dias entre a primeira conversa e os materiais finalizados. A maioria das produções desse porte gasta sete dias só na pré-produção — fechar locações, casting, cronograma, aprovações. Tínhamos sete dias para tudo isso, mais a gravação, mais a entrega.
+Futebol americano ou futebol. Para uma coleção NFL × Flamengo, era a pergunta que todo carioca já estava fazendo — metade piada, metade teste de lealdade de verdade — e responder a ela era o briefing. Não resolver a disputa. Responder: os dois.
 
-É o tipo de briefing que se recusa na hora ou se aceita na hora. A gente aceitou.
+O desafio veio junto. Sete dias entre a primeira conversa e a câmera rodando, com o conceito, o casting, as locações e todo o cronograma dentro dessa janela — o tempo que a maioria das produções desse porte gasta só na pré-produção. Ou seja: a ideia precisava estar certa de primeira, porque não havia segunda.
 
 ## A Abordagem
-### Seis Modelos, Quatro Locações, Um Dia.
+### O Rio de Verdade, Não um Cenário.
 
-Tudo foi comprimido em um único dia de gravação, o que significava que a semana anterior não podia ter uma brecha. O casting fechou rápido: seis modelos capazes de carregar os dois lados da collab — uma liga americana e o clube mais amado do Rio — sem que nenhum dos dois parecesse fantasia. Quatro criativos na equipe, gente suficiente para dar conta e pouca o bastante para andar rápido e continuar afinada do primeiro ao último setup.
+Com o diretor Roger Castillo e o DOP Fernando Duarte, levamos a coleção para a cidade em vez de construir uma versão da cidade dentro de um estúdio. Um rooftop acima do morro. Uma quadra de favela. Pontos que qualquer um daqui reconhece de primeira. Ipanema no seu registro mais inconfundível.
 
-E aí foi correria. Quatro locações em um dia, cada uma escolhida para dar à coleção um registro diferente, e um roteiro montado para a equipe desmontar, atravessar a cidade e já estar gravando de novo sem perder a luz. Uma produção tão apertada só funciona em casa: saber qual rua entrega o frame, a quem pedir acesso e quanto tempo o deslocamento entre dois pontos realmente leva — não o que o mapa promete.
+Seis rostos vestindo as peças, e a vida cotidiana passando atrás de cada quadro — nenhuma rua fechada, nenhum figurante vestido, nenhuma tentativa de arrumar o Rio para virar fundo. A cidade continua sendo ela mesma, e a coleção tem que se sustentar dentro disso.
+
+O acabamento se mantém premium e minimalista em cima de tudo isso: alta moda contra a vida real, com espaço para as peças enquanto a rua segue andando. Esse contraste é o ponto, e um estúdio teria achatado tudo.
+
+Nesse cronograma, só se sustenta em casa. Saber qual rooftop entrega o frame, a quem pedir acesso numa quadra, como a praia rende em cada horário e quanto tempo o deslocamento entre dois pontos realmente leva — não o que o mapa promete — é o que faz um dia tão cheio continuar sendo um dia, e não uma semana.
 
 No meio de tudo, o almoço: churrasco de verdade, a equipe inteira em volta. Não é o tipo de detalhe que normalmente entra num estudo de caso, mas faz parte de como o dia se sustentou. Produção rápida desanda quando as pessoas estão na reserva. Essa não desandou.
 
-O que a gente não tinha previsto: as peças pararam a rua. Vermelho e preto no Rio, em plena terça-feira, e a cada locação todo mundo virava para olhar. Gente chegando perto para perguntar onde comprava, semanas antes de a coleção lançar. Quando estranhos querem tirar a peça das costas do modelo, a campanha já está funcionando.
+O que a gente não tinha previsto foi as peças pararem a rua. Vermelho e preto no Rio em plena hora útil, todo mundo virando para olhar em cada locação, gente chegando perto para perguntar onde comprava — semanas antes de a coleção lançar. Quando estranhos querem tirar a peça das costas do modelo, a campanha já está funcionando.
 
 ## O Resultado
-### Uma Semana de Trabalho Que Não Parece.
+### Os Dois Jogos, Uma Cidade.
 
-Campanha completa entregue no prazo — sete dias da ideia à execução, sem nada no resultado final que entregue a velocidade. Duas das identidades mais reconhecíveis do esporte, reunidas nas ruas do Rio por uma equipe que conhece essas ruas, gravadas em um único dia porque a semana ao redor foi construída direito.
+Sete dias da ideia à produção, e nada no resultado final que entregue isso: duas das identidades mais reconhecíveis do esporte dividindo as mesmas ruas, a mesma luz, os mesmos seis rostos. Enraizada no Rio, não montada nele.
 
-Velocidade costuma ser inimiga de boa produção. Não precisa ser, quando você já está onde o trabalho acontece.
+E a pergunta ganha resposta no último plano, quando todo mundo entra em campo junto. Qual jogo? Os dois.

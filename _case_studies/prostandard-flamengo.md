@@ -1,18 +1,18 @@
 ---
 title: "ProStandard"
-subtitle: "NFL × Flamengo, in Seven Days"
+subtitle: "NFL × Flamengo, Idea to Production in Seven Days"
 tag: "CASE STUDY · FULL PRODUCTION"
 order: 0
 client: "ProStandard"
 year: "2026"
 case_tags: ["Sportswear", "Branded Content", "Photography", "Campaign"]
-summary: "An NFL × Flamengo collaboration for ProStandard, taken from first idea to full execution in seven days: six models, four locations, one shoot day."
+summary: "An NFL × Flamengo collection for ProStandard, built around the one question every carioca was already asking — American football or futebol — and shot across the real Rio seven days after the first conversation."
 og_image: /assets/img/og/prostandard-flamengo.jpg
 og_image_alt: "The full ProStandard NFL × Flamengo cast on the Rio beachfront under the palms"
 stats:
-  - "7 Days, Idea to Execution"
-  - "6 Models · 4 Locations"
-  - "1 Shoot Day"
+  - "Qual Jogo? Os Dois"
+  - "6 Faces · Real Rio"
+  - "7 Days, Idea to Production"
 gallery:
   - type: image
     src: /assets/img/prostandard-01.jpg
@@ -80,26 +80,30 @@ credits:
 ---
 
 ## The Context
-### Seven Days. No Room to Blink.
+### Qual Jogo? Os Dois.
 
-ProStandard came to us with a collaboration worth getting right and almost no time to get it right in: an NFL × Flamengo capsule, and seven days from the first conversation to finished assets. Most productions this size spend seven days on pre-production alone — locking locations, casting, scheduling, approvals. We had seven days for all of it, plus the shoot, plus delivery.
+American football or futebol. For an NFL × Flamengo collection, that was the question every carioca was already asking — half a joke, half a real loyalty test — and answering it was the brief. Not settling it. Answering it: os dois.
 
-That is a brief you either decline immediately or accept immediately. We accepted.
+The challenge came attached. Seven days from the first conversation to the camera rolling, with the concept, the casting, the locations and the whole schedule inside that window — the stretch most productions this size spend on pre-production alone. Which meant the idea had to be right on the first pass, because there was no second one.
 
 ## The Approach
-### Six Models, Four Locations, One Day.
+### The Real Rio, Not a Set.
 
-Everything compressed into a single shoot day, which meant the week in front of it had to be airtight. Casting came together fast: six models who could carry both sides of the collaboration — an American league and Rio's most-supported club — without either one reading as costume. Four creatives on the team, small enough to move at speed and stay in sync from the first setup to the last.
+With director Roger Castillo and DOP Fernando Duarte, we took the collection out into the city instead of building a version of the city indoors. A rooftop above the hillside. A favela court. Spots anyone from here recognizes on sight. Ipanema at its most unmistakable.
 
-Then we ran. Four locations in one day, each chosen to give the collection a different register, and a route built so the crew could break, move, and be shooting again without losing the light. A production this tight only works on home turf: knowing which streets will give you the frame, who to ask for access, and how long the move between two points actually takes rather than how long the map claims.
+Six faces carrying the pieces, and everyday life moving behind every frame — no cleared streets, no dressed extras, no attempt to tidy Rio into a backdrop. The city stays itself, and the collection has to hold its own inside it.
 
-Somewhere in the middle of it, lunch — proper churrasco, the whole crew around it. Not a detail we'd normally put in a case study, except that it is genuinely part of how the day held together. Fast productions fall apart when people are running on nothing. This one didn't.
+The finish stays premium and minimal against all of that: high fashion set against real life, the clothes given room while the street keeps moving. That contrast is the whole point, and a studio would have flattened it.
 
-The other thing we hadn't fully planned for: the pieces stopped traffic. Red and black on Rio streets in the middle of a working day, and heads turned at every single location. People came over to ask where they could buy it, weeks before the collection launched. When strangers want the product off the model's back, the campaign is already working.
+On that schedule it only holds together on home turf. Knowing which rooftop gives you the frame, who to ask for access at a court, how the beach reads at which hour, and how long the move between two points actually takes rather than how long the map claims — that is what lets a day this full stay a day rather than a week.
+
+Somewhere in the middle of it, lunch: proper churrasco, the whole crew around it. Not a detail we would normally put in a case study, except that it is genuinely part of how the day held. Fast productions come apart when people are running on nothing. This one didn't.
+
+The thing we hadn't planned for was the pieces stopping traffic. Red and black on Rio streets in the middle of a working day, heads turning at every location, people coming over to ask where they could buy it weeks before the collection launched. When strangers want the product off the model's back, the campaign is already working.
 
 ## The Outcome
-### A Week's Work That Doesn't Look Like It.
+### Both Games, One City.
 
-Full campaign delivered on schedule — seven days from idea to execution, with nothing in the finished work to suggest how fast it moved. Two of the most recognizable identities in sport, brought together on Rio streets by a crew that knows them, shot in a single day because the week around it was built properly.
+Seven days from idea to production, and nothing in the finished work to suggest it: two of the most recognizable identities in sport sharing the same streets, the same light, the same six faces. Rooted in Rio rather than staged in it.
 
-Speed is usually the enemy of good production. It doesn't have to be, if you're already where the work happens.
+And the question gets its answer in the last shot, when everyone comes onto the pitch together. Qual jogo? Os dois.

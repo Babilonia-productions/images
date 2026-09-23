@@ -696,6 +696,42 @@
   }
   .client-name:hover { color: var(--white); }
 
+  /* FAQ */
+  .faq { padding: 120px 48px; background: var(--cream); }
+
+  .faq-inner { max-width: 1100px; margin: 0 auto; }
+
+  .faq-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: clamp(48px, 5.5vw, 72px);
+    line-height: 0.92;
+    color: var(--black);
+    margin-bottom: 56px;
+  }
+
+  .faq-title em { font-family: 'Playfair Display', serif; font-style: italic; color: var(--crimson); }
+
+  .faq-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 2px; }
+
+  .faq-item { background: var(--cream-dark); padding: 36px 32px; }
+
+  .faq-q {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    letter-spacing: 0.02em;
+    line-height: 1.15;
+    color: var(--black);
+    margin-bottom: 14px;
+  }
+
+  .faq-a {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.75;
+    color: var(--muted);
+  }
+
   /* CTA STRIP */
   .cta-strip {
     position: relative;
@@ -1140,9 +1176,10 @@
     .stat-cell:nth-child(2n) { border-right: none; }
     .stat-cell:last-child:nth-child(odd) { grid-column: 1 / -1; border-right: none; }
 
-    .work, .why, .who, .team, .clients, .cta-strip { padding-left: 24px; padding-right: 24px; }
+    .work, .why, .who, .team, .clients, .faq, .cta-strip { padding-left: 24px; padding-right: 24px; }
     .work-header, .why, .team-grid { grid-template-columns: 1fr; gap: 32px; }
     .who-grid { grid-template-columns: repeat(2, 1fr); }
+    .faq-list { grid-template-columns: 1fr; }
 
     .case-study, .case-study.reverse { grid-template-columns: 1fr; }
     .case-study.reverse .case-study-media, .case-study.reverse .case-study-text { order: unset; }

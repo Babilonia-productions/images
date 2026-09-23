@@ -4,6 +4,21 @@ title: "Babilônia Productions | Rio de Janeiro Production Company"
 description: "Babilônia Productions is a Rio de Janeiro-based production company creating high-impact lifestyle, fashion and documentary content for global brands and agencies."
 og_image: /assets/img/og/default.jpg
 og_image_alt: "Magali Pascal ALEGRIA campaign at Praia Vermelha beneath Pão de Açúcar, produced in Rio de Janeiro"
+faq:
+  - q: "What does Babilônia Productions do?"
+    a: "We are a production company based in Rio de Janeiro. We produce film and photography campaigns end to end — concept, casting, locations, crew, shoot and delivery — for brands and agencies, in Rio and across all 26 Brazilian states."
+  - q: "Where are you based, and where can you shoot?"
+    a: "Our base is Rio de Janeiro and we produce across all 26 Brazilian states. Wherever the shoot lands, we arrive knowing the ground — the streets, the people, who to ask for access, and how long the move between two points really takes."
+  - q: "Do you work with international brands and agencies?"
+    a: "Yes. Most of our work is for brands and agencies outside Brazil, among them Nike, DSQUARED2, Coolway, Farm, Havaianas, Arezzo and the Latin Recording Academy. The team works in English and Portuguese."
+  - q: "Can you act as our production service or fixer for a shoot in Brazil?"
+    a: "Yes. If you arrive with your own director or creative team, we handle the ground: crew, casting, locations and access, logistics, and the problems nobody planned for."
+  - q: "Do you shoot stills as well as film?"
+    a: "Both, usually on the same production. Most of our campaigns deliver motion and stills together, from one crew, rather than two separate bookings."
+  - q: "How long does a production take?"
+    a: "It follows the project, not a template: we have turned a production around in a single day, and we have built others over months. Speed is real here — our NFL × Flamengo capsule for ProStandard went from the first conversation to the camera rolling in seven days. So is the opposite. When a campaign is built for impact rather than volume, we give it the prep and the detail it asks for."
+  - q: "How do we start?"
+    a: "Email contact@babiloniaproductions.com or message us on WhatsApp with whatever you have — a brief, a moodboard, or just a date and a rough idea. We come back with an approach and a budget."
 ---
 
 <!-- HERO -->
@@ -20,7 +35,7 @@ og_image_alt: "Magali Pascal ALEGRIA campaign at Praia Vermelha beneath Pão de 
   <div class="hero-content">
     <p class="hero-eyebrow">Rio de Janeiro · Brazil · Production Partner for Global Brands</p>
     <h1 class="hero-title">We Turn Brazil's Energy Into Memorable <em>Photo &amp; Cinema.</em></h1>
-    <p class="hero-sub">Babilônia Productions pairs documentary instincts with local access to build narratives no one else can. Our creative and strategic craft helps turn your brand campaigns into memories that audiences don't scroll past.</p>
+    <p class="hero-sub">Babilônia Productions is a production company in Rio de Janeiro, pairing documentary instincts with local access to build narratives no one else can. Our creative and strategic craft helps turn your brand campaigns into memories that audiences don't scroll past.</p>
     <div class="hero-cta-group">
       <a href="#contact" class="btn-primary">Start a Project</a>
       <a href="{{ '/work/' | relative_url }}" class="btn-ghost hero-work-link">See Our Work →</a>
@@ -261,6 +276,25 @@ og_image_alt: "Magali Pascal ALEGRIA campaign at Praia Vermelha beneath Pão de 
       <span class="client-name">Seasky Productions</span>
       <span class="client-name">Corona</span>
     </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="faq" id="faq">
+  <div class="faq-inner">
+    <div class="section-label">
+      <span class="section-label-line"></span>
+      <span class="section-label-text">Common Questions</span>
+    </div>
+    <h2 class="faq-title">Working With a Rio <em>Production Company.</em></h2>
+    <dl class="faq-list">
+      {%- for item in page.faq %}
+      <div class="faq-item fade-up">
+        <dt class="faq-q">{{ item.q }}</dt>
+        <dd class="faq-a">{{ item.a }}</dd>
+      </div>
+      {%- endfor %}
+    </dl>
   </div>
 </section>
 
