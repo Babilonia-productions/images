@@ -35,11 +35,11 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Organization",
+      "@type": ["Organization", "ProfessionalService"],
       "@id": "https://babiloniaproductions.com/preview/pr-26/#organization",
       "name": "Babilônia Productions",
       "legalName": "Babilônia Productions LTDA",
-      "alternateName": "Babilonia Productions",
+      "alternateName": ["Babilonia Productions", "Babilônia"],
       "url": "https://babiloniaproductions.com/preview/pr-26/",
       "description": "Babilônia Productions is a Rio de Janeiro-based production company creating high-impact lifestyle, fashion and documentary content for global brands and agencies.",
       "foundingDate": "2024",
@@ -56,14 +56,51 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Rua Gustavo Sampaio",
-        "addressLocality": "Leme, Rio de Janeiro",
+        "addressLocality": "Rio de Janeiro",
         "addressRegion": "RJ",
         "addressCountry": "BR"
       },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -22.9629,
+        "longitude": -43.1663
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "sales",
+          "email": "contact@babiloniaproductions.com",
+          "telephone": "+55-21-97743-3092",
+          "availableLanguage": ["en", "pt-BR"],
+          "areaServed": "Worldwide"
+        }
+      ],
       "knowsLanguage": ["en", "pt-BR"],
-      "areaServed": {
-        "@type": "Country",
-        "name": "Brazil"
+      "areaServed": [
+        { "@type": "City", "name": "Rio de Janeiro" },
+        { "@type": "State", "name": "Rio de Janeiro" },
+        { "@type": "Country", "name": "Brazil" }
+      ],
+      "knowsAbout": [
+        "Film production",
+        "Commercial photography",
+        "Fashion campaigns",
+        "Documentary production",
+        "Location scouting in Rio de Janeiro",
+        "Casting in Brazil",
+        "Production fixing for international crews"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Production services in Rio de Janeiro and across Brazil",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Full-service campaign production", "serviceType": "Film and photo production", "description": "Concept through delivery for brand campaigns shot in Rio de Janeiro and across Brazil.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" }, "areaServed": { "@type": "Country", "name": "Brazil" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Production service and fixing for international crews", "serviceType": "Production services", "description": "Local production support for agencies and brands shooting in Brazil: crew, logistics, location access and on-the-ground problem solving.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" }, "areaServed": { "@type": "Country", "name": "Brazil" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Casting", "serviceType": "Casting", "description": "Talent casting in Rio de Janeiro and nationwide.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Location scouting", "serviceType": "Location scouting", "description": "Scouting and securing locations across Rio de Janeiro and all 26 Brazilian states.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Stills photography", "serviceType": "Photography", "description": "Campaign and lifestyle stills, shot alongside or independently of motion.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Branded content and documentary", "serviceType": "Video production", "description": "Documentary-led branded films and social content.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" } } }
+        ]
       },
       "sameAs": [
         "https://www.instagram.com/babiloniaproductions/",

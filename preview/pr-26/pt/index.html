@@ -37,11 +37,11 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Organization",
+      "@type": ["Organization", "ProfessionalService"],
       "@id": "https://babiloniaproductions.com/preview/pr-26/#organization",
       "name": "Babilônia Productions",
       "legalName": "Babilônia Productions LTDA",
-      "alternateName": "Babilonia Productions",
+      "alternateName": ["Babilonia Productions", "Babilônia"],
       "url": "https://babiloniaproductions.com/preview/pr-26/",
       "description": "Babilônia Productions is a Rio de Janeiro-based production company creating high-impact lifestyle, fashion and documentary content for global brands and agencies.",
       "foundingDate": "2024",
@@ -58,14 +58,51 @@
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Rua Gustavo Sampaio",
-        "addressLocality": "Leme, Rio de Janeiro",
+        "addressLocality": "Rio de Janeiro",
         "addressRegion": "RJ",
         "addressCountry": "BR"
       },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -22.9629,
+        "longitude": -43.1663
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "sales",
+          "email": "contact@babiloniaproductions.com",
+          "telephone": "+55-21-97743-3092",
+          "availableLanguage": ["en", "pt-BR"],
+          "areaServed": "Worldwide"
+        }
+      ],
       "knowsLanguage": ["en", "pt-BR"],
-      "areaServed": {
-        "@type": "Country",
-        "name": "Brazil"
+      "areaServed": [
+        { "@type": "City", "name": "Rio de Janeiro" },
+        { "@type": "State", "name": "Rio de Janeiro" },
+        { "@type": "Country", "name": "Brazil" }
+      ],
+      "knowsAbout": [
+        "Film production",
+        "Commercial photography",
+        "Fashion campaigns",
+        "Documentary production",
+        "Location scouting in Rio de Janeiro",
+        "Casting in Brazil",
+        "Production fixing for international crews"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Production services in Rio de Janeiro and across Brazil",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Full-service campaign production", "serviceType": "Film and photo production", "description": "Concept through delivery for brand campaigns shot in Rio de Janeiro and across Brazil.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" }, "areaServed": { "@type": "Country", "name": "Brazil" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Production service and fixing for international crews", "serviceType": "Production services", "description": "Local production support for agencies and brands shooting in Brazil: crew, logistics, location access and on-the-ground problem solving.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" }, "areaServed": { "@type": "Country", "name": "Brazil" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Casting", "serviceType": "Casting", "description": "Talent casting in Rio de Janeiro and nationwide.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Location scouting", "serviceType": "Location scouting", "description": "Scouting and securing locations across Rio de Janeiro and all 26 Brazilian states.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Stills photography", "serviceType": "Photography", "description": "Campaign and lifestyle stills, shot alongside or independently of motion.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" } } },
+          { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Branded content and documentary", "serviceType": "Video production", "description": "Documentary-led branded films and social content.", "provider": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" } } }
+        ]
       },
       "sameAs": [
         "https://www.instagram.com/babiloniaproductions/",
@@ -91,6 +128,72 @@
       "inLanguage": "pt-BR",
       "isPartOf": { "@id": "https://babiloniaproductions.com/preview/pr-26/#website" },
       "about": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://babiloniaproductions.com/preview/pr-26/pt/#faq",
+      "url": "https://babiloniaproductions.com/preview/pr-26/pt/",
+      "inLanguage": "pt-BR",
+      "isPartOf": { "@id": "https://babiloniaproductions.com/preview/pr-26/#website" },
+      "about": { "@id": "https://babiloniaproductions.com/preview/pr-26/#organization" },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "O que a Babilônia Productions faz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Somos uma produtora com base no Rio de Janeiro. Produzimos campanhas de filme e fotografia de ponta a ponta — conceito, casting, locações, equipe, gravação e entrega — para marcas e agências, no Rio e nos 26 estados brasileiros."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Onde vocês ficam e onde conseguem gravar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nossa base é o Rio de Janeiro. O Rio é onde conhecemos as ruas, as pessoas e a quem pedir acesso, mas produzimos em qualquer lugar do Brasil."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vocês trabalham com marcas e agências internacionais?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. A maior parte do nosso trabalho é para marcas e agências de fora do Brasil, entre elas Nike, DSQUARED2, Coolway, Farm, Havaianas, Arezzo e a Latin Recording Academy. A equipe trabalha em inglês e português."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vocês fazem production service ou fixer para gravações no Brasil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. Se você chega com seu próprio diretor ou equipe criativa, a gente cuida do chão: equipe, casting, locações e acesso, logística e os problemas que ninguém previu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vocês fazem foto além de filme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Os dois, normalmente na mesma produção. A maioria das nossas campanhas entrega movimento e still juntos, com uma equipe só, em vez de duas contratações separadas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Em quanto tempo vocês entregam uma campanha?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende do escopo, mas velocidade aqui é rotina. Nossa cápsula NFL × Flamengo para a ProStandard foi da primeira conversa à câmera rodando em sete dias, com casting, locações e todo o cronograma dentro dessa semana."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Como começamos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Escreva para contact@babiloniaproductions.com ou mande mensagem no WhatsApp com o que você tiver — um briefing, um moodboard, ou só uma data e uma ideia. A gente volta com uma abordagem e um orçamento."
+          }
+        }
+      ]
     }]
 }
 </script>
@@ -159,7 +262,7 @@
   <div class="hero-content">
     <p class="hero-eyebrow">Rio de Janeiro · Brasil · Parceira de Produção para Marcas Globais</p>
     <h1 class="hero-title">Transformamos a Energia do Brasil em <em>Foto &amp; Cinema</em> Inesquecíveis.</h1>
-    <p class="hero-sub">A Babilônia Productions une instinto documental e acesso local para construir narrativas que ninguém mais consegue. Nossa criatividade e estratégia transformam as campanhas da sua marca em memórias que o público não passa direto.</p>
+    <p class="hero-sub">A Babilônia Productions é uma produtora no Rio de Janeiro que une instinto documental e acesso local para construir narrativas que ninguém mais consegue. Nossa criatividade e estratégia transformam as campanhas da sua marca em memórias que o público não passa direto.</p>
     <div class="hero-cta-group">
       <a href="#contact" class="btn-primary">Inicie um Projeto</a>
       <a href="/preview/pr-26/pt/work/" class="btn-ghost hero-work-link">Veja Nosso Trabalho →</a>
@@ -364,6 +467,47 @@
       <span class="client-name">Seasky Productions</span>
       <span class="client-name">Corona</span>
     </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="faq" id="faq">
+  <div class="faq-inner">
+    <div class="section-label">
+      <span class="section-label-line"></span>
+      <span class="section-label-text">Perguntas Frequentes</span>
+    </div>
+    <h2 class="faq-title">Trabalhar Com Uma <em>Produtora no Rio.</em></h2>
+    <dl class="faq-list">
+      <div class="faq-item fade-up">
+        <dt class="faq-q">O que a Babilônia Productions faz?</dt>
+        <dd class="faq-a">Somos uma produtora com base no Rio de Janeiro. Produzimos campanhas de filme e fotografia de ponta a ponta — conceito, casting, locações, equipe, gravação e entrega — para marcas e agências, no Rio e nos 26 estados brasileiros.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">Onde vocês ficam e onde conseguem gravar?</dt>
+        <dd class="faq-a">Nossa base é o Rio de Janeiro. O Rio é onde conhecemos as ruas, as pessoas e a quem pedir acesso, mas produzimos em qualquer lugar do Brasil.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">Vocês trabalham com marcas e agências internacionais?</dt>
+        <dd class="faq-a">Sim. A maior parte do nosso trabalho é para marcas e agências de fora do Brasil, entre elas Nike, DSQUARED2, Coolway, Farm, Havaianas, Arezzo e a Latin Recording Academy. A equipe trabalha em inglês e português.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">Vocês fazem production service ou fixer para gravações no Brasil?</dt>
+        <dd class="faq-a">Sim. Se você chega com seu próprio diretor ou equipe criativa, a gente cuida do chão: equipe, casting, locações e acesso, logística e os problemas que ninguém previu.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">Vocês fazem foto além de filme?</dt>
+        <dd class="faq-a">Os dois, normalmente na mesma produção. A maioria das nossas campanhas entrega movimento e still juntos, com uma equipe só, em vez de duas contratações separadas.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">Em quanto tempo vocês entregam uma campanha?</dt>
+        <dd class="faq-a">Depende do escopo, mas velocidade aqui é rotina. Nossa cápsula NFL × Flamengo para a ProStandard foi da primeira conversa à câmera rodando em sete dias, com casting, locações e todo o cronograma dentro dessa semana.</dd>
+      </div>
+      <div class="faq-item fade-up">
+        <dt class="faq-q">Como começamos?</dt>
+        <dd class="faq-a">Escreva para contact@babiloniaproductions.com ou mande mensagem no WhatsApp com o que você tiver — um briefing, um moodboard, ou só uma data e uma ideia. A gente volta com uma abordagem e um orçamento.</dd>
+      </div>
+    </dl>
   </div>
 </section>
 
