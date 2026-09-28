@@ -29,6 +29,9 @@ gallery:
     src: /assets/img/prostandard-04.jpg
     alt: "ProStandard NFL × Flamengo campaign, two models at the court fence in the red CRF and black team jerseys"
 films:
+  - youtube_id: Pbv7KlYsyIA
+    wide: true
+    title: "ProStandard NFL × Flamengo — hero film"
   - youtube_id: gllhZb_gohY
     title: "ProStandard NFL × Flamengo — campaign film"
   - youtube_id: 728yxQ4An2c
