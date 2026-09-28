@@ -59,7 +59,7 @@ layout: default
   </div>
   <div class="cs-films-grid">
     {% for film in page.films %}
-    <div class="cs-film">
+    <div class="cs-film{% if film.wide %} wide{% endif %}">
       <iframe src="https://www.youtube-nocookie.com/embed/{{ film.youtube_id }}?rel=0&amp;playsinline=1"
               title="{{ film.title | default: page.title | escape }}"
               loading="lazy"

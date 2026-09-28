@@ -29,6 +29,9 @@ gallery:
     src: /assets/img/prostandard-04.jpg
     alt: "Campanha NFL × Flamengo da ProStandard, dois modelos no alambrado da quadra com as camisas vermelha do CRF e preta do time"
 films:
+  - youtube_id: Pbv7KlYsyIA
+    wide: true
+    title: "ProStandard NFL × Flamengo — filme principal"
   - youtube_id: gllhZb_gohY
     title: "ProStandard NFL × Flamengo — filme da campanha"
   - youtube_id: 728yxQ4An2c
