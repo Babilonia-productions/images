@@ -8,6 +8,7 @@
     --black: #0F0F0F;
     --white: #FFFFFF;
     --muted: #6B6560;
+    --banner-h: 36px;
   }
 
   html { scroll-behavior: smooth; }
@@ -17,14 +18,38 @@
     background: var(--cream);
     color: var(--black);
     overflow-x: hidden;
+    padding-top: var(--banner-h);
   }
 
   img { max-width: 100%; display: block; }
 
+  /* TOP BANNER */
+  .top-banner {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 101;
+    height: var(--banner-h);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 0 16px;
+    background: var(--crimson);
+    color: var(--white);
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background 0.2s;
+  }
+  .top-banner:hover { background: var(--crimson-dark); }
+
   /* NAV */
   nav {
     position: fixed;
-    top: 0; left: 0; right: 0;
+    top: var(--banner-h); left: 0; right: 0;
     z-index: 100;
     display: flex;
     align-items: center;
@@ -103,7 +128,7 @@
   /* HERO (VIDEO) */
   .hero {
     position: relative;
-    min-height: 100vh;
+    min-height: calc(100vh - var(--banner-h));
     display: flex;
     align-items: flex-end;
     overflow: hidden;
