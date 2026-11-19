@@ -1,0 +1,47 @@
+---
+layout: default
+title: "Production Services in Rio de Janeiro & Brazil | Babilônia"
+description: "Production services from a Rio de Janeiro production company: campaign, fashion, photo and film production, casting, locations, fixing, remote shoots and events."
+og_image: /assets/img/og/work.jpg
+og_image_alt: "The full ProStandard NFL × Flamengo cast on the Rio beachfront under the palms"
+---
+{% assign services = site.services | sort: "order" %}
+<section class="work services-index">
+  <div class="work-header fade-up">
+    <h1 class="work-title">Our <em>Services.</em></h1>
+    <p class="work-intro">Babilônia Productions is a production company in Rio de Janeiro. We produce film and photography campaigns end to end, or take on the Brazil side of yours, in Rio and across all 26 Brazilian states.</p>
+  </div>
+
+  <div class="service-grid fade-up">
+    {% for s in services %}
+    <a class="who-card service-card" href="{{ s.url | relative_url }}">
+      <div class="who-card-num">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+      <h2 class="who-card-title">{{ s.short_title }}</h2>
+      <p class="who-card-text">{{ s.card_text }}</p>
+      <span class="service-card-link">Learn more →</span>
+    </a>
+    {% endfor %}
+  </div>
+  <p class="services-faq-link fade-up">Planning a shoot? Read <a href="{{ '/filming-in-brazil/' | relative_url }}">Filming in Brazil: permits, ANCINE, budgets and more →</a></p>
+</section>
+
+<section class="who service-team">
+  <div class="who-header fade-up">
+    <h2 class="who-title">Who You'll<br>Work <em>With</em></h2>
+  </div>
+  <p class="service-team-intro fade-up">We're a small, hands-on team, and we keep it fun on set without being any less serious about the result. We like new ideas and we don't copy other people's work, so we're the right fit if you want to tell a story that hasn't been told yet, not a version of one that has.</p>
+  <div class="who-grid service-team-grid fade-up">
+    <div class="who-card">
+      <div class="who-card-num">Fabio Ventura</div>
+      <div class="who-card-title">Community, Locations &amp; Talent</div>
+      <p class="who-card-text">Fabio has lived in Rio for 40 years and knows everyone. He's a local influencer and the reason doors open for us, from hard-access locations to communities far from the postcard. His network of talent, models, videographers and crews is the one we cast and crew from.</p>
+    </div>
+    <div class="who-card">
+      <div class="who-card-num">Helene Doetsch</div>
+      <div class="who-card-title">Producer &amp; Director</div>
+      <p class="who-card-text">Helene is a producer, director, videographer and analog photographer, and a former journalist and documentary filmmaker with a background in marketing and PR. She knows what makes a good story, and which stories actually work for a brand inside its wider marketing plan.</p>
+    </div>
+  </div>
+</section>
+
+{% include cta-strip.html %}

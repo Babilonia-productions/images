@@ -30,6 +30,8 @@
       <li><a href="{{ '/pt/work/' | relative_url }}">O Que Fazemos</a></li>
       <li><a href="{{ '/pt/#approach' | relative_url }}">Por Que Nós</a></li>
       {% comment %}<li><a href="{{ '/pt/#team' | relative_url }}">Equipe</a></li>{% endcomment %}
+      <li><a href="{{ '/pt/services/' | relative_url }}">Serviços</a></li>
+      <li><a href="{{ '/pt/filming-in-brazil/' | relative_url }}">Filmar no Brasil: FAQ</a></li>
       <li><a href="{{ '/pt/blog/' | relative_url }}">Blog</a></li>
     </ul>
     {% else %}
@@ -38,9 +40,25 @@
       <li><a href="{{ '/work/' | relative_url }}">What We Do</a></li>
       <li><a href="{{ '/#approach' | relative_url }}">Why Us</a></li>
       {% comment %}<li><a href="{{ '/#team' | relative_url }}">Team</a></li>{% endcomment %}
+      <li><a href="{{ '/services/' | relative_url }}">Services</a></li>
+      <li><a href="{{ '/filming-in-brazil/' | relative_url }}">Filming in Brazil FAQ</a></li>
       <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
     </ul>
     {% endif %}
+  </div>
+  <div>
+    {% if page.lang == "pt" %}
+    {% assign footer_services = site.services_pt | sort: "order" %}
+    <p class="footer-heading">Serviços</p>
+    {% else %}
+    {% assign footer_services = site.services | sort: "order" %}
+    <p class="footer-heading">Services</p>
+    {% endif %}
+    <ul class="footer-links">
+      {% for s in footer_services %}
+      <li><a href="{{ s.url | relative_url }}">{{ s.short_title }}</a></li>
+      {% endfor %}
+    </ul>
   </div>
   <div>
     {% if page.lang == "pt" %}

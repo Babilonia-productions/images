@@ -15,7 +15,7 @@ sitemap: false
   changefreq and priority are deliberately omitted — Google and Bing ignore
   both. lastmod is emitted only where we have a real date to give.
 {%- endcomment -%}
-{%- assign all_docs = site.pages | concat: site.posts | concat: site.case_studies | concat: site.case_studies_pt -%}
+{%- assign all_docs = site.pages | concat: site.posts | concat: site.case_studies | concat: site.case_studies_pt | concat: site.services | concat: site.services_pt -%}
 {%- assign all_urls = all_docs | map: "url" -%}
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
