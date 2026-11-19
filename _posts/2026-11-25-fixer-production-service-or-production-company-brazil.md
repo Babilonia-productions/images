@@ -19,9 +19,13 @@ So whichever option you pick below, a registered Brazilian company has to be on 
 
 ## A fixer: one person who knows the ground
 
-A fixer is the right call when it's you, a camera and maybe one assistant. An individual photographer who wants to explore Rio, a small crew grabbing b-roll, a creator with a specific idea and no local contacts.
+A fixer is the right call when it's you, a camera and maybe one assistant. Think of a photographer who's bringing their own product, wants to hire one model and hit a few locations, and has some questions, a few security worries, or no Portuguese.
+
+We fix for people outside audiovisual production too: travelers who need something specific, influencers, content creators and artists.
 
 What a good fixer gives you is knowledge you can't google: the streets, the people, who to ask for access, and how long the move between two places really takes. Our team is multilingual, so language is rarely an issue. What a fixer isn't is a production. If you need a crew, casting and permits running in parallel, you've outgrown one.
+
+If you need creative direction, a photographer, or someone to shape the overall project, you've moved past a fixer. That's even more true if you're making a film rather than just taking photos.
 
 ## Production service: you bring the creative, we bring everything else
 
@@ -44,11 +48,13 @@ It can move fast. Our NFL × Flamengo capsule for [ProStandard]({{ '/work/prosta
 
 Think about what you're bringing. If it's just you and a camera, a fixer will do. If you've got the creative team and need everything around it, that's production service. And if you need the idea too, you want a production company. When in doubt, tell us what you're planning and we'll tell you honestly which one fits, even when it's the smallest one.
 
-## The two mistakes we see most
+## The three mistakes we see most
 
-The first is assuming you can turn up and shoot anywhere. Rio requires a permit to film in public locations, recognizable people need to give consent, and Brazil is strict about image rights. Sort it before the shoot, not on the day.
+The first is thinking you only need a fixer. We see this a lot: someone arrives with very little idea, creative direction or organization, and hopes a fixer can sort all of that out too. A fixer can't. What they actually need is a production company.
 
-The second is budgeting for "cheap Brazil". Shooting here is much cheaper than in Europe or the US, but usually more than people expect. We broke down [what a shoot in Brazil actually costs]({{ '/blog/how-much-does-it-cost-to-shoot-in-brazil/' | relative_url }}) earlier this week.
+The second is assuming you can turn up and shoot anywhere. Rio requires a permit to film in public locations, recognizable people need to give consent, and Brazil is strict about image rights. Sort it before the shoot, not on the day.
+
+The third is budgeting for "cheap Brazil". Shooting here is much cheaper than in Europe or the US, but usually more than people expect. We broke down [what a shoot in Brazil actually costs]({{ '/blog/how-much-does-it-cost-to-shoot-in-brazil/' | relative_url }}) earlier this week.
 
 The rest of the practical stuff, from ANCINE to insurance to rain days, is in our [Filming in Brazil FAQ]({{ '/filming-in-brazil/' | relative_url }}).
 

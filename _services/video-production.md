@@ -41,7 +41,7 @@ We shoot digitally, or on film when the concept calls for it. [Floyd's]({{ '/wor
 ## Direction
 ### In-House When It Fits. The Best Team When It Doesn't.
 
-What we make most: music videos, documentaries and fashion films. Helene Doetsch directs in-house, as she did for LOX and ProStandard. On bigger productions we build the team around the job, and on a production the size of Nike's, the brand's own creative team of 15 to 20 people is part of it.
+What we make most: [music videos]({{ '/services/music-video-production/' | relative_url }}), documentaries and fashion films. Helene Doetsch directs in-house, as she did for LOX and ProStandard. On bigger productions we build the team around the job, and on a production the size of Nike's, the brand's own creative team of 15 to 20 people is part of it.
 
 Camera, lighting and grip come from Rio's rental houses, and aerials come through a drone operator we trust. In post, we work regularly with editors Richard Camilo, Jorge Araulli, Samuel Chuengue and Gabriel Camacho, and we partner with production companies like [Dear Stranger Films](https://www.instagram.com/dearstranger.films/){:target="_blank" rel="noopener noreferrer"}.
 

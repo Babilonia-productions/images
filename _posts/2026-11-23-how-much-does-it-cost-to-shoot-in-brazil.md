@@ -22,6 +22,28 @@ Next to the same shoot in Europe or the US, that's cheap, by a lot. Next to what
   <figcaption>On set for ProStandard's NFL × Flamengo capsule: seven days from the first conversation to the camera rolling.</figcaption>
 </figure>
 
+## Where the money goes
+
+Every budget starts with the production fee, plus taxes of 11% to 15% depending on the overall size of the budget. On top of that, these are the line items you'll see on almost every quote:
+
+- Transport and catering
+- Stylist, hair and makeup
+- Location fees, plus community fees if we shoot in a favela
+- Fixer or line producer, and an executive producer
+- Helping hands, the people who carry the heavy stuff and look after the set
+- Security, so the team can split up safely between locations
+- Gear rental
+
+To give you a feel for rates (in reais, with dollars at roughly R$5.6 to the dollar in November 2026):
+
+- **Models** start around R$1,500 (about $270) for someone just starting out, with no agency yet. One of the best models in Brazil can cost up to R$40,000 (about $7,100).
+- **Photographers** who are good, solid professionals start around R$4,000 (about $710). The better known the photographer, or the more specific their niche, like analog and film, the higher it goes, easily into thousands of dollars.
+- **Fixers** run between R$800 and R$2,000 a day (about $140 to $360), depending on how complex the job is.
+- **Makeup artists** rarely go below R$1,500 (about $270).
+- **Permits** usually cost around R$1,000 (about $180) each, sometimes more, sometimes less, depending on where.
+
+The three things clients forget to budget for most often are catering, transport and location fees. Put them in from the start and the quote you get back won't be a surprise.
+
 ## Why Brazil costs more than you expect
 
 Doing it properly has a price. A foreign production filming in Brazil has to run under a Brazilian production company registered with ANCINE, the national film agency. The city of Rio requires a permit to film in any public location, and that takes 7 to 15 working days. Every recognizable person on camera needs an image release that spells out where and for how long their face will be used. None of this is optional, and none of it is free. It's also what makes your campaign safe to publish.
