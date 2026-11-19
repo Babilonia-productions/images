@@ -817,7 +817,7 @@
     background: var(--crimson);
     padding: 60px 48px 40px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1.2fr 1fr 1fr 1.2fr;
     gap: 48px;
     align-items: start;
   }
@@ -1136,6 +1136,28 @@
   .post-body blockquote p { margin-bottom: 0; color: inherit; }
 
   .post-figure { margin: 40px 0; }
+
+  .post-author {
+    margin-top: 56px;
+    padding-top: 28px;
+    border-top: 1px solid rgba(15,15,15,0.1);
+  }
+  .post-body .post-author-name {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    letter-spacing: 0.04em;
+    color: var(--black);
+    margin-bottom: 6px;
+  }
+  .post-author-name span {
+    margin-left: 12px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .post-body .post-author-bio { font-size: 14px; }
   .post-figure img {
     display: block;
     width: 100%;
@@ -1152,6 +1174,104 @@
   }
 
   /* SCROLL ANIMATION */
+  /* SERVICES */
+  .services-index { padding-top: 160px; padding-bottom: 120px; }
+
+  .service-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+    margin-top: 60px;
+  }
+
+  a.service-card {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+  }
+  a.service-card:hover .who-card-title { color: var(--crimson); }
+  .service-card .who-card-title { font-weight: 400; transition: color 0.2s; }
+
+  .service-card-link {
+    margin-top: auto;
+    padding-top: 24px;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--crimson);
+  }
+
+  .service-team { padding-top: 0; }
+  .service-team-intro {
+    max-width: 760px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.85;
+    color: var(--muted);
+    margin: -28px 0 40px;
+  }
+  .service-team-grid { grid-template-columns: repeat(2, 1fr); }
+  .service-team .who-card-num { font-size: 40px; }
+
+  .service-body a { color: var(--crimson); }
+  .service-body .filming-sources { font-size: 13px; }
+  .services-faq-link { margin-top: 40px; font-size: 15px; font-weight: 300; color: var(--muted); }
+  .services-faq-link a { color: var(--crimson); font-weight: 500; }
+  .service-body ol {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.85;
+    color: var(--muted);
+    margin: 0 0 20px 22px;
+  }
+  .service-body ol li { margin-bottom: 10px; }
+  .service-body strong { color: var(--black); font-weight: 500; }
+
+  .service-handles {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2px;
+    margin-bottom: 20px;
+  }
+  .service-handles li {
+    background: var(--cream-dark);
+    padding: 18px 20px;
+    font-size: 15px;
+    font-weight: 300;
+    color: var(--black);
+  }
+
+  .service-related { padding: 40px 48px 80px; }
+  .service-related .index-grid { margin-top: 32px; }
+
+  .service-faq { padding-top: 40px; padding-bottom: 80px; }
+
+  .service-more { padding: 0 48px 100px; }
+
+  .service-chips {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 28px;
+  }
+  .service-chips a {
+    display: inline-block;
+    padding: 10px 18px;
+    border: 1px solid rgba(15,15,15,0.15);
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--black);
+    text-decoration: none;
+    transition: border-color 0.2s, color 0.2s;
+  }
+  .service-chips a:hover,
+  .service-chips a.service-chip-all { border-color: var(--crimson); color: var(--crimson); }
+
   .fade-up { opacity: 0; transform: translateY(30px); transition: opacity 0.7s ease, transform 0.7s ease; }
   .fade-up.visible { opacity: 1; transform: translateY(0); }
 
@@ -1203,4 +1323,8 @@
     .cs-film { flex: 1 1 100%; max-width: 100%; }
     .cs-credits-grid { grid-template-columns: 1fr; }
     .page-hero-meta { gap: 24px; }
+
+    .services-index { padding-top: 130px; padding-bottom: 80px; }
+    .service-grid, .service-handles, .service-team-grid { grid-template-columns: 1fr; }
+    .service-related, .service-more { padding-left: 24px; padding-right: 24px; }
   }
