@@ -31,6 +31,8 @@ faq:
     a: "Sim. Temos boas conexões com mansões, residências e casas na serra, com ou sem piscina. Elas pedem um pouco mais de antecedência do que locações públicas."
   - q: "Como vocês entregam os scouts de locação?"
     a: "Em fotos, vídeo ou uma apresentação compartilhada, ou ao vivo por videochamada direto da locação, se você quiser ver em tempo real."
+  - q: "Com quanta antecedência vocês precisam para autorizações?"
+    a: "Pelo menos sete dias para os lugares que exigem, como parques, museus, o Jardim Botânico, pontos famosos como Ipanema e qualquer filmagem com drone."
 ---
 ## O Serviço
 ### A Locação É o Conceito.

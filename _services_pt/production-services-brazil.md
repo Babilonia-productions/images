@@ -28,9 +28,9 @@ faq:
   - q: "A equipe trabalha em inglês?"
     a: "Sim. A equipe trabalha em inglês e português, e a maioria dos nossos clientes são marcas e agências de fora do Brasil."
   - q: "Qual orçamento precisamos?"
-    a: "Nossas produções começam a partir de US$ 2.000. Uma produção menor costuma ficar entre US$ 10.000 e US$ 20.000, e produções maiores, de vários dias, ficam acima disso. Fazemos um orçamento para cada projeto."
+    a: "Não há mínimo formal. Um dia inteiro de filmagem com alguns modelos e foto e vídeo precisa de pelo menos US$ 2.000 a US$ 3.000. Uma produção menor costuma ficar entre US$ 10.000 e US$ 20.000, e produções maiores, de vários dias, ficam acima disso."
   - q: "Precisamos de uma produtora brasileira para filmar no Brasil?"
-    a: "Sim. Uma produção estrangeira precisa de uma produtora brasileira no projeto, além de acesso local, da língua e da rede. É esse o papel que assumimos."
+    a: "Sim. A Ancine exige que uma filmagem estrangeira seja feita sob responsabilidade de uma produtora brasileira registrada na agência. Somos registrados e comunicamos a filmagem à Ancine para você."
   - q: "O que equipes estrangeiras mais erram?"
     a: "Achar que podem filmar em qualquer lugar. Locações precisam de consentimento e liberações legais, e o Brasil é rigoroso com direito de imagem de quem aparece na câmera."
   - q: "Produzir no Brasil é barato?"
@@ -48,7 +48,7 @@ Assumimos com frequência a parte brasileira de produções maiores. Na [campanh
 ## Para Quem É
 ### Feito Para Marcas Que Filmam de Fora.
 
-A maioria dos nossos clientes de production service vem da Europa, e muitos dos Estados Unidos. Para uma marca estrangeira, o Brasil é difícil de acessar sozinho: é preciso cumprir as regras locais, ter acesso, falar a língua e conhecer a rede, e é preciso ter uma produtora brasileira no projeto. É esse o papel que assumimos.
+A maioria dos nossos clientes de production service vem da Europa, e muitos dos Estados Unidos. Para uma marca estrangeira, o Brasil é difícil de acessar sozinho: é preciso cumprir as regras locais, ter acesso, falar a língua e conhecer a rede, e a Ancine exige uma produtora brasileira registrada no projeto. Somos registrados, e é esse o papel que assumimos.
 
 ## Antes de Chegar
 ### Não Dá Para Chegar e Filmar.
@@ -59,4 +59,4 @@ A outra surpresa é o preço. Produzir no Brasil ainda é bem mais barato do que
 
 Conhecemos as ruas, as pessoas, a quem pedir acesso e quanto tempo leva de verdade o deslocamento entre duas locações. É essa a diferença entre um dia de filmagem tranquilo e um dia perdido. Funciona em qualquer escala, de uma equipe internacional completa a um único fotógrafo que precisa de um dia de apoio pelo Rio.
 
-Planejando uma filmagem? Nosso guia sobre [como produzir sua próxima campanha no Brasil]({{ '/pt/blog/brazil-is-having-a-moment/' | relative_url }}) cobre estações, locações e o básico das regras de produção.
+Planejando uma filmagem? Nosso guia sobre [como produzir sua próxima campanha no Brasil]({{ '/pt/blog/brazil-is-having-a-moment/' | relative_url }}) cobre estações, locações e o básico das regras de produção. Para autorizações, Ancine, direito de imagem e orçamento, veja [Filmar no Brasil: o FAQ de produção]({{ '/pt/filming-in-brazil/' | relative_url }}).

@@ -17,6 +17,7 @@ handles:
   - "Casting e locações"
   - "Autorizações e logística"
   - "Fotos da mesma produção"
+  - "Pós-produção com editores de confiança"
   - "Entrega para campanha e redes sociais"
 faq:
   - q: "Vocês filmam em película 16mm?"

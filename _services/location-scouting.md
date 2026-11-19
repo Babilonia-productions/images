@@ -31,6 +31,8 @@ faq:
     a: "Yes. We have good connections to villas, residences and mountain houses, with or without pools. They take a little more lead time than public locations."
   - q: "How do you deliver location scouts?"
     a: "As photos, video or a shared deck, or live on a video call from the location if you want to see it in real time."
+  - q: "How far ahead do you need for permits?"
+    a: "At least seven days for places that need them, like parks, museums, the Jardim Botânico, famous spots like Ipanema, and any drone work."
 ---
 ## The Service
 ### The Location Is the Concept.

@@ -19,7 +19,7 @@ faq:
   - q: "O que inclui a produção completa de uma campanha?"
     a: "Tudo, do conceito à entrega: criação, casting, locações, equipe, a filmagem em si e a entrega das fotos e filmes finais. Você traz a marca e o briefing; nós cuidamos do campo."
   - q: "Como é uma campanha típica?"
-    a: "Normalmente dois a três dias de filmagem, com uma equipe de 20 a 30 pessoas. As entregas são um filme principal, shorts e reels para redes sociais, e fotografia. Num videoclipe, são o clipe, fotos e conteúdo de bastidores."
+    a: "Normalmente dois a três dias de filmagem, com uma equipe de 20 a 25 pessoas. As entregas são um filme principal, shorts e reels para redes sociais, e fotografia. Num videoclipe, são o clipe, fotos e conteúdo de bastidores."
   - q: "Com que rapidez vocês produzem uma campanha?"
     a: "Depende do projeto. A cápsula NFL × Flamengo da ProStandard foi da primeira conversa à câmera rodando em sete dias. Campanhas feitas para impacto, e não volume, ganham meses de preparação quando precisam."
   - q: "Vocês só produzem no Rio de Janeiro?"
@@ -27,9 +27,11 @@ faq:
   - q: "Como começamos?"
     a: "Envie um e-mail para contact@babiloniaproductions.com ou uma mensagem no WhatsApp com um briefing, um moodboard, ou só uma data e uma ideia. Voltamos com uma abordagem e um orçamento."
   - q: "Qual orçamento precisamos?"
-    a: "Nossas produções começam a partir de US$ 2.000. Uma produção menor costuma ficar entre US$ 10.000 e US$ 20.000, e produções maiores, de vários dias, ficam acima disso. Fazemos um orçamento para cada projeto."
+    a: "Não há mínimo formal. Um dia inteiro de filmagem com alguns modelos e foto e vídeo precisa de pelo menos US$ 2.000 a US$ 3.000. Uma produção menor costuma ficar entre US$ 10.000 e US$ 20.000, e produções maiores, de vários dias, ficam acima disso."
   - q: "Produzir no Brasil é barato?"
     a: "Mais barato que na Europa ou nos EUA, sim, mas costuma custar mais do que se espera. É preciso cumprir as regras locais, bons equipamentos custam caro em todo lugar, e pagamos cachês justos e profissionais para equipe, modelos e talentos."
+  - q: "E se o tempo estiver ruim no dia da filmagem?"
+    a: "Se o tempo estiver muito ruim, mudamos a data sem custo extra."
 ---
 ## O Serviço
 ### Uma Equipe, do Briefing ao Arquivo Final.
@@ -43,7 +45,7 @@ Criação e produção ficam na mesma equipe, então nada se perde entre o brief
 
 1. **Uma conversa rápida.** Quando seu e-mail chega, respondemos na hora e marcamos uma reunião curta para entender o que você quer, do que precisa e qual é o orçamento.
 2. **Um pitch e um plano de produção.** Analisamos tudo e voltamos com ideias, opções de locações e de modelos, conectadas ao seu orçamento. Sempre há espaço para flexibilidade.
-3. **A filmagem.** Uma campanha típica tem dois a três dias de filmagem, com 20 a 30 pessoas na equipe.
+3. **A filmagem.** Uma campanha típica tem dois a três dias de filmagem, com 20 a 25 pessoas na equipe.
 4. **A entrega.** Normalmente um filme principal, shorts e reels para redes sociais, e fotografia da mesma produção.
 
 ## Prazos

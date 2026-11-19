@@ -28,9 +28,9 @@ faq:
   - q: "Does your team work in English?"
     a: "Yes. The team works in English and Portuguese, and most of our clients are brands and agencies outside Brazil."
   - q: "What budget do we need?"
-    a: "Our productions start from $2,000. A typical smaller production runs $10,000 to $20,000, and bigger, multi-day productions run higher. We quote every project individually."
+    a: "There is no formal minimum. A full shoot day with a few models and both photo and video needs at least $2,000 to $3,000. A typical smaller production runs $10,000 to $20,000, and bigger, multi-day productions run higher."
   - q: "Do we need a Brazilian production company to shoot in Brazil?"
-    a: "Yes. A foreign production needs a Brazilian production company on the job, along with local access, the language and the network. That is the role we take on."
+    a: "Yes. ANCINE, Brazil's national film agency, requires a foreign shoot to run under a Brazilian production company registered with it. We are registered and file the shoot with ANCINE for you."
   - q: "What do foreign crews most often get wrong?"
     a: "Thinking they can shoot anywhere. Locations need consent and legal clearances, and Brazil is strict about image rights for anyone who appears on camera."
   - q: "Is producing in Brazil cheap?"
@@ -48,7 +48,7 @@ We regularly take on the Brazil side of bigger productions. On [DSQUARED2's SS26
 ## Who It's For
 ### Built for Brands Shooting From Abroad.
 
-Most of our production-service clients come from Europe, and many from the United States. For a foreign brand, Brazil is hard to access alone: you have to comply with local rules, get access, speak the language and know the network, and you need a Brazilian production company on the job. That is the role we take on.
+Most of our production-service clients come from Europe, and many from the United States. For a foreign brand, Brazil is hard to access alone: you have to comply with local rules, get access, speak the language and know the network, and ANCINE requires a Brazilian production company registered with it on the job. We are registered, and that is the role we take on.
 
 ## Before You Land
 ### You Can't Just Turn Up and Shoot.
@@ -59,4 +59,4 @@ The other surprise is price. Producing in Brazil is still much cheaper than in E
 
 We know the streets, the people, who to ask for access, and how long the move between two locations really takes. That is the difference between a smooth shoot day and a lost one. It works at every scale, from a full international crew to a single photographer who needs a day of help getting around Rio.
 
-Planning a shoot? Our guide on [how to shoot your next campaign in Brazil]({{ '/blog/brazil-is-having-a-moment/' | relative_url }}) covers seasons, locations and the basics of the production rules.
+Planning a shoot? Our guide on [how to shoot your next campaign in Brazil]({{ '/blog/brazil-is-having-a-moment/' | relative_url }}) covers seasons, locations and the basics of the production rules. For permits, ANCINE, image rights and budgets, see [Filming in Brazil: the production FAQ]({{ '/filming-in-brazil/' | relative_url }}).

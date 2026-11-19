@@ -19,7 +19,7 @@ faq:
   - q: "What does full-service campaign production include?"
     a: "Everything from concept to delivery: creative, casting, locations, crew, the shoot itself and delivery of the final stills and films. You bring the brand and the brief; we handle the ground."
   - q: "What does a typical campaign look like?"
-    a: "Usually two to three shoot days with a crew of 20 to 30 people. Deliverables are a hero film, shorts and reels for social media, and photography. For a music video, it's the video plus stills and behind-the-scenes content."
+    a: "Usually two to three shoot days with a crew of 20 to 25 people. Deliverables are a hero film, shorts and reels for social media, and photography. For a music video, it's the video plus stills and behind-the-scenes content."
   - q: "How quickly can you produce a campaign?"
     a: "It follows the project. Our NFL × Flamengo capsule for ProStandard went from the first conversation to the camera rolling in seven days. Campaigns built for impact rather than volume get months of prep when they need it."
   - q: "Do you only produce in Rio de Janeiro?"
@@ -27,9 +27,11 @@ faq:
   - q: "How do we start?"
     a: "Email contact@babiloniaproductions.com or message us on WhatsApp with a brief, a moodboard, or just a date and a rough idea. We come back with an approach and a budget."
   - q: "What budget do we need?"
-    a: "Our productions start from $2,000. A typical smaller production runs $10,000 to $20,000, and bigger, multi-day productions run higher. We quote every project individually."
+    a: "There is no formal minimum. A full shoot day with a few models and both photo and video needs at least $2,000 to $3,000. A typical smaller production runs $10,000 to $20,000, and bigger, multi-day productions run higher."
   - q: "Is producing in Brazil cheap?"
     a: "Cheaper than Europe or the US, yes, but often more than people expect. Local rules have to be complied with, good gear costs money everywhere, and we pay crew, models and talent fair, professional rates."
+  - q: "What if the weather is bad on the shoot day?"
+    a: "If the weather is really bad, we move the date at no extra charge."
 ---
 ## The Service
 ### One Team, Brief to Final File.
@@ -43,7 +45,7 @@ Creative and production sit in the same team, so nothing gets lost between the b
 
 1. **A quick call.** When your email comes in, we follow up right away and set up a short meeting to understand what you want, what you need and what the budget looks like.
 2. **A pitch and production plan.** We go away, analyze everything, and come back with ideas, location options and model options, tied to your budget. There is always room to be flexible.
-3. **The shoot.** A typical campaign runs two to three shoot days with 20 to 30 people on the crew.
+3. **The shoot.** A typical campaign runs two to three shoot days with 20 to 25 people on the crew.
 4. **Delivery.** Usually a hero film, shorts and reels for social media, and photography from the same production.
 
 ## Timing

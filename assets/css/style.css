@@ -1194,6 +1194,9 @@
   .service-team .who-card-num { font-size: 40px; }
 
   .service-body a { color: var(--crimson); }
+  .service-body .filming-sources { font-size: 13px; }
+  .services-faq-link { margin-top: 40px; font-size: 15px; font-weight: 300; color: var(--muted); }
+  .services-faq-link a { color: var(--crimson); font-weight: 500; }
   .service-body ol {
     font-size: 16px;
     font-weight: 300;

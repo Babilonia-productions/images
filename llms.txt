@@ -58,6 +58,7 @@ Academy. 30+ campaigns produced in Brazil.
 ## Optional
 
 - [All services]({{ "/services/" | absolute_url }})
+- [Filming in Brazil: permits, ANCINE and production FAQ]({{ "/filming-in-brazil/" | absolute_url }})
 - [All work]({{ "/work/" | absolute_url }})
 - [News and production notes]({{ "/blog/" | absolute_url }})
 - [Sitemap]({{ "/sitemap.xml" | absolute_url }})
