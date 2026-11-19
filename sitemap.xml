@@ -236,6 +236,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/services/location-scouting/"/>
   </url>
   <url>
+    <loc>https://babiloniaproductions.com/services/music-video-production/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/services/music-video-production/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/services/music-video-production/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/services/music-video-production/"/>
+  </url>
+  <url>
     <loc>https://babiloniaproductions.com/services/photo-production/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/services/photo-production/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/services/photo-production/"/>
@@ -288,6 +294,12 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/services/location-scouting/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/services/location-scouting/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/services/location-scouting/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/pt/services/music-video-production/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/services/music-video-production/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/services/music-video-production/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/services/music-video-production/"/>
   </url>
   <url>
     <loc>https://babiloniaproductions.com/pt/services/photo-production/</loc>
