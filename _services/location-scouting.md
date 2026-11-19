@@ -32,7 +32,7 @@ faq:
   - q: "How do you deliver location scouts?"
     a: "As photos, video or a shared deck, or live on a video call from the location if you want to see it in real time."
   - q: "How far ahead do you need for permits?"
-    a: "At least seven days for places that need them, like parks, museums, the Jardim Botânico, famous spots like Ipanema, and any drone work."
+    a: "City permits for public locations in Rio take 7 to 15 working days, and beaches and natural parks go through the city's Environment Secretariat. Drone work needs federal clearances on top. Tell us early."
 ---
 ## The Service
 ### The Location Is the Concept.

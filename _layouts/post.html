@@ -1,20 +1,27 @@
 ---
 layout: default
 ---
+{% if page.author %}{% assign author = site.data.authors[page.author] %}{% endif %}
 <section class="page-hero fade-up">
   {% if page.lang == "pt" %}
   <a href="{{ '/pt/blog/' | relative_url }}" class="page-back">← Todos os Posts</a>
   <div class="page-hero-tag">Notícias da Babilônia</div>
   <h1 class="page-hero-title">{{ page.title }}</h1>
-  <p class="page-hero-date">{{ page.date | date: "%d.%m.%Y" }}</p>
+  <p class="page-hero-date">{{ page.date | date: "%d.%m.%Y" }}{% if author %} · Por {{ author.name }}{% endif %}</p>
   {% else %}
   <a href="{{ '/blog/' | relative_url }}" class="page-back">← All Posts</a>
   <div class="page-hero-tag">News from Babilônia</div>
   <h1 class="page-hero-title">{{ page.title }}</h1>
-  <p class="page-hero-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+  <p class="page-hero-date">{{ page.date | date: "%B %-d, %Y" }}{% if author %} · By {{ author.name }}{% endif %}</p>
   {% endif %}
 </section>
 
 <div class="post-body fade-up">
   {{ content }}
+  {% if author %}
+  <aside class="post-author">
+    <p class="post-author-name">{{ author.name }}<span>{% if page.lang == "pt" %}{{ author.role_pt }}{% else %}{{ author.role_en }}{% endif %}</span></p>
+    <p class="post-author-bio">{% if page.lang == "pt" %}{{ author.bio_pt }}{% else %}{{ author.bio_en }}{% endif %}</p>
+  </aside>
+  {% endif %}
 </div>

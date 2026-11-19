@@ -215,7 +215,17 @@
       "inLanguage": {{ content_language | jsonify }},
       "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
       "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
+      {%- assign post_author = site.data.authors[page.author] -%}
+      {%- if post_author %}
+      "author": {
+        "@type": "Person",
+        "name": {{ post_author.name | jsonify }},
+        "jobTitle": {{ post_author.role_en | jsonify }},
+        "worksFor": { "@id": {{ org_id | jsonify }} }
+      },
+      {%- else %}
       "author": { "@id": {{ org_id | jsonify }} },
+      {%- endif %}
       "publisher": { "@id": {{ org_id | jsonify }} },
       "isPartOf": { "@id": {{ site_id | jsonify }} }
     },

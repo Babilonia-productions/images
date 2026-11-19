@@ -1136,6 +1136,28 @@
   .post-body blockquote p { margin-bottom: 0; color: inherit; }
 
   .post-figure { margin: 40px 0; }
+
+  .post-author {
+    margin-top: 56px;
+    padding-top: 28px;
+    border-top: 1px solid rgba(15,15,15,0.1);
+  }
+  .post-body .post-author-name {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    letter-spacing: 0.04em;
+    color: var(--black);
+    margin-bottom: 6px;
+  }
+  .post-author-name span {
+    margin-left: 12px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .post-body .post-author-bio { font-size: 14px; }
   .post-figure img {
     display: block;
     width: 100%;
