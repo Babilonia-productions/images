@@ -47,7 +47,7 @@ Most of our productions deliver stills and motion together from one crew. For [S
 ## Product and Still Life
 ### It's About the Feeling, Not the Product.
 
-We produce product and still-life photography too: accessories for Burga, hair products for LOX, Hidratei and Cantao, sun protection, skincare and more. In the end, a product shot is about creating a feeling, so we place products in real Rio spaces like hotels and cafés, or in a studio when the brief calls for it. Right now we're producing a still-life series for photographer Anna Pihan at the [Santa Teresa Hotel](https://www.santateresahotelrio.com/){:target="_blank" rel="noopener noreferrer"}. Studios also make sense when you need a lookbook and a lifestyle campaign at the same time.
+We produce product and still-life photography too: accessories for Burga, hair products for LOX, Hidratei and Cantao, sun protection, skincare and more. In the end, a product shot is about creating a feeling, so we place products in real Rio spaces like hotels and cafés, or in a studio when the brief calls for it. Right now we're producing a still-life series for photographer Anna Pihan at the [Santa Teresa Hotel](https://www.santateresahotelrio.com/){:target="_blank" rel="noopener noreferrer"} and Chez Gregorio. Studios also make sense when you need a lookbook and a lifestyle campaign at the same time.
 
 ## On Film
 ### Analog, Done Properly.
