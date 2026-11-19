@@ -695,6 +695,8 @@
     transition: color 0.2s;
   }
   .client-name:hover { color: var(--white); }
+  a.client-name { color: rgba(255,255,255,0.9); text-decoration: none; }
+  a.client-name:hover { text-decoration: underline; text-underline-offset: 4px; }
 
   /* FAQ */
   .faq { padding: 120px 48px; background: var(--cream); }
@@ -1212,7 +1214,7 @@
     color: var(--muted);
     margin: -28px 0 40px;
   }
-  .service-team-grid { grid-template-columns: repeat(2, 1fr); }
+  .service-team-grid { grid-template-columns: repeat(3, 1fr); }
   .service-team .who-card-num { font-size: 40px; }
 
   .service-body a { color: var(--crimson); }
