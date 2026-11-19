@@ -27,7 +27,7 @@ faq:
   - q: "Do you produce music videos?"
     a: "Yes. A music video usually comes with stills and behind-the-scenes content from the same shoot."
   - q: "Do you have in-house directors?"
-    a: "Yes. Helene directs in-house, as on ProStandard. For other projects we bring in the best director and team for the job."
+    a: "Yes. Helene Doetsch directs in-house, as on LOZ and ProStandard. For other projects we bring in the best director and team for the job."
   - q: "Can you supply drones and cinema cameras?"
     a: "Yes, through partners. Aerials come from a drone operator we trust, and camera, lighting and grip from rental houses in Rio."
 ---
@@ -41,9 +41,9 @@ We shoot digitally, or on film when the concept calls for it. [Floyd's]({{ '/wor
 ## Direction
 ### In-House When It Fits. The Best Team When It Doesn't.
 
-What we make most: music videos, documentaries and fashion films. Helene directs in-house, as she did for ProStandard. On bigger productions we build the team around the job, and on a production the size of Nike's, the brand's own creative team of 15 to 20 people is part of it.
+What we make most: music videos, documentaries and fashion films. Helene Doetsch directs in-house, as she did for LOZ and ProStandard. On bigger productions we build the team around the job, and on a production the size of Nike's, the brand's own creative team of 15 to 20 people is part of it.
 
-Camera, lighting and grip come from Rio's rental houses, and aerials come through a drone operator we trust.
+Camera, lighting and grip come from Rio's rental houses, and aerials come through a drone operator we trust. In post, we work regularly with editors Richard Camilo, Jorge Araulli, Samuel Chuengue and Gabriel Camacho, and we partner with production companies like [Dear Stranger Films](https://www.instagram.com/dearstranger.films/){:target="_blank" rel="noopener noreferrer"}.
 
 ## Branded Documentary
 ### Stories People Choose to Watch.

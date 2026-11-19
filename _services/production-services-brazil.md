@@ -22,7 +22,7 @@ faq:
   - q: "Can you act as our production service or fixer for a shoot in Brazil?"
     a: "Yes. If you arrive with your own director or creative team, we handle the ground: crew, casting, locations and access, logistics, and the problems nobody planned for."
   - q: "Do you partner with other production companies?"
-    a: "Yes. We have taken on the Brazil side of productions alongside Mawe Productions on DSQUARED2, Eden.br on Nike × NOCTA and Seasky Productions on Soli&Sun."
+    a: "Yes. We have taken on the Brazil side of productions alongside Mawe Productions on DSQUARED2, Eden.br on Nike × NOCTA and Seasky Productions on Soli&Sun, and we partner with Dear Stranger Films."
   - q: "Do you take on small jobs, like a day of fixing for a photographer?"
     a: "Yes, when the timing works. Our focus is productions from $2,000 up, but we also help individual photographers and small teams with a day of fixing and production help around Rio."
   - q: "Does your team work in English?"

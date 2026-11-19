@@ -22,7 +22,7 @@ faq:
   - q: "Vocês podem atuar como production service ou fixer para uma filmagem no Brasil?"
     a: "Sim. Se você chega com seu próprio diretor ou equipe criativa, cuidamos do campo: equipe, casting, locações e acessos, logística e os problemas que ninguém previu."
   - q: "Vocês trabalham com outras produtoras?"
-    a: "Sim. Já assumimos a parte brasileira de produções ao lado da Mawe Productions na DSQUARED2, da Eden.br em Nike × NOCTA e da Seasky Productions na Soli&Sun."
+    a: "Sim. Já assumimos a parte brasileira de produções ao lado da Mawe Productions na DSQUARED2, da Eden.br em Nike × NOCTA e da Seasky Productions na Soli&Sun, e fazemos parcerias com a Dear Stranger Films."
   - q: "Vocês aceitam trabalhos pequenos, como um dia de fixer para um fotógrafo?"
     a: "Sim, quando a agenda permite. Nosso foco são produções a partir de US$ 2.000, mas também ajudamos fotógrafos independentes e equipes pequenas com um dia de fixer e apoio de produção pelo Rio."
   - q: "A equipe trabalha em inglês?"

@@ -16,6 +16,7 @@ handles:
   - "Foto e fashion film na mesma produção"
   - "Lookbooks e fotos para e-commerce"
   - "Conteúdo de bastidores"
+  - "Cobertura de desfiles e backstage"
   - "Filmagens noturnas e com luz natural"
 faq:
   - q: "Vocês produzem fashion films além de fotos?"
@@ -30,6 +31,8 @@ faq:
     a: "Temos parceiros fixos em quem confiamos, mas escolhemos o criativo de cada projeto pelo seu estilo, pelo que você precisa e pelo seu orçamento."
   - q: "Vocês reservam estúdio?"
     a: "Sim. Trabalhamos com estúdios com frequência, inclusive nos nossos trabalhos para o Latin Grammy. Faz sentido quando você precisa de um lookbook e de uma campanha lifestyle ao mesmo tempo."
+  - q: "Vocês fazem cobertura de desfiles?"
+    a: "Sim, para marcas brasileiras: cobertura do desfile e do backstage, em foto e vídeo."
 ---
 ## O Serviço
 ### Campanhas de Moda Com Pulso.
@@ -38,12 +41,14 @@ Moda é a maior parte do que produzimos. Fizemos campanhas SS26 para [DSQUARED2]
 
 O Rio dá a uma campanha de moda o que um estúdio não dá: pedra queimada de sol e mata, o calçadão de Copacabana, as lajes e escadarias da favela à noite. Encontramos o lugar que sustenta a coleção e montamos casting e equipe em volta dele.
 
-Além de campanhas, produzimos lookbooks, fotos para e-commerce e conteúdo de bastidores.
+Além de campanhas, produzimos lookbooks, fotos para e-commerce, conteúdo de bastidores e, para marcas brasileiras, cobertura de desfiles e backstage.
 
 ## A Equipe ao Seu Redor
 ### O Criativo Certo, Não o de Sempre.
 
 Temos stylists, cabeleireiros e maquiadores, fotógrafos e videomakers com quem trabalhamos com frequência. Mas cada criativo enxerga o mundo do seu jeito, então não usamos sempre os mesmos nomes. Olhamos o seu estilo, o que o projeto precisa e o seu orçamento, e encontramos quem combina melhor.
+
+Entre os parceiros frequentes estão o stylist Gabriel Menezes, o cabeleireiro Igor Oliveira e os fotógrafos Victor Pollock e [Rafael Moura](https://www.instagram.com/rafael_moura/){:target="_blank" rel="noopener noreferrer"}.
 
 ## Por Que o Rio
 ### A Cidade Faz o Styling.

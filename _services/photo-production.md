@@ -26,7 +26,7 @@ faq:
   - q: "Where in Rio do you shoot?"
     a: "Wherever the concept needs: beaches like Ipanema, Copacabana and Praia Vermelha, the Centro Histórico, Urca, neighborhood courts and Rio's favelas, plus locations across all 26 Brazilian states."
   - q: "Do you produce product and still-life photography?"
-    a: "Yes. We have shot accessories for Burga, hair styling products, sun protection and skincare, usually styled into real Rio spaces to create a feeling rather than a catalog shot."
+    a: "Yes. We have shot accessories for Burga, hair products for LOZ, Hidratei and Cantao, sun protection and skincare, usually styled into real Rio spaces to create a feeling rather than a catalog shot."
   - q: "Can you provide a studio?"
     a: "Yes. We work with studios regularly, including on our Latin Grammys work, and often combine a studio lookbook with a lifestyle shoot on location."
   - q: "Do you shoot analog?"
@@ -47,7 +47,7 @@ Most of our productions deliver stills and motion together from one crew. For [S
 ## Product and Still Life
 ### It's About the Feeling, Not the Product.
 
-We produce product and still-life photography too: accessories for Burga, hair styling products, sun protection, skincare and more. In the end, a product shot is about creating a feeling, so we place products in real Rio spaces like hotels and cafés, or in a studio when the brief calls for it. Studios also make sense when you need a lookbook and a lifestyle campaign at the same time.
+We produce product and still-life photography too: accessories for Burga, hair products for LOZ, Hidratei and Cantao, sun protection, skincare and more. In the end, a product shot is about creating a feeling, so we place products in real Rio spaces like hotels and cafés, or in a studio when the brief calls for it. Right now we're producing a still-life series for photographer Anna Pihan at the [Santa Teresa Hotel](https://www.santateresahotelrio.com/){:target="_blank" rel="noopener noreferrer"}. Studios also make sense when you need a lookbook and a lifestyle campaign at the same time.
 
 ## On Film
 ### Analog, Done Properly.

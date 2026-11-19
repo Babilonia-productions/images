@@ -38,7 +38,7 @@ faq:
 
 Babilônia Productions is a production company based in Rio de Janeiro. We produce brand campaigns end to end, from concept, casting and locations to crew, shoot and delivery, for brands and agencies in Rio and across all 26 Brazilian states.
 
-Creative and production sit in the same team, so nothing gets lost between the brief and the final file. Our producer Helene is a former journalist and documentary filmmaker with a marketing and PR background, so the story is built to work for your brand, not just to look good. We like new ideas and we don't copy what's already been done. Most of our campaigns deliver motion and stills together, from one crew, rather than as two separate bookings.
+Creative and production sit in the same team, so nothing gets lost between the brief and the final file. Our producer Helene Doetsch is a former journalist and documentary filmmaker with a marketing and PR background, so the story is built to work for your brand, not just to look good. We like new ideas and we don't copy what's already been done. Most of our campaigns deliver motion and stills together, from one crew, rather than as two separate bookings.
 
 ## How It Works
 ### From First Email to Final Delivery.

@@ -45,6 +45,8 @@ Beyond campaigns, we produce lookbooks, e-commerce shoots and behind-the-scenes 
 
 We have stylists, hair and makeup artists, photographers and videographers we work with regularly. But every creative sees the world in their own way, so we don't default to the same names. We look at your style, what the project needs and your budget, and find the best fit.
 
+Regulars include stylist Gabriel Menezes, hairstylist Igor Oliveira, and photographers Victor Pollock and [Rafael Moura](https://www.instagram.com/rafael_moura/){:target="_blank" rel="noopener noreferrer"}.
+
 ## Why Rio
 ### The City Does the Styling.
 

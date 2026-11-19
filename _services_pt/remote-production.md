@@ -27,7 +27,7 @@ faq:
   - q: "Podemos acompanhar a filmagem ao vivo?"
     a: "Sim, se quiser. A maioria dos clientes acompanha pelo WhatsApp com atualizações frequentes, e podemos montar uma transmissão ao vivo do set."
   - q: "Podemos só enviar o produto?"
-    a: "Sim. Várias marcas, incluindo marcas de cuidados com o cabelo, já nos enviaram seus produtos para fotografar no Rio, sem ninguém da marca no set."
+    a: "Sim. Várias marcas, incluindo a LOZ, a Hidratei e a Cantao, já nos enviaram seus produtos para fotografar no Rio, sem ninguém da marca no set."
 ---
 ## O Serviço
 ### Ambição Total. Nenhum Voo.
@@ -39,7 +39,7 @@ A produção remota permite que uma marca filme no Brasil sem trazer uma equipe 
 
 A maioria dos clientes não precisa assistir ao vivo, mas fica em contato com a gente o tempo todo. O WhatsApp é o nosso canal de sempre, mandamos atualizações a cada etapa e, se você quiser uma transmissão ao vivo do set, sem problema. Você decide o quanto quer se envolver.
 
-Alguns trabalhos remotos são tão simples quanto nos enviar o produto. Marcas de cuidados com o cabelo e várias marcas menores já nos mandaram seus produtos para fotografar no Rio, sem ninguém da marca no set.
+Alguns trabalhos remotos são tão simples quanto nos enviar o produto. A LOZ, a Hidratei e a Cantao, além de várias marcas menores, já nos mandaram seus produtos para fotografar no Rio, sem ninguém da marca no set.
 
 ## Prova
 ### Uma Bolsa. Uma Cidade. Zero Voos.
