@@ -28,6 +28,8 @@ faq:
     a: "Yes, as well as campaigns, fashion films and behind-the-scenes content."
   - q: "Do you have your own stylists and photographers?"
     a: "We have regulars we trust, but we pick the creative for each project based on your style, what you need and your budget."
+  - q: "Can you book a studio?"
+    a: "Yes. We work with studios regularly, including on our Latin Grammys work. It makes sense when you need a lookbook and a lifestyle campaign at the same time."
 ---
 ## The Service
 ### Fashion Campaigns With a Pulse.
@@ -46,6 +48,8 @@ We have stylists, hair and makeup artists, photographers and videographers we wo
 ## Why Rio
 ### The City Does the Styling.
 
-DSQUARED2 came for heat and boldness and shot after dark in the Babilônia favela. Casa Rosa wanted something softer and found it at Praia Vermelha and Flamengo. Same city, opposite moods.
+Most fashion clients ask for the beaches first, Ipanema above all, and if you want a quieter, nature-led beach we can find that too. Many also want the typical Brazil scenes: bars and restaurants with their own look, monuments, viewpoints and favelas.
+
+We love going further. For a recent ProStandard shoot we took the production to a favela in Rio's North Zone for a motorcycle journey, stunts included. DSQUARED2 came for heat and boldness and shot after dark in the Babilônia favela. Casa Rosa wanted something softer and found it at Praia Vermelha and Flamengo.
 
 Read why [fashion brands are shooting their SS2027 campaigns with a production company in Rio]({{ '/blog/fashion-brands-ss2027-campaigns-rio-production-company/' | relative_url }}).

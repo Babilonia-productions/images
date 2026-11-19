@@ -11,7 +11,8 @@ related: [nike-nocta, prostandard-flamengo]
 handles:
   - "Casting de rua e de comunidade"
   - "Modelos e talentos de agência"
-  - "Testes e seleção"
+  - "Chamadas abertas e testes"
+  - "Não modelos: influenciadores, moradores, famílias, todas as idades"
   - "Contratação e coordenação de talentos"
   - "Casting no Rio e em todo o país"
 faq:
@@ -21,6 +22,10 @@ faq:
     a: "Sim. Fazemos casting no Rio de Janeiro e em todo o país."
   - q: "Com que rapidez vocês fazem um casting?"
     a: "Na velocidade que o projeto pedir. O elenco de seis pessoas da ProStandard foi encontrado e fotografado em até sete dias depois da primeira conversa."
+  - q: "Vocês fazem casting de não modelos?"
+    a: "Sim, com frequência. Influenciadores, moradores, famílias e pessoas de todas as idades. Recentemente encontramos uma família de dez pessoas para um videoclipe e uma mulher de 65 anos para outro ensaio."
+  - q: "Vocês trabalham com agências de modelos?"
+    a: "Sim, principalmente para modelos no auge da carreira. Em outros briefings fazemos castings de rua abertos ou vamos direto em pessoas que já conhecemos."
 ---
 ## O Serviço
 ### Rostos Que Nenhuma Agência Tem.
@@ -28,6 +33,13 @@ faq:
 Fazemos casting para campanhas, filmes e ensaios no Rio de Janeiro e em todo o Brasil, de modelos de agência a pessoas reais encontradas na rua, nas quadras e na comunidade. A maior parte passa pelo Fabio, que vive no Rio há 40 anos e cuja rede de talentos, modelos e criadores é de onde vêm nossos castings.
 
 Para [Nike × NOCTA]({{ '/pt/work/nike-nocta/' | relative_url }}), o casting saiu direto da favela: sem agências, sem composites, rostos encontrados pela própria comunidade. Para a [cápsula NFL × Flamengo da ProStandard]({{ '/pt/work/prostandard-flamengo/' | relative_url }}), seis rostos do Rio real estavam diante da câmera sete dias depois da primeira conversa.
+
+## Como Fazemos Casting
+### Chamada Aberta, Rostos Conhecidos ou Grandes Agências.
+
+Depende do que você precisa. Já fizemos castings de rua abertos, chamando todo mundo ao longo de dois dias. Quando você precisa de um perfil específico, muitas vezes já sabemos quem é essa pessoa. E para modelos no auge da carreira, trabalhamos com agências.
+
+Fazemos casting de não modelos o tempo todo, principalmente para uma pegada documental e crua: influenciadores, moradores, quem a história pedir. Pedidos recentes incluem uma família de dez pessoas para um videoclipe, uma mulher de 65 anos, e gestantes e mães com bebês para o projeto social da Narah Baptista.
 
 ## Por Que o Brasil
 ### A Diversidade É o Ponto.

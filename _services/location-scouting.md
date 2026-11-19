@@ -32,6 +32,11 @@ We scout and secure locations across Rio de Janeiro and all 26 Brazilian states,
 
 For [DSQUARED2's SS26]({{ '/work/dsquared2/' | relative_url }}) night shoot we scouted rooftops, staircases and corners of the Babilônia favela where the city lights stretch out below. [Magali Pascal's]({{ '/work/magali-pascal/' | relative_url }}) ALEGRIA collection moved through Ipanema, the Centro Histórico and Urca. [Casa Rosa]({{ '/work/casa-rosa/' | relative_url }}) found the quiet side of Rio at Praia Vermelha and Flamengo.
 
+## What Clients Ask For
+### The Classics, and the Places Nobody Else Has.
+
+The beaches come first, and Rio has plenty, from Ipanema to quiet, nature-led coves. Then the typical Brazil scenes: bars and restaurants with real character, monuments, viewpoints and favelas. The hidden ones are where we have the most fun, like the favela in Rio's North Zone where a recent ProStandard shoot became a motorcycle journey with stunts.
+
 ## Beyond Rio
 ### A Country of Settings.
 

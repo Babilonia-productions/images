@@ -28,6 +28,8 @@ faq:
     a: "Sim, além de campanhas, fashion films e conteúdo de bastidores."
   - q: "Vocês têm stylists e fotógrafos próprios?"
     a: "Temos parceiros fixos em quem confiamos, mas escolhemos o criativo de cada projeto pelo seu estilo, pelo que você precisa e pelo seu orçamento."
+  - q: "Vocês reservam estúdio?"
+    a: "Sim. Trabalhamos com estúdios com frequência, inclusive nos nossos trabalhos para o Latin Grammy. Faz sentido quando você precisa de um lookbook e de uma campanha lifestyle ao mesmo tempo."
 ---
 ## O Serviço
 ### Campanhas de Moda Com Pulso.
@@ -46,6 +48,8 @@ Temos stylists, cabeleireiros e maquiadores, fotógrafos e videomakers com quem 
 ## Por Que o Rio
 ### A Cidade Faz o Styling.
 
-A DSQUARED2 veio atrás de calor e ousadia e filmou de madrugada na favela da Babilônia. A Casa Rosa queria algo mais suave e encontrou na Praia Vermelha e no Flamengo. Mesma cidade, climas opostos.
+A maioria dos clientes de moda pede as praias primeiro, Ipanema acima de todas, e se você quer uma praia mais tranquila e cercada de natureza, também encontramos. Muitos querem as cenas típicas do Brasil: bares e restaurantes com cara própria, monumentos, mirantes e favelas.
+
+Adoramos ir além. Numa produção recente da ProStandard levamos a equipe a uma favela na Zona Norte do Rio para uma jornada de moto, com manobras e tudo. A DSQUARED2 veio atrás de calor e ousadia e filmou de madrugada na favela da Babilônia. A Casa Rosa queria algo mais suave e encontrou na Praia Vermelha e no Flamengo.
 
 Leia por que [marcas de moda estão produzindo suas campanhas SS2027 com uma produtora no Rio]({{ '/blog/fashion-brands-ss2027-campaigns-rio-production-company/' | relative_url }}) (em inglês).

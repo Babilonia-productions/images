@@ -10,7 +10,10 @@ order: 5
 related: [floyd, nike-nocta, prostandard-flamengo]
 handles:
   - "Treatment and creative direction"
-  - "Camera crew, digital or 16mm film"
+  - "Direction, in-house or with the right director for the job"
+  - "Camera, lighting and grip from Rio rental houses"
+  - "Drone operator through a trusted partner"
+  - "Digital, 16mm or 8mm"
   - "Casting and locations"
   - "Permits and logistics"
   - "Stills from the same production"
@@ -22,6 +25,10 @@ faq:
     a: "Yes. Documentary-led films are a core part of our work, built on real access to people and places in Rio and across Brazil."
   - q: "Do you produce music videos?"
     a: "Yes. A music video usually comes with stills and behind-the-scenes content from the same shoot."
+  - q: "Do you have in-house directors?"
+    a: "Yes. Helene directs in-house, as on ProStandard. For other projects we bring in the best director and team for the job."
+  - q: "Can you supply drones and cinema cameras?"
+    a: "Yes, through partners. Aerials come from a drone operator we trust, and camera, lighting and grip from rental houses in Rio."
 ---
 ## The Service
 ### Films With Documentary Instincts.
@@ -30,7 +37,14 @@ We produce campaign films, music videos, fashion films, branded documentaries an
 
 We shoot digitally, or on film when the concept calls for it. [Floyd's]({{ '/work/floyd/' | relative_url }}) SS26 campaign put a chessboard on Ipanema beach and was shot entirely on 16mm. For [Nike × NOCTA]({{ '/work/nike-nocta/' | relative_url }}), the 16mm footage later became part of the campaign stills.
 
+## Direction
+### In-House When It Fits. The Best Team When It Doesn't.
+
+What we make most: music videos, documentaries and fashion films. Helene directs in-house, as she did for ProStandard. On bigger productions we build the team around the job, and on a production the size of Nike's, the brand's own creative team of 15 to 20 people is part of it.
+
+Camera, lighting and grip come from Rio's rental houses, and aerials come through a drone operator we trust.
+
 ## Branded Documentary
 ### Stories People Choose to Watch.
 
-Audiences follow, buy from and share the brands whose work feels real. A documentary-led film earns that attention instead of interrupting for it. Read [why brands are investing in branded documentaries]({{ '/blog/the-power-of-authentic-storytelling/' | relative_url }}).
+Audiences follow, buy from and share the brands whose work feels real. A documentary-led film earns that attention instead of interrupting for it. Our documentary for Beautiful Destinations is currently on the international festival circuit. Read [why brands are investing in branded documentaries]({{ '/blog/the-power-of-authentic-storytelling/' | relative_url }}).

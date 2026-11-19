@@ -32,6 +32,11 @@ Buscamos e garantimos locações no Rio de Janeiro e em todos os 26 estados do B
 
 Para a filmagem noturna da [DSQUARED2 SS26]({{ '/pt/work/dsquared2/' | relative_url }}) buscamos lajes, escadarias e cantos da favela da Babilônia onde as luzes da cidade se estendem lá embaixo. A coleção ALEGRIA da [Magali Pascal]({{ '/pt/work/magali-pascal/' | relative_url }}) passou por Ipanema, o Centro Histórico e a Urca. A [Casa Rosa]({{ '/pt/work/casa-rosa/' | relative_url }}) encontrou o lado tranquilo do Rio na Praia Vermelha e no Flamengo.
 
+## O Que os Clientes Pedem
+### Os Clássicos, e os Lugares Que Ninguém Mais Tem.
+
+As praias vêm primeiro, e o Rio tem muitas, de Ipanema a enseadas tranquilas cercadas de natureza. Depois as cenas típicas do Brasil: bares e restaurantes com personalidade, monumentos, mirantes e favelas. Os lugares escondidos são onde mais nos divertimos, como a favela na Zona Norte do Rio onde uma produção recente da ProStandard virou uma jornada de moto com manobras.
+
 ## Além do Rio
 ### Um País de Cenários.
 

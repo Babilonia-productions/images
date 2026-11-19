@@ -28,6 +28,11 @@ We don't produce big events. What we do is help artists, brands and creators mak
 
 Our network in Rio runs deep. Fabio has lived in the city for 40 years and knows the people, the places and who to ask, which is what makes a community project work on the day and leaves a good impression after it.
 
+## Example
+### A Social Project, Cast From the Community.
+
+For Narah Baptista's social project, we found and brought together pregnant women and mothers with toddlers from the community. That is the kind of job this is: small, personal, and only possible with the right relationships.
+
 ## On Record
 ### Make the Moment Last.
 

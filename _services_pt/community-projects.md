@@ -28,6 +28,11 @@ Não produzimos grandes eventos. O que fazemos é ajudar artistas, marcas e cria
 
 Nossa rede no Rio é profunda. O Fabio vive na cidade há 40 anos e conhece as pessoas, os lugares e a quem pedir, e é isso que faz um projeto comunitário funcionar no dia e deixar uma boa impressão depois.
 
+## Exemplo
+### Um Projeto Social, Escalado na Comunidade.
+
+Para o projeto social da Narah Baptista, encontramos e reunimos gestantes e mães com bebês da comunidade. É esse o tipo de trabalho: pequeno, pessoal e só possível com as relações certas.
+
 ## Registro
 ### Faça o Momento Durar.
 

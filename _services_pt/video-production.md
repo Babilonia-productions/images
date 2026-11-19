@@ -10,7 +10,10 @@ order: 5
 related: [floyd, nike-nocta, prostandard-flamengo]
 handles:
   - "Roteiro e direção criativa"
-  - "Equipe de câmera, digital ou película 16mm"
+  - "Direção, interna ou com o diretor certo para o projeto"
+  - "Câmera, luz e maquinária de locadoras do Rio"
+  - "Operador de drone de um parceiro de confiança"
+  - "Digital, 16mm ou 8mm"
   - "Casting e locações"
   - "Autorizações e logística"
   - "Fotos da mesma produção"
@@ -22,6 +25,10 @@ faq:
     a: "Sim. Filmes com pegada documental são parte central do nosso trabalho, construídos com acesso real a pessoas e lugares no Rio e em todo o Brasil."
   - q: "Vocês produzem videoclipes?"
     a: "Sim. Um videoclipe normalmente vem com fotos e conteúdo de bastidores da mesma filmagem."
+  - q: "Vocês têm diretores internos?"
+    a: "Sim. A Helene dirige internamente, como na ProStandard. Em outros projetos trazemos o melhor diretor e a melhor equipe para o trabalho."
+  - q: "Vocês fornecem drones e câmeras de cinema?"
+    a: "Sim, por meio de parceiros. As imagens aéreas vêm de um operador de drone de confiança, e câmera, luz e maquinária de locadoras do Rio."
 ---
 ## O Serviço
 ### Filmes Com Instinto Documental.
@@ -30,7 +37,14 @@ Produzimos filmes de campanha, videoclipes, fashion films, documentários de mar
 
 Filmamos em digital, ou em película quando o conceito pede. A campanha SS26 da [Floyd]({{ '/pt/work/floyd/' | relative_url }}) montou um tabuleiro de xadrez na praia de Ipanema e foi filmada inteira em 16mm. Em [Nike × NOCTA]({{ '/pt/work/nike-nocta/' | relative_url }}), as imagens em 16mm viraram parte das fotos da campanha.
 
+## Direção
+### Interna Quando Faz Sentido. A Melhor Equipe Quando Não.
+
+O que mais fazemos: videoclipes, documentários e fashion films. A Helene dirige internamente, como fez para a ProStandard. Em produções maiores montamos a equipe em volta do projeto, e numa produção do tamanho da Nike, a própria equipe criativa da marca, de 15 a 20 pessoas, faz parte dela.
+
+Câmera, luz e maquinária vêm das locadoras do Rio, e as imagens aéreas de um operador de drone de confiança.
+
 ## Documentário de Marca
 ### Histórias Que as Pessoas Escolhem Assistir.
 
-O público segue, compra e compartilha as marcas cujo trabalho parece real. Um filme com pegada documental conquista essa atenção em vez de interromper. Leia [por que as marcas estão investindo em documentários]({{ '/pt/blog/the-power-of-authentic-storytelling/' | relative_url }}).
+O público segue, compra e compartilha as marcas cujo trabalho parece real. Um filme com pegada documental conquista essa atenção em vez de interromper. Nosso documentário para a Beautiful Destinations está atualmente no circuito internacional de festivais. Leia [por que as marcas estão investindo em documentários]({{ '/pt/blog/the-power-of-authentic-storytelling/' | relative_url }}).
