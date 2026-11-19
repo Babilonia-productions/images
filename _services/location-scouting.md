@@ -11,7 +11,7 @@ related: [dsquared2, magali-pascal, casa-rosa, ernest-leoty]
 handles:
   - "Location research and scouting"
   - "Access with owners and communities"
-  - "Location permits"
+  - "Location permits, consent and image-rights clearances"
   - "Favela and community locations"
   - "Route and timing between locations"
   - "Locations in all 26 Brazilian states"
@@ -22,6 +22,8 @@ faq:
     a: "Yes. Access and permits are part of the job, down to the last location permit."
   - q: "Can you scout outside Rio de Janeiro?"
     a: "Yes. We scout and secure locations across all 26 Brazilian states."
+  - q: "Can we film anywhere in public in Brazil?"
+    a: "Not freely. Locations need consent and the right clearances, and Brazil is strict about image rights for anyone who appears on camera. We handle both before the shoot."
 ---
 ## The Service
 ### The Location Is the Concept.

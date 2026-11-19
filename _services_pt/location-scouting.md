@@ -11,7 +11,7 @@ related: [dsquared2, magali-pascal, casa-rosa, ernest-leoty]
 handles:
   - "Pesquisa e scouting de locações"
   - "Acesso com proprietários e comunidades"
-  - "Autorizações de locação"
+  - "Autorizações, consentimentos e direito de imagem"
   - "Locações em favelas e comunidades"
   - "Rotas e tempos entre locações"
   - "Locações em todos os 26 estados"
@@ -22,6 +22,8 @@ faq:
     a: "Sim. Acessos e autorizações fazem parte do trabalho, até a última autorização de locação."
   - q: "Vocês fazem scouting fora do Rio de Janeiro?"
     a: "Sim. Buscamos e garantimos locações em todos os 26 estados do Brasil."
+  - q: "Podemos filmar em qualquer lugar público no Brasil?"
+    a: "Não livremente. Locações precisam de consentimento e das liberações certas, e o Brasil é rigoroso com direito de imagem de quem aparece na câmera. Resolvemos as duas coisas antes da filmagem."
 ---
 ## O Serviço
 ### A Locação É o Conceito.

@@ -26,6 +26,12 @@ faq:
     a: "Sim. A equipe trabalha em inglês e português, e a maioria dos nossos clientes são marcas e agências de fora do Brasil."
   - q: "Qual orçamento precisamos?"
     a: "Nossas produções começam a partir de US$ 2.000. Uma produção menor costuma ficar entre US$ 10.000 e US$ 20.000, e produções maiores, de vários dias, ficam acima disso. Fazemos um orçamento para cada projeto."
+  - q: "Precisamos de uma produtora brasileira para filmar no Brasil?"
+    a: "Sim. Uma produção estrangeira precisa de uma produtora brasileira no projeto, além de acesso local, da língua e da rede. É esse o papel que assumimos."
+  - q: "O que equipes estrangeiras mais erram?"
+    a: "Achar que podem filmar em qualquer lugar. Locações precisam de consentimento e liberações legais, e o Brasil é rigoroso com direito de imagem de quem aparece na câmera."
+  - q: "Produzir no Brasil é barato?"
+    a: "Mais barato que na Europa ou nos EUA, sim, mas costuma custar mais do que se espera. É preciso cumprir as regras locais, bons equipamentos custam caro em todo lugar, e pagamos cachês justos e profissionais para equipe, modelos e talentos."
 ---
 ## O Serviço
 ### Sua Parceira de Produção Local no Brasil.
@@ -34,8 +40,17 @@ Se você chega com seu próprio diretor ou equipe criativa, cuidamos de tudo em 
 
 Assumimos com frequência a parte brasileira de produções maiores. Na [campanha SS26 da DSQUARED2]({{ '/pt/work/dsquared2/' | relative_url }}) fizemos parceria com a Mawe Productions numa filmagem noturna na favela da Babilônia. Em [Nike × NOCTA]({{ '/pt/work/nike-nocta/' | relative_url }}) cuidamos do scouting de talentos e da produção de locações, com produção executiva da Eden.br. Para a [Soli&Sun]({{ '/pt/work/soli-sun/' | relative_url }}), com a Seasky Productions na produção executiva, tocamos casting, locações, styling e equipe internamente.
 
+## Para Quem É
+### Feito Para Marcas Que Filmam de Fora.
+
+A maioria dos nossos clientes de production service vem da Europa, e muitos dos Estados Unidos. Para uma marca estrangeira, o Brasil é difícil de acessar sozinho: é preciso cumprir as regras locais, ter acesso, falar a língua e conhecer a rede, e é preciso ter uma produtora brasileira no projeto. É esse o papel que assumimos.
+
 ## Antes de Chegar
-### Conheça o Terreno Antes de Pousar.
+### Não Dá Para Chegar e Filmar.
+
+O erro mais comum de equipes estrangeiras é achar que podem filmar em qualquer lugar. Locações precisam de consentimento e das liberações legais certas, e o Brasil é rigoroso com direito de imagem, então as pessoas que aparecem na câmera precisam autorizar. Resolvemos tudo isso antes da filmagem, não no dia.
+
+A outra surpresa é o preço. Produzir no Brasil ainda é bem mais barato do que na Europa ou nos EUA, mas costuma custar mais do que as pessoas esperam. Cumprir as regras locais tem um custo, bons equipamentos são um investimento em qualquer lugar do mundo, e não pagamos mal ninguém: modelos e talentos têm seus cachês profissionais, e nós os respeitamos.
 
 Conhecemos as ruas, as pessoas, a quem pedir acesso e quanto tempo leva de verdade o deslocamento entre duas locações. É essa a diferença entre um dia de filmagem tranquilo e um dia perdido. Funciona em qualquer escala, de uma equipe internacional completa a um único fotógrafo que precisa de um dia de apoio pelo Rio.
 
