@@ -37,4 +37,4 @@ We work closely with the artist, the director representing them, and the label i
 
 We always have a stylist on a music video, because it makes a huge part of the result, and usually an art director. On a campaign we sometimes skip art direction and let the local environment carry the look. A music video almost always needs someone thinking about the art.
 
-Recently we produced a three-day music video for a Brazilian singer, shot in a theater, on the beach, in a favela and at her home, with full art direction. We've produced videos for rappers too, including one from Tunisia, and two smaller, vlog-style videos for artists from Switzerland.
+Recently we produced a three-day music video for Brazilian singer Winnie da Sul, shot in a theater, on the beach, in a favela and at her home, with full art direction. We've produced videos for rappers too, including one from Tunisia, and two smaller, vlog-style videos for artists from Switzerland.
