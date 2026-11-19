@@ -40,7 +40,7 @@ jobs:
 
       - name: Build site (PR preview)
         if: github.event_name == 'pull_request'
-        run: jekyll build --future --baseurl "/preview/pr-${{ github.event.pull_request.number }}"
+        run: jekyll build --baseurl "/preview/pr-${{ github.event.pull_request.number }}"
 
       - name: Deploy production
         if: github.event_name != 'pull_request'
