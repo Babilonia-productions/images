@@ -2,46 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/pt/work/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/work/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/work/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/work/"/>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/pt/blog/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/blog/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/blog/"/>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/pt/services/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/services/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/services/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/services/"/>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/pt/filming-in-brazil/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/filming-in-brazil/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/filming-in-brazil/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/filming-in-brazil/"/>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/pt/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/"/>
-  </url>
-  <url>
     <loc>https://babiloniaproductions.com/preview/pr-35/work/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/work/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/work/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/work/"/>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/blog/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/blog/"/>
   </url>
   <url>
     <loc>https://babiloniaproductions.com/preview/pr-35/services/</loc>
@@ -56,78 +20,46 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/filming-in-brazil/"/>
   </url>
   <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/</loc>
+    <loc>https://babiloniaproductions.com/preview/pr-35/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/blog/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/blog/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/preview/pr-35/pt/work/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/work/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/work/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/work/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/preview/pr-35/pt/services/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/services/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/services/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/preview/pr-35/pt/filming-in-brazil/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/filming-in-brazil/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/filming-in-brazil/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/filming-in-brazil/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/preview/pr-35/pt/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/blog/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/blog/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/preview/pr-35/pt/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/"/>
   </url>
   <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/carnival-campaign-ideas-for-brands/</loc>
-    <lastmod>2027-01-20T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/shooting-during-carnival-in-rio/</loc>
-    <lastmod>2027-01-18T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/music-video-formats-rio/</loc>
-    <lastmod>2027-01-13T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/making-a-music-video-vs-a-campaign/</loc>
-    <lastmod>2027-01-11T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/how-much-does-a-music-video-cost-in-brazil/</loc>
-    <lastmod>2027-01-06T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/remote-production-in-brazil/</loc>
-    <lastmod>2027-01-04T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/shooting-on-film-in-brazil/</loc>
-    <lastmod>2026-12-30T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/how-to-write-a-production-brief/</loc>
-    <lastmod>2026-12-28T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/how-to-cast-real-people-in-brazil/</loc>
-    <lastmod>2026-12-23T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/rio-locations-beyond-ipanema/</loc>
-    <lastmod>2026-12-21T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/flying-a-drone-in-brazil/</loc>
-    <lastmod>2026-12-16T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/bringing-camera-gear-to-brazil/</loc>
-    <lastmod>2026-12-14T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/do-you-need-a-permit-to-film-in-rio/</loc>
-    <lastmod>2026-12-09T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/is-it-safe-to-shoot-in-rio/</loc>
-    <lastmod>2026-12-07T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/best-time-to-shoot-in-rio-de-janeiro/</loc>
-    <lastmod>2026-12-02T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/image-rights-brazil-model-release/</loc>
-    <lastmod>2026-11-30T11:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/preview/pr-35/blog/fixer-production-service-or-production-company-brazil/</loc>
-    <lastmod>2026-11-25T11:00:00+00:00</lastmod>
+    <loc>https://babiloniaproductions.com/preview/pr-35/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/preview/pr-35/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/preview/pr-35/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/preview/pr-35/"/>
   </url>
   <url>
     <loc>https://babiloniaproductions.com/preview/pr-35/blog/how-much-does-it-cost-to-shoot-in-brazil/</loc>
