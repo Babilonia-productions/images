@@ -25,7 +25,7 @@ We can bring in dancers, and a video built around choreography can carry a lot o
 
 ## 4. Multi-location, multi-day
 
-This is the full production. Recently we shot a three-day music video for a Brazilian singer across a theater, the beach, a favela and her home, with art direction tying it all together. It needs more people, more planning and a bigger budget, and it gives the artist a whole world on screen.
+This is the full production. Recently we shot a three-day music video for Brazilian singer Winnie da Sul across a theater, the beach, a favela and her home, with art direction tying it all together. It needs more people, more planning and a bigger budget, and it gives the artist a whole world on screen.
 
 ## 5. Travel
 

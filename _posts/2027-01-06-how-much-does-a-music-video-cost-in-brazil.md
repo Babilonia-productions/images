@@ -30,7 +30,7 @@ This is where it really depends on the creative vision. If you want people in it
 
 ## What pushes the number up
 
-- **Days.** One location in one day is the cheapest format. A three-day shoot across a theater, a beach, a favela and the artist's home, like one we did recently for a Brazilian singer, is a different budget.
+- **Days.** One location in one day is the cheapest format. A three-day shoot across a theater, a beach, a favela and the artist's home, like one we did recently for Brazilian singer Winnie da Sul, is a different budget.
 - **People.** Dancers, extras and casting real people all add up. Everyone gets paid properly.
 - **Camera and light.** A cinema camera package with operators and lighting is a big step up from one videographer.
 - **Styling and art direction.** We always have a stylist on a music video, and usually an art director. They make a huge part of the result, so they're worth keeping in the budget.
