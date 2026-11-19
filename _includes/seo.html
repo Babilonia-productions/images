@@ -69,7 +69,7 @@
   Only advertise a translation that actually exists — several EN posts have
   no PT counterpart, and pointing hreflang at a 404 is worse than silence.
 {%- endcomment -%}
-{%- assign all_docs = site.pages | concat: site.posts | concat: site.case_studies | concat: site.case_studies_pt -%}
+{%- assign all_docs = site.pages | concat: site.posts | concat: site.case_studies | concat: site.case_studies_pt | concat: site.services | concat: site.services_pt -%}
 {%- assign all_urls = all_docs | map: "url" -%}
 {%- if page.lang == "pt" -%}
   {%- assign en_url = page.url | remove_first: "/pt" -%}

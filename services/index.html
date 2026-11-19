@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Production Services in Rio de Janeiro & Brazil | Babilônia"
+description: "Production services from a Rio de Janeiro production company: campaign, fashion, photo and film production, casting, locations, fixing, remote shoots and events."
+og_image: /assets/img/og/work.jpg
+og_image_alt: "The full ProStandard NFL × Flamengo cast on the Rio beachfront under the palms"
+---
+{% assign services = site.services | sort: "order" %}
+<section class="work services-index">
+  <div class="work-header fade-up">
+    <h1 class="work-title">Our <em>Services.</em></h1>
+    <p class="work-intro">Babilônia Productions is a production company in Rio de Janeiro. We produce film and photography campaigns end to end, or take on the Brazil side of yours, in Rio and across all 26 Brazilian states.</p>
+  </div>
+
+  <div class="service-grid fade-up">
+    {% for s in services %}
+    <a class="who-card service-card" href="{{ s.url | relative_url }}">
+      <div class="who-card-num">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+      <h2 class="who-card-title">{{ s.short_title }}</h2>
+      <p class="who-card-text">{{ s.card_text }}</p>
+      <span class="service-card-link">Learn more →</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+{% include cta-strip.html %}

@@ -1,0 +1,26 @@
+{%- comment -%}
+  Contact band for the service pages. Mirrors the one hand-written at the
+  bottom of the home pages.
+{%- endcomment -%}
+<section class="cta-strip" id="contact">
+  <img class="cta-bg" src="{{ '/assets/img/floyd-03.jpg' | relative_url }}" alt="" loading="lazy">
+  <div class="cta-inner">
+    {% if page.lang == "pt" %}
+    <h2 class="cta-title">Venha ao Rio <em>Agora.</em></h2>
+    <p class="cta-sub">Chegue com uma visão, saia com uma campanha que seu público não vai parar de assistir. Casting, locações e equipe, tudo resolvido em campo.</p>
+    <div class="cta-buttons">
+      <a href="mailto:contact@babiloniaproductions.com?body=Ol%C3%A1%2C%20quero%20saber%20mais%20sobre%20as%20produ%C3%A7%C3%B5es" class="btn-large">Inicie um Projeto →</a>
+      <a href="{{ '/pt/work/' | relative_url }}" class="btn-ghost">Veja Nosso Trabalho</a>
+    </div>
+    <p class="cta-trust"><span class="cta-stars" aria-hidden="true">★★★★★</span> Confiança de Nike, DSQUARED2 &amp; Coolway <span class="cta-trust-sep">|</span> Mais de 30 campanhas produzidas no Brasil</p>
+    {% else %}
+    <h2 class="cta-title">Start Your Next Campaign <em>Now.</em></h2>
+    <p class="cta-sub">Arrive with a vision, leave with a campaign your audiences can't stop watching. Casting, locations, and crew — handled on the ground, anywhere in Brazil.</p>
+    <div class="cta-buttons">
+      <a href="mailto:contact@babiloniaproductions.com?body=Hi%2C%20I%27d%20love%20to%20learn%20more%20about%20productions" class="btn-large">Start a Project →</a>
+      <a href="{{ '/work/' | relative_url }}" class="btn-ghost">See Our Work</a>
+    </div>
+    <p class="cta-trust"><span class="cta-stars" aria-hidden="true">★★★★★</span> Trusted by Nike, DSQUARED2 &amp; Coolway <span class="cta-trust-sep">|</span> 30+ campaigns produced in Brazil</p>
+    {% endif %}
+  </div>
+</section>

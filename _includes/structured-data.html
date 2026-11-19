@@ -23,6 +23,8 @@
   {%- assign work_url = "/pt/work/" -%}
   {%- assign blog_url = "/pt/blog/" -%}
   {%- assign home_url = "/pt/" -%}
+  {%- assign services_label = "Serviços" -%}
+  {%- assign services_url = "/pt/services/" -%}
 {%- else -%}
   {%- assign content_language = "en" -%}
   {%- assign home_label = "Home" -%}
@@ -31,6 +33,8 @@
   {%- assign work_url = "/work/" -%}
   {%- assign blog_url = "/blog/" -%}
   {%- assign home_url = "/" -%}
+  {%- assign services_label = "Services" -%}
+  {%- assign services_url = "/services/" -%}
 {%- endif -%}
 <script type="application/ld+json">
 {
@@ -169,6 +173,33 @@
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": {{ home_label | jsonify }}, "item": {{ home_url | absolute_url | jsonify }} },
         { "@type": "ListItem", "position": 2, "name": {{ work_label | jsonify }}, "item": {{ work_url | absolute_url | jsonify }} },
+        { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }} }
+      ]
+    }
+    {%- elsif page.layout == "service" -%},
+    {
+      "@type": "Service",
+      "@id": {{ page_url | append: "#service" | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "serviceType": {{ page.short_title | jsonify }},
+      "description": {{ include.description | jsonify }},
+      "image": {{ page_image | jsonify }},
+      "inLanguage": {{ content_language | jsonify }},
+      "provider": { "@id": {{ org_id | jsonify }} },
+      "areaServed": [
+        { "@type": "City", "name": "Rio de Janeiro" },
+        { "@type": "Country", "name": "Brazil" }
+      ],
+      "availableLanguage": ["en", "pt-BR"],
+      "isPartOf": { "@id": {{ site_id | jsonify }} }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": {{ page_url | append: "#breadcrumb" | jsonify }},
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": {{ home_label | jsonify }}, "item": {{ home_url | absolute_url | jsonify }} },
+        { "@type": "ListItem", "position": 2, "name": {{ services_label | jsonify }}, "item": {{ services_url | absolute_url | jsonify }} },
         { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }} }
       ]
     }

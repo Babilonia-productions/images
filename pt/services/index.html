@@ -1,0 +1,28 @@
+---
+layout: default
+title: "Serviços de Produção no Rio de Janeiro e no Brasil | Babilônia"
+description: "Serviços de uma produtora no Rio de Janeiro: produção de campanhas, moda, foto e filme, casting, locações, production service, produção remota e eventos."
+og_image: /assets/img/og/work.jpg
+og_image_alt: "O elenco completo da campanha ProStandard NFL × Flamengo na orla do Rio, sob as palmeiras"
+permalink: /pt/services/
+---
+{% assign services = site.services_pt | sort: "order" %}
+<section class="work services-index">
+  <div class="work-header fade-up">
+    <h1 class="work-title">Nossos <em>Serviços.</em></h1>
+    <p class="work-intro">A Babilônia Productions é uma produtora no Rio de Janeiro. Produzimos campanhas de filme e fotografia de ponta a ponta, ou assumimos a parte brasileira da sua, no Rio e em todos os 26 estados do Brasil.</p>
+  </div>
+
+  <div class="service-grid fade-up">
+    {% for s in services %}
+    <a class="who-card service-card" href="{{ s.url | relative_url }}">
+      <div class="who-card-num">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+      <h2 class="who-card-title">{{ s.short_title }}</h2>
+      <p class="who-card-text">{{ s.card_text }}</p>
+      <span class="service-card-link">Saiba mais →</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+{% include cta-strip.html %}

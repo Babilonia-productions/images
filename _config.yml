@@ -10,6 +10,12 @@ collections:
   case_studies_pt:
     output: true
     permalink: /pt/work/:path/
+  services:
+    output: true
+    permalink: /services/:path/
+  services_pt:
+    output: true
+    permalink: /pt/services/:path/
 
 defaults:
   - scope:
@@ -23,6 +29,18 @@ defaults:
       type: "case_studies_pt"
     values:
       layout: "case-study"
+      lang: "pt"
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+      lang: "en"
+  - scope:
+      path: ""
+      type: "services_pt"
+    values:
+      layout: "service"
       lang: "pt"
   - scope:
       path: ""
