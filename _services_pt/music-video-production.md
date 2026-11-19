@@ -37,4 +37,4 @@ Trabalhamos de perto com o artista, com o diretor que o representa e com a grava
 
 Sempre temos stylist num videoclipe, porque faz uma diferença enorme no resultado, e normalmente um diretor de arte. Numa campanha às vezes dispensamos a direção de arte e deixamos o ambiente local carregar o visual. Um videoclipe quase sempre precisa de alguém pensando na arte.
 
-Recentemente produzimos um clipe de três dias para uma cantora brasileira, filmado num teatro, na praia, numa favela e na casa dela, com direção de arte completa. Também já produzimos clipes para rappers, incluindo um da Tunísia, e dois clipes menores, em estilo vlog, para artistas da Suíça.
+Recentemente produzimos um clipe de três dias para a cantora Winnie da Sul, filmado num teatro, na praia, numa favela e na casa dela, com direção de arte completa. Também já produzimos clipes para rappers, incluindo um da Tunísia, e dois clipes menores, em estilo vlog, para artistas da Suíça.
