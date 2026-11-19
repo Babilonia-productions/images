@@ -7,7 +7,7 @@ excerpt: "Lots of brands show up for Carnival. Very few go into where it comes f
 og_image: /assets/img/og/coolway.jpg
 og_image_alt: "Coolway campaign, morning light on the Copacabana seawall"
 ---
-Every year, a lot of brands show up for Carnival. The ones that do it well do it organically, and local brands are especially good at it. Everyone has their own local spin. Internationally, Jaded London is one we think did it really well.
+Every year, a lot of brands show up for Carnival. The ones that do it well do it organically. Brands like Matte Leão, Baer-Mate and Heineken each bring their own local spin. Internationally, Jaded London is one we think did it really well.
 
 But there's a bigger opportunity most brands haven't touched yet, and it's the one that gets me most excited.
 
