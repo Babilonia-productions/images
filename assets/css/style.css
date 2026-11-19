@@ -1103,7 +1103,11 @@
   .cs-stats svg { width: 14px; height: 14px; }
 
   /* BLOG POST */
-  .post-body { padding: 60px 48px 120px; max-width: 720px; }
+  .post-body { padding: 60px 48px 120px; max-width: 816px; margin: 0 auto; }
+  .page-hero.post-hero { max-width: 816px; margin: 0 auto; padding-bottom: 0; }
+  .post-hero .page-hero-title { font-size: clamp(40px, 5.5vw, 68px); }
+  .post-related { max-width: 816px; margin: 0 auto; }
+  .post-related .related-services { padding-top: 0; }
   .post-body p { font-size: 16px; font-weight: 300; line-height: 1.85; color: var(--muted); margin-bottom: 20px; }
   .post-body strong { color: var(--black); font-weight: 500; }
 

@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://babiloniaproductions.com/work/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/work/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/work/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/work/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/services/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/services/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/services/"/>
+  </url>
+  <url>
     <loc>https://babiloniaproductions.com/filming-in-brazil/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/filming-in-brazil/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/filming-in-brazil/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/filming-in-brazil/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/blog/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/blog/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/pt/work/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/work/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/work/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/work/"/>
+  </url>
+  <url>
+    <loc>https://babiloniaproductions.com/pt/services/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/services/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/services/"/>
   </url>
   <url>
     <loc>https://babiloniaproductions.com/pt/filming-in-brazil/</loc>
@@ -20,40 +50,10 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/blog/"/>
   </url>
   <url>
-    <loc>https://babiloniaproductions.com/pt/services/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/services/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/services/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/services/"/>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/pt/work/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/work/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/work/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/work/"/>
-  </url>
-  <url>
     <loc>https://babiloniaproductions.com/pt/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/"/>
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/"/>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/blog/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/blog/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/blog/"/>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/services/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/services/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/services/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/services/"/>
-  </url>
-  <url>
-    <loc>https://babiloniaproductions.com/work/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://babiloniaproductions.com/work/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://babiloniaproductions.com/pt/work/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://babiloniaproductions.com/work/"/>
   </url>
   <url>
     <loc>https://babiloniaproductions.com/</loc>
