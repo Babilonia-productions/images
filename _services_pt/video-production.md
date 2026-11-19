@@ -41,7 +41,7 @@ Filmamos em digital, ou em película quando o conceito pede. A campanha SS26 da 
 ## Direção
 ### Interna Quando Faz Sentido. A Melhor Equipe Quando Não.
 
-O que mais fazemos: videoclipes, documentários e fashion films. A Helene Doetsch dirige internamente, como fez para a LOX e a ProStandard. Em produções maiores montamos a equipe em volta do projeto, e numa produção do tamanho da Nike, a própria equipe criativa da marca, de 15 a 20 pessoas, faz parte dela.
+O que mais fazemos: [videoclipes]({{ '/pt/services/music-video-production/' | relative_url }}), documentários e fashion films. A Helene Doetsch dirige internamente, como fez para a LOX e a ProStandard. Em produções maiores montamos a equipe em volta do projeto, e numa produção do tamanho da Nike, a própria equipe criativa da marca, de 15 a 20 pessoas, faz parte dela.
 
 Câmera, luz e maquinária vêm das locadoras do Rio, e as imagens aéreas de um operador de drone de confiança. Na pós, trabalhamos com frequência com os editores Richard Camilo, Jorge Araulli, Samuel Chuengue e Gabriel Camacho, e fazemos parcerias com produtoras como a [Dear Stranger Films](https://www.instagram.com/dearstranger.films/){:target="_blank" rel="noopener noreferrer"}.
 
