@@ -49,4 +49,22 @@ og_image_alt: "The full ProStandard NFL × Flamengo cast on the Rio beachfront u
   </div>
 </section>
 
+{% assign latest_posts = site.posts | where_exp: "p", "p.lang != 'pt'" %}
+<section class="work services-latest">
+  <div class="section-label fade-up">
+    <span class="section-label-line"></span>
+    <span class="section-label-text">Latest From the Blog</span>
+  </div>
+  <div class="index-grid fade-up">
+    {% for post in latest_posts limit: 4 %}
+    <a class="index-card" href="{{ post.url | relative_url }}">
+      <div class="index-card-tag">{{ post.date | date: "%B %-d, %Y" }}</div>
+      <h3 class="index-card-title">{{ post.title }}</h3>
+      <p class="index-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+    </a>
+    {% endfor %}
+  </div>
+  <a href="{{ '/blog/' | relative_url }}" class="btn-large work-teaser-cta fade-up">Read the Blog →</a>
+</section>
+
 {% include cta-strip.html %}

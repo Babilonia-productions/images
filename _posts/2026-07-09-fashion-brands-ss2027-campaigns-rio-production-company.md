@@ -3,6 +3,7 @@ title: "Why Fashion Brands Are Shooting Their SS2027 Campaigns With a Production
 excerpt: "If you're already scouting for SS2027, you know the brief: the campaign needs to look incredible, but \"looks incredible\" isn't the job anymore. It needs to make someone stop scrolling, feel something, and actually go buy the thing."
 og_image: /assets/img/og/post-ss2027.jpg
 og_image_alt: "A sportswear campaign shot on a neighbourhood football court in Rio"
+services: [fashion-production]
 ---
 If you're already scouting for SS2027, you already know the brief: the campaign needs to look incredible, but "looks incredible" isn't the job anymore. It needs to make someone stop scrolling, feel something, and actually go buy the thing.
 

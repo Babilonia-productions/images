@@ -6,6 +6,7 @@ description: "Twelve Rio de Janeiro shoot locations beyond Ipanema, from wild We
 excerpt: "Everyone asks for Ipanema first, and fair enough. But Rio has wild beaches, rainforest, old downtown streets and favelas with views most productions never see. Here are twelve we love."
 og_image: /assets/img/og/magali-pascal.jpg
 og_image_alt: "Magali Pascal ALEGRIA campaign at Praia Vermelha beneath Pão de Açúcar"
+services: [fashion-production, photo-production, location-scouting]
 ---
 Everyone asks for Ipanema first, and fair enough, it's beautiful. But Rio is a lot more than one beach, and the shoots people remember usually happen somewhere they didn't know to ask for.
 

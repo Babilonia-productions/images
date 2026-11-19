@@ -6,6 +6,7 @@ description: "What it costs to shoot on Super 8 or 35mm film in Brazil, where to
 excerpt: "Film is expensive, two minutes go fast, and it can be the most beautiful thing in your campaign. Here's what it costs in Brazil and how to decide."
 og_image: /assets/img/og/floyd.jpg
 og_image_alt: "Floyd campaign, a chess game set up on Ipanema beach and shot on 16mm film"
+services: [photo-production, video-production]
 ---
 I'm an analog photographer, so I'm biased. Film is beautiful, and there's nothing quite like it. It's also expensive, and two minutes go by very fast. So here's the honest picture before you fall in love with the idea.
 

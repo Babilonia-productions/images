@@ -28,6 +28,7 @@ faq:
     a: "Yes, if you want to. Most clients follow along on WhatsApp with regular updates, and we can set up a live video stream from set."
   - q: "Can we just send you the product?"
     a: "Yes. Several brands, including the hair-care labels LOX, Hidratei and Cantao, have shipped us their products to shoot in Rio without anyone from the brand on set."
+related_posts: [remote-production-in-brazil, how-to-write-a-production-brief, bringing-camera-gear-to-brazil]
 ---
 ## The Service
 ### Full Ambition. No Flights.

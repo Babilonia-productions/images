@@ -30,6 +30,7 @@ faq:
     a: "Sim. A Helene Doetsch dirige internamente, como na LOX e na ProStandard. Em outros projetos trazemos o melhor diretor e a melhor equipe para o trabalho."
   - q: "Vocês fornecem drones e câmeras de cinema?"
     a: "Sim, por meio de parceiros. As imagens aéreas vêm de um operador de drone de confiança, e câmera, luz e maquinária de locadoras do Rio."
+related_posts: [the-power-of-authentic-storytelling, shooting-on-film-in-brazil, flying-a-drone-in-brazil, how-much-does-a-music-video-cost-in-brazil]
 ---
 ## O Serviço
 ### Filmes Com Instinto Documental.

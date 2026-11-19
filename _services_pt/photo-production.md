@@ -31,6 +31,7 @@ faq:
     a: "Sim. Trabalhamos com estúdios com frequência, inclusive nos nossos trabalhos para o Latin Grammy, e muitas vezes combinamos um lookbook em estúdio com um ensaio lifestyle em locação."
   - q: "Vocês fotografam em analógico?"
     a: "Sim. Nossa produtora Helene é fotógrafa analógica, e fotografamos em 16mm, 8mm e grande formato."
+related_posts: [shooting-on-film-in-brazil, rio-locations-beyond-ipanema, how-to-write-a-production-brief, best-time-to-shoot-in-rio-de-janeiro]
 ---
 ## O Serviço
 ### Fotos Que Parecem Vividas.

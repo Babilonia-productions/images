@@ -6,6 +6,7 @@ description: "Real budget ranges for a music video shot in Brazil: the R$8,000 m
 excerpt: "You can make a music video in Brazil for R$8,000. Should you? Here's what each budget level actually buys you, from a producer who's made them across Rio."
 og_image: /assets/img/og/floyd.jpg
 og_image_alt: "Floyd campaign, a chess game set up on Ipanema beach and shot on 16mm film"
+services: [video-production, music-video-production]
 ---
 You can make a music video in Brazil for around R$8,000. The question is what you'll get for it, and whether that's the video your song deserves.
 

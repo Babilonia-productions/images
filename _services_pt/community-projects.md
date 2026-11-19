@@ -24,6 +24,7 @@ faq:
     a: "Até cerca de 100 convidados. Acima disso, o ideal é uma produtora de eventos dedicada."
   - q: "Vocês ajudam com ativações de influenciadores?"
     a: "Sim. Uma visita com um lado social, uma pequena apresentação ou palestra, música ou dança. Encontramos o lugar, as pessoas e o acesso."
+related_posts: [shooting-in-the-favela-producing-campaigns-brazil-communities, shooting-during-carnival-in-rio, is-it-safe-to-shoot-in-rio]
 ---
 ## O Serviço
 ### Pequeno, Local e Enraizado na Comunidade.

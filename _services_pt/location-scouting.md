@@ -33,6 +33,7 @@ faq:
     a: "Em fotos, vídeo ou uma apresentação compartilhada, ou ao vivo por videochamada direto da locação, se você quiser ver em tempo real."
   - q: "Com quanta antecedência vocês precisam para autorizações?"
     a: "As autorizações da prefeitura para espaços públicos no Rio levam de 7 a 15 dias úteis, e praias e parques naturais passam pela Secretaria de Meio Ambiente. Filmagens com drone também precisam de liberações federais. Avise cedo."
+related_posts: [rio-locations-beyond-ipanema, do-you-need-a-permit-to-film-in-rio, flying-a-drone-in-brazil, shooting-in-the-favela-producing-campaigns-brazil-communities, best-time-to-shoot-in-rio-de-janeiro]
 ---
 ## O Serviço
 ### A Locação É o Conceito.

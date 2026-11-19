@@ -32,6 +32,7 @@ faq:
     a: "Mais barato que na Europa ou nos EUA, sim, mas costuma custar mais do que se espera. É preciso cumprir as regras locais, bons equipamentos custam caro em todo lugar, e pagamos cachês justos e profissionais para equipe, modelos e talentos."
   - q: "E se o tempo estiver ruim no dia da filmagem?"
     a: "Se o tempo estiver muito ruim, mudamos a data sem custo extra."
+related_posts: [how-much-does-it-cost-to-shoot-in-brazil, how-to-write-a-production-brief, best-time-to-shoot-in-rio-de-janeiro, brazil-is-having-a-moment]
 ---
 ## O Serviço
 ### Uma Equipe, do Briefing ao Arquivo Final.

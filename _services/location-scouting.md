@@ -33,6 +33,7 @@ faq:
     a: "As photos, video or a shared deck, or live on a video call from the location if you want to see it in real time."
   - q: "How far ahead do you need for permits?"
     a: "City permits for public locations in Rio take 7 to 15 working days, and beaches and natural parks go through the city's Environment Secretariat. Drone work needs federal clearances on top. Tell us early."
+related_posts: [rio-locations-beyond-ipanema, do-you-need-a-permit-to-film-in-rio, flying-a-drone-in-brazil, shooting-in-the-favela-producing-campaigns-brazil-communities, best-time-to-shoot-in-rio-de-janeiro]
 ---
 ## The Service
 ### The Location Is the Concept.

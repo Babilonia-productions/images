@@ -31,6 +31,7 @@ faq:
     a: "Yes. We work with studios regularly, including on our Latin Grammys work, and often combine a studio lookbook with a lifestyle shoot on location."
   - q: "Do you shoot analog?"
     a: "Yes. Our producer Helene is an analog photographer, and we shoot 16mm, 8mm and large format."
+related_posts: [shooting-on-film-in-brazil, rio-locations-beyond-ipanema, how-to-write-a-production-brief, best-time-to-shoot-in-rio-de-janeiro]
 ---
 ## The Service
 ### Stills That Feel Lived In.

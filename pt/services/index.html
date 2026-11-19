@@ -50,4 +50,22 @@ permalink: /pt/services/
   </div>
 </section>
 
+{% assign latest_posts = site.posts | where: "lang", "pt" %}
+<section class="work services-latest">
+  <div class="section-label fade-up">
+    <span class="section-label-line"></span>
+    <span class="section-label-text">Do Blog</span>
+  </div>
+  <div class="index-grid fade-up">
+    {% for post in latest_posts limit: 4 %}
+    <a class="index-card" href="{{ post.url | relative_url }}">
+      <div class="index-card-tag">{{ post.date | date: "%d.%m.%Y" }}</div>
+      <h3 class="index-card-title">{{ post.title }}</h3>
+      <p class="index-card-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+    </a>
+    {% endfor %}
+  </div>
+  <a href="{{ '/pt/blog/' | relative_url }}" class="btn-large work-teaser-cta fade-up">Leia o Blog →</a>
+</section>
+
 {% include cta-strip.html %}

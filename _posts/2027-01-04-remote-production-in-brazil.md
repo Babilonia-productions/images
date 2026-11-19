@@ -6,6 +6,7 @@ description: "How remote production in Brazil works: meetings, approval decks, s
 excerpt: "You can produce a campaign in Rio without anyone from the brand getting on a plane. It works, as long as you get the approvals and the customs right."
 og_image: /assets/img/og/soli-sun.jpg
 og_image_alt: "Soli&Sun campaign, the bag at a Rio street market"
+services: [remote-production]
 ---
 You can produce a campaign in Rio without anyone from your team getting on a plane. [Soli&Sun]({{ '/work/soli-sun/' | relative_url }}) did it from Europe. LOX, Hidratei and Cantao shipped us their products and let us shoot them here. It works really well, as long as two things are right: how you approve things, and how you get products through customs.
 

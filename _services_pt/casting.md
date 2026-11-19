@@ -26,6 +26,7 @@ faq:
     a: "Sim, com frequência. Influenciadores, moradores, famílias e pessoas de todas as idades. Recentemente encontramos uma família de dez pessoas para um videoclipe e uma mulher de 65 anos para outro ensaio."
   - q: "Vocês trabalham com agências de modelos?"
     a: "Sim, principalmente para modelos no auge da carreira. Em outros briefings fazemos castings de rua abertos ou vamos direto em pessoas que já conhecemos."
+related_posts: [how-to-cast-real-people-in-brazil, image-rights-brazil-model-release, shooting-in-the-favela-producing-campaigns-brazil-communities]
 ---
 ## O Serviço
 ### Rostos Que Nenhuma Agência Tem.

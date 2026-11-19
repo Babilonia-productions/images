@@ -6,6 +6,7 @@ description: "When to shoot in Rio: the warm, long-day season from November to J
 excerpt: "Rio doesn't really have a bad season, but it does have a best one, and it's starting right now. Here's how the year breaks down for a shoot, with Carnival 2027 dates."
 og_image: /assets/img/og/casa-rosa.jpg
 og_image_alt: "Casa Rosa campaign shot on the quiet side of Rio"
+services: [campaign-production, photo-production, location-scouting]
 ---
 People ask us when to come as if there's a wrong answer. In Rio there mostly isn't. But there is a best stretch of the year, and it's starting right now.
 

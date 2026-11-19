@@ -1,11 +1,12 @@
 ---
 title: "How Much Does It Cost to Shoot in Brazil? A Rio Producer's Answer"
-date: 2026-11-23 08:00:00 -0300
+date: 2026-11-19 07:00:00 -0300
 author: helene
 description: "Real numbers for shooting a campaign in Brazil: what a shoot day costs, what a typical production runs, and why Rio is cheaper than Europe but pricier than you think."
 excerpt: "Brazil is cheaper than Europe or the US. It's also, almost always, more expensive than people expect. Here's where the money goes, and how to make it go further."
 og_image: /assets/img/og/prostandard-flamengo.jpg
 og_image_alt: "The full ProStandard NFL × Flamengo cast on the Rio beachfront under the palms"
+services: [campaign-production, production-services-brazil]
 ---
 The question we get most isn't about permits, safety or the weather. It's "how much?", and it usually arrives with a number already attached, one that was decided before anyone in Brazil was asked.
 

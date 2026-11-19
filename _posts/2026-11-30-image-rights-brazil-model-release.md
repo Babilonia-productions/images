@@ -6,6 +6,7 @@ description: "Brazil protects a person's image in its Constitution. What a talen
 excerpt: "In Brazil, a person's image is protected by the Constitution. That changes what a model release has to say, and who needs to sign one."
 og_image: /assets/img/og/nike-nocta.jpg
 og_image_alt: "Nike NOCTA campaign key art shot in Rio"
+services: [casting, production-services-brazil]
 ---
 In plenty of countries, a model release is a one-page formality someone prints out on the morning of the shoot. In Brazil it's where a campaign can quietly go wrong, because here a person's image is protected by the Constitution itself.
 

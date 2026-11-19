@@ -30,6 +30,7 @@ faq:
     a: "Yes. Helene Doetsch directs in-house, as on LOX and ProStandard. For other projects we bring in the best director and team for the job."
   - q: "Can you supply drones and cinema cameras?"
     a: "Yes, through partners. Aerials come from a drone operator we trust, and camera, lighting and grip from rental houses in Rio."
+related_posts: [the-power-of-authentic-storytelling, shooting-on-film-in-brazil, flying-a-drone-in-brazil, how-much-does-a-music-video-cost-in-brazil]
 ---
 ## The Service
 ### Films With Documentary Instincts.

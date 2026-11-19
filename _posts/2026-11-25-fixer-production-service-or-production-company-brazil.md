@@ -6,6 +6,7 @@ description: "Three ways to work with a local partner in Brazil, what each one c
 excerpt: "This week we're helping a photographer shoot at the horse races for a small fixer fee. Other weeks we run a full campaign crew. Same company, very different jobs. Here's how to tell which one you need."
 og_image: /assets/img/og/soli-sun.jpg
 og_image_alt: "Soli&Sun campaign shot across Rio's most iconic places"
+services: [production-services-brazil]
 ---
 This week we're helping a photographer shoot at the horse races. It's a small fixer job: a bit of access, a bit of local knowledge, and someone who knows where to stand. Other weeks we're running a campaign with 20-plus people on set, casting, locations, permits and all.
 
@@ -54,7 +55,7 @@ The first is thinking you only need a fixer. We see this a lot: someone arrives 
 
 The second is assuming you can turn up and shoot anywhere. Rio requires a permit to film in public locations, recognizable people need to give consent, and Brazil is strict about image rights. Sort it before the shoot, not on the day.
 
-The third is budgeting for "cheap Brazil". Shooting here is much cheaper than in Europe or the US, but usually more than people expect. We broke down [what a shoot in Brazil actually costs]({{ '/blog/how-much-does-it-cost-to-shoot-in-brazil/' | relative_url }}) earlier this week.
+The third is budgeting for "cheap Brazil". Shooting here is much cheaper than in Europe or the US, but usually more than people expect. We broke down [what a shoot in Brazil actually costs]({{ '/blog/how-much-does-it-cost-to-shoot-in-brazil/' | relative_url }}) in a separate post.
 
 The rest of the practical stuff, from ANCINE to insurance to rain days, is in our [Filming in Brazil FAQ]({{ '/filming-in-brazil/' | relative_url }}).
 

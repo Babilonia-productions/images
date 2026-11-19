@@ -1,0 +1,21 @@
+{%- comment -%}
+  Service chips by slug, in the page's language:
+  {% include related-services.html slugs=page.services %}
+{%- endcomment -%}
+{%- if page.lang == "pt" -%}{%- assign rs_all = site.services_pt -%}{%- else -%}{%- assign rs_all = site.services -%}{%- endif -%}
+{%- if include.slugs %}
+<section class="related-services fade-up">
+  <div class="section-label">
+    <span class="section-label-line"></span>
+    <span class="section-label-text">{% if page.lang == "pt" %}Serviços Relacionados{% else %}Related Services{% endif %}</span>
+  </div>
+  <ul class="service-chips">
+    {%- for slug in include.slugs %}
+    {%- assign rs = rs_all | where: "slug", slug | first %}
+    {%- if rs %}
+    <li><a href="{{ rs.url | relative_url }}">{{ rs.short_title }}</a></li>
+    {%- endif %}
+    {%- endfor %}
+  </ul>
+</section>
+{%- endif %}

@@ -28,6 +28,7 @@ faq:
     a: "Sim, se quiser. A maioria dos clientes acompanha pelo WhatsApp com atualizações frequentes, e podemos montar uma transmissão ao vivo do set."
   - q: "Podemos só enviar o produto?"
     a: "Sim. Várias marcas, incluindo a LOX, a Hidratei e a Cantao, já nos enviaram seus produtos para fotografar no Rio, sem ninguém da marca no set."
+related_posts: [remote-production-in-brazil, how-to-write-a-production-brief, bringing-camera-gear-to-brazil]
 ---
 ## O Serviço
 ### Ambição Total. Nenhum Voo.

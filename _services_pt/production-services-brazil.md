@@ -37,6 +37,7 @@ faq:
     a: "Mais barato que na Europa ou nos EUA, sim, mas costuma custar mais do que se espera. É preciso cumprir as regras locais, bons equipamentos custam caro em todo lugar, e pagamos cachês justos e profissionais para equipe, modelos e talentos."
   - q: "Vocês cuidam de hotéis, transporte e catering?"
     a: "Sim. Cuidamos do transporte da produção e dos traslados do aeroporto, do catering e de reservas de hotel por uma pequena taxa. Tradutores estão disponíveis se necessário, mas nossa equipe é multilíngue, então raramente é preciso."
+related_posts: [fixer-production-service-or-production-company-brazil, do-you-need-a-permit-to-film-in-rio, bringing-camera-gear-to-brazil, is-it-safe-to-shoot-in-rio, how-much-does-it-cost-to-shoot-in-brazil]
 ---
 ## O Serviço
 ### Sua Parceira de Produção Local no Brasil.

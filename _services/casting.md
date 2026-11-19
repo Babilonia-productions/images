@@ -26,6 +26,7 @@ faq:
     a: "Yes, often. Influencers, locals, families and people of every age. We recently cast a family of ten for a music video and a 65-year-old woman for another shoot."
   - q: "Do you work with model agencies?"
     a: "Yes, especially for models at the top of their careers. For other briefs we run open street castings or go straight to people we already know."
+related_posts: [how-to-cast-real-people-in-brazil, image-rights-brazil-model-release, shooting-in-the-favela-producing-campaigns-brazil-communities]
 ---
 ## The Service
 ### Faces You Can't Book Through an Agency.

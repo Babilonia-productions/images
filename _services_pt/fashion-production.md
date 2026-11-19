@@ -33,6 +33,7 @@ faq:
     a: "Sim. Trabalhamos com estúdios com frequência, inclusive nos nossos trabalhos para o Latin Grammy. Faz sentido quando você precisa de um lookbook e de uma campanha lifestyle ao mesmo tempo."
   - q: "Vocês fazem cobertura de desfiles?"
     a: "Sim, para marcas brasileiras: cobertura do desfile e do backstage, em foto e vídeo."
+related_posts: [fashion-brands-ss2027-campaigns-rio-production-company, rio-locations-beyond-ipanema, carnival-campaign-ideas-for-brands, how-to-cast-real-people-in-brazil]
 ---
 ## O Serviço
 ### Campanhas de Moda Com Pulso.

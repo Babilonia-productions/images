@@ -6,6 +6,7 @@ description: "How to produce a shoot during Rio Carnival 2027: key dates, samba 
 excerpt: "Carnival is the best time of the year in Rio, and the busiest. Here's how to shoot it without getting stuck in a crowd, a traffic jam or a hotel bill you didn't plan for."
 og_image: /assets/img/og/dsquared2.jpg
 og_image_alt: "Dsquared2 SS26 campaign shot at night in Rio's Babilônia favela"
+services: [community-projects, production-services-brazil, location-scouting]
 ---
 Carnival is the best time of the year in Rio. It's so vibrant, and there's so much going on that you could shoot for a week and only scratch the surface. It's also when the city is at its busiest, and that's what catches brands out.
 
