@@ -33,7 +33,7 @@ Here's one thing that's simpler. A music video usually doesn't need a sound reco
 
 Recently we produced a three-day music video for Brazilian singer Winnie da Sul. We shot in a theater, on the beach, in a favela and at her home, with full art direction, so every location felt like part of her world.
 
-We've also worked with rappers, including one from Tunisia, and made two smaller, vlog-style videos for artists from Switzerland. And for an actor based in France who wanted to reconnect with Brazil, we found a real Brazilian family of ten for his video. We told that story in [How to Cast Real People in Brazil]({{ '/blog/how-to-cast-real-people-in-brazil/' | relative_url }}).
+We've also worked with rappers, including GGA Official from Tunisia, and made two smaller, vlog-style videos for artists from Switzerland. And for an actor based in France who wanted to reconnect with Brazil, we found a real Brazilian family of ten for his video. We told that story in [How to Cast Real People in Brazil]({{ '/blog/how-to-cast-real-people-in-brazil/' | relative_url }}).
 
 ## Our take
 
