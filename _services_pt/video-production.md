@@ -27,7 +27,7 @@ faq:
   - q: "Vocês produzem videoclipes?"
     a: "Sim. Um videoclipe normalmente vem com fotos e conteúdo de bastidores da mesma filmagem."
   - q: "Vocês têm diretores internos?"
-    a: "Sim. A Helene Doetsch dirige internamente, como na LOZ e na ProStandard. Em outros projetos trazemos o melhor diretor e a melhor equipe para o trabalho."
+    a: "Sim. A Helene Doetsch dirige internamente, como na LOX e na ProStandard. Em outros projetos trazemos o melhor diretor e a melhor equipe para o trabalho."
   - q: "Vocês fornecem drones e câmeras de cinema?"
     a: "Sim, por meio de parceiros. As imagens aéreas vêm de um operador de drone de confiança, e câmera, luz e maquinária de locadoras do Rio."
 ---
@@ -41,7 +41,7 @@ Filmamos em digital, ou em película quando o conceito pede. A campanha SS26 da 
 ## Direção
 ### Interna Quando Faz Sentido. A Melhor Equipe Quando Não.
 
-O que mais fazemos: videoclipes, documentários e fashion films. A Helene Doetsch dirige internamente, como fez para a LOZ e a ProStandard. Em produções maiores montamos a equipe em volta do projeto, e numa produção do tamanho da Nike, a própria equipe criativa da marca, de 15 a 20 pessoas, faz parte dela.
+O que mais fazemos: videoclipes, documentários e fashion films. A Helene Doetsch dirige internamente, como fez para a LOX e a ProStandard. Em produções maiores montamos a equipe em volta do projeto, e numa produção do tamanho da Nike, a própria equipe criativa da marca, de 15 a 20 pessoas, faz parte dela.
 
 Câmera, luz e maquinária vêm das locadoras do Rio, e as imagens aéreas de um operador de drone de confiança. Na pós, trabalhamos com frequência com os editores Richard Camilo, Jorge Araulli, Samuel Chuengue e Gabriel Camacho, e fazemos parcerias com produtoras como a [Dear Stranger Films](https://www.instagram.com/dearstranger.films/){:target="_blank" rel="noopener noreferrer"}.
 

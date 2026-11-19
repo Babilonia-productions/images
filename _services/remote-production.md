@@ -27,7 +27,7 @@ faq:
   - q: "Can we watch the shoot live?"
     a: "Yes, if you want to. Most clients follow along on WhatsApp with regular updates, and we can set up a live video stream from set."
   - q: "Can we just send you the product?"
-    a: "Yes. Several brands, including the hair-care labels LOZ, Hidratei and Cantao, have shipped us their products to shoot in Rio without anyone from the brand on set."
+    a: "Yes. Several brands, including the hair-care labels LOX, Hidratei and Cantao, have shipped us their products to shoot in Rio without anyone from the brand on set."
 ---
 ## The Service
 ### Full Ambition. No Flights.
@@ -39,7 +39,7 @@ Remote production lets a brand shoot in Brazil without flying a team across the 
 
 Most clients don't need to watch live, but they stay in touch with us throughout. WhatsApp is how we normally work, we send updates at every step, and if you want a live video stream from set, that's no problem. It's up to you how involved you want to be.
 
-Some remote jobs are as simple as shipping us the product. LOZ, Hidratei and Cantao, along with several smaller labels, have sent us their products to shoot in Rio, with no one from the brand on set.
+Some remote jobs are as simple as shipping us the product. LOX, Hidratei and Cantao, along with several smaller labels, have sent us their products to shoot in Rio, with no one from the brand on set.
 
 ## Proof
 ### One Bag. One City. Zero Flights.

@@ -26,7 +26,7 @@ faq:
   - q: "Onde no Rio vocês fotografam?"
     a: "Onde o conceito pedir: praias como Ipanema, Copacabana e Praia Vermelha, o Centro Histórico, a Urca, quadras de bairro e favelas do Rio, além de locações em todos os 26 estados do Brasil."
   - q: "Vocês fazem fotografia de produto e still?"
-    a: "Sim. Já fotografamos acessórios para a Burga, produtos para cabelo da LOZ, Hidratei e Cantao, protetor solar e skincare, normalmente em espaços reais do Rio, para criar uma sensação e não uma foto de catálogo."
+    a: "Sim. Já fotografamos acessórios para a Burga, produtos para cabelo da LOX, Hidratei e Cantao, protetor solar e skincare, normalmente em espaços reais do Rio, para criar uma sensação e não uma foto de catálogo."
   - q: "Vocês oferecem estúdio?"
     a: "Sim. Trabalhamos com estúdios com frequência, inclusive nos nossos trabalhos para o Latin Grammy, e muitas vezes combinamos um lookbook em estúdio com um ensaio lifestyle em locação."
   - q: "Vocês fotografam em analógico?"
@@ -47,7 +47,7 @@ A campanha de calçados da [Coolway]({{ '/pt/work/coolway/' | relative_url }}) f
 ## Produto e Still
 ### O Que Importa É a Sensação, Não o Produto.
 
-Também produzimos fotografia de produto e still: acessórios para a Burga, produtos para cabelo da LOZ, Hidratei e Cantao, protetor solar, skincare e mais. No fim, uma foto de produto é sobre criar uma sensação, então colocamos os produtos em espaços reais do Rio, como hotéis e cafés, ou em estúdio quando o briefing pede. Neste momento estamos produzindo uma série de still para a fotógrafa Anna Pihan no [Santa Teresa Hotel](https://www.santateresahotelrio.com/pt-br/){:target="_blank" rel="noopener noreferrer"}. O estúdio também faz sentido quando você precisa de um lookbook e de uma campanha lifestyle ao mesmo tempo.
+Também produzimos fotografia de produto e still: acessórios para a Burga, produtos para cabelo da LOX, Hidratei e Cantao, protetor solar, skincare e mais. No fim, uma foto de produto é sobre criar uma sensação, então colocamos os produtos em espaços reais do Rio, como hotéis e cafés, ou em estúdio quando o briefing pede. Neste momento estamos produzindo uma série de still para a fotógrafa Anna Pihan no [Santa Teresa Hotel](https://www.santateresahotelrio.com/pt-br/){:target="_blank" rel="noopener noreferrer"}. O estúdio também faz sentido quando você precisa de um lookbook e de uma campanha lifestyle ao mesmo tempo.
 
 ## Em Filme
 ### Analógico, Feito do Jeito Certo.
