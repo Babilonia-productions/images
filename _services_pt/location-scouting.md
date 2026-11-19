@@ -26,7 +26,7 @@ faq:
 ## O Serviço
 ### A Locação É o Conceito.
 
-Buscamos e garantimos locações no Rio de Janeiro e em todos os 26 estados do Brasil, e cuidamos dos acessos e autorizações que vêm com elas. Conhecemos o terreno: as ruas, as pessoas, a quem pedir acesso e quanto tempo leva de verdade o deslocamento entre dois pontos.
+Buscamos e garantimos locações no Rio de Janeiro e em todos os 26 estados do Brasil, e cuidamos dos acessos e autorizações que vêm com elas. Conhecemos o terreno: as ruas, as pessoas, a quem pedir acesso e quanto tempo leva de verdade o deslocamento entre dois pontos. Isso inclui os lugares de acesso difícil e as comunidades longe do cartão-postal, porque o nosso Fabio vive no Rio há 40 anos e sabe para quem ligar.
 
 Para a filmagem noturna da [DSQUARED2 SS26]({{ '/pt/work/dsquared2/' | relative_url }}) buscamos lajes, escadarias e cantos da favela da Babilônia onde as luzes da cidade se estendem lá embaixo. A coleção ALEGRIA da [Magali Pascal]({{ '/pt/work/magali-pascal/' | relative_url }}) passou por Ipanema, o Centro Histórico e a Urca. A [Casa Rosa]({{ '/pt/work/casa-rosa/' | relative_url }}) encontrou o lado tranquilo do Rio na Praia Vermelha e no Flamengo.
 

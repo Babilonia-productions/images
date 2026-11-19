@@ -20,8 +20,12 @@ faq:
     a: "Yes. If you arrive with your own director or creative team, we handle the ground: crew, casting, locations and access, logistics, and the problems nobody planned for."
   - q: "Do you partner with other production companies?"
     a: "Yes. We have taken on the Brazil side of productions alongside Mawe Productions on DSQUARED2, Eden.br on Nike × NOCTA and Seasky Productions on Soli&Sun."
+  - q: "Do you take on small jobs, like a day of fixing for a photographer?"
+    a: "Yes, when the timing works. Our focus is productions from $2,000 up, but we also help individual photographers and small teams with a day of fixing and production help around Rio."
   - q: "Does your team work in English?"
     a: "Yes. The team works in English and Portuguese, and most of our clients are brands and agencies outside Brazil."
+  - q: "What budget do we need?"
+    a: "Our productions start from $2,000. A typical smaller production runs $10,000 to $20,000, and bigger, multi-day productions run higher. We quote every project individually."
 ---
 ## The Service
 ### Your Local Production Partner in Brazil.
@@ -33,6 +37,6 @@ We regularly take on the Brazil side of bigger productions. On [DSQUARED2's SS26
 ## Before You Land
 ### Know the Ground Before You Arrive.
 
-We know the streets, the people, who to ask for access, and how long the move between two locations really takes. That is the difference between a smooth shoot day and a lost one.
+We know the streets, the people, who to ask for access, and how long the move between two locations really takes. That is the difference between a smooth shoot day and a lost one. It works at every scale, from a full international crew to a single photographer who needs a day of help getting around Rio.
 
 Planning a shoot? Our guide on [how to shoot your next campaign in Brazil]({{ '/blog/brazil-is-having-a-moment/' | relative_url }}) covers seasons, locations and the basics of the production rules.

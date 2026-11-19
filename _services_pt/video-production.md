@@ -24,7 +24,7 @@ faq:
 ## O Serviço
 ### Filmes Com Instinto Documental.
 
-Produzimos filmes de campanha, fashion films, documentários de marca e conteúdo para redes no Rio de Janeiro e em todo o Brasil. Nossa abordagem une instinto documental e acesso local: pessoas reais, lugares reais e histórias que vão além do óbvio.
+Produzimos filmes de campanha, fashion films, documentários de marca e conteúdo para redes no Rio de Janeiro e em todo o Brasil. Nossa abordagem une instinto documental e acesso local: pessoas reais, lugares reais e histórias que vão além do óbvio. Nossa produtora Helene vem do jornalismo e do documentário, e sabe quais histórias de fato funcionam para uma marca.
 
 Filmamos em digital, ou em película quando o conceito pede. A campanha SS26 da [Floyd]({{ '/pt/work/floyd/' | relative_url }}) montou um tabuleiro de xadrez na praia de Ipanema e foi filmada inteira em 16mm. Em [Nike × NOCTA]({{ '/pt/work/nike-nocta/' | relative_url }}), as imagens em 16mm viraram parte das fotos da campanha.
 

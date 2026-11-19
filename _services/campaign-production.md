@@ -24,13 +24,15 @@ faq:
     a: "Rio is our base, and we produce across all 26 Brazilian states."
   - q: "How do we start?"
     a: "Email contact@babiloniaproductions.com or message us on WhatsApp with a brief, a moodboard, or just a date and a rough idea. We come back with an approach and a budget."
+  - q: "What budget do we need?"
+    a: "Our productions start from $2,000. A typical smaller production runs $10,000 to $20,000, and bigger, multi-day productions run higher. We quote every project individually."
 ---
 ## The Service
 ### One Team, Brief to Final File.
 
 Babilônia Productions is a production company based in Rio de Janeiro. We produce brand campaigns end to end, from concept, casting and locations to crew, shoot and delivery, for brands and agencies in Rio and across all 26 Brazilian states.
 
-Creative and production sit in the same team, so nothing gets lost between the brief and the final file. Most of our campaigns deliver motion and stills together, from one crew, rather than as two separate bookings.
+Creative and production sit in the same team, so nothing gets lost between the brief and the final file. Our producer Helene is a former journalist and documentary filmmaker with a marketing and PR background, so the story is built to work for your brand, not just to look good. We like new ideas and we don't copy what's already been done. Most of our campaigns deliver motion and stills together, from one crew, rather than as two separate bookings.
 
 ## How It Works
 ### Fast When It Has to Be. Careful When It Should Be.

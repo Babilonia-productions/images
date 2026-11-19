@@ -24,13 +24,15 @@ faq:
     a: "O Rio é a nossa base, e produzimos em todos os 26 estados do Brasil."
   - q: "Como começamos?"
     a: "Envie um e-mail para contact@babiloniaproductions.com ou uma mensagem no WhatsApp com um briefing, um moodboard, ou só uma data e uma ideia. Voltamos com uma abordagem e um orçamento."
+  - q: "Qual orçamento precisamos?"
+    a: "Nossas produções começam a partir de US$ 2.000. Uma produção menor costuma ficar entre US$ 10.000 e US$ 20.000, e produções maiores, de vários dias, ficam acima disso. Fazemos um orçamento para cada projeto."
 ---
 ## O Serviço
 ### Uma Equipe, do Briefing ao Arquivo Final.
 
 A Babilônia Productions é uma produtora com base no Rio de Janeiro. Produzimos campanhas de marca de ponta a ponta, do conceito, casting e locações à equipe, filmagem e entrega, para marcas e agências no Rio e em todos os 26 estados do Brasil.
 
-Criação e produção ficam na mesma equipe, então nada se perde entre o briefing e o arquivo final. A maioria das nossas campanhas entrega vídeo e foto juntos, com uma só equipe, em vez de duas contratações separadas.
+Criação e produção ficam na mesma equipe, então nada se perde entre o briefing e o arquivo final. Nossa produtora Helene é ex-jornalista e documentarista, com experiência em marketing e assessoria de imprensa, então a história é pensada para funcionar para a sua marca, não só para ficar bonita. Gostamos de ideias novas e não copiamos o que já foi feito. A maioria das nossas campanhas entrega vídeo e foto juntos, com uma só equipe, em vez de duas contratações separadas.
 
 ## Como Funciona
 ### Rápido Quando Precisa. Cuidadoso Quando Deve.

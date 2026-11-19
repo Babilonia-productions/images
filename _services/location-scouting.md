@@ -26,7 +26,7 @@ faq:
 ## The Service
 ### The Location Is the Concept.
 
-We scout and secure locations across Rio de Janeiro and all 26 Brazilian states, and handle the access and permits that come with them. We know the ground: the streets, the people, who to ask for access, and how long the move between two points really takes.
+We scout and secure locations across Rio de Janeiro and all 26 Brazilian states, and handle the access and permits that come with them. We know the ground: the streets, the people, who to ask for access, and how long the move between two points really takes. That includes the hard-access spots and the communities far from the postcard, because our Fabio has lived in Rio for 40 years and knows who to call.
 
 For [DSQUARED2's SS26]({{ '/work/dsquared2/' | relative_url }}) night shoot we scouted rooftops, staircases and corners of the Babilônia favela where the city lights stretch out below. [Magali Pascal's]({{ '/work/magali-pascal/' | relative_url }}) ALEGRIA collection moved through Ipanema, the Centro Histórico and Urca. [Casa Rosa]({{ '/work/casa-rosa/' | relative_url }}) found the quiet side of Rio at Praia Vermelha and Flamengo.
 

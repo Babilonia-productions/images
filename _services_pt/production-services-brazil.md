@@ -20,8 +20,12 @@ faq:
     a: "Sim. Se você chega com seu próprio diretor ou equipe criativa, cuidamos do campo: equipe, casting, locações e acessos, logística e os problemas que ninguém previu."
   - q: "Vocês trabalham com outras produtoras?"
     a: "Sim. Já assumimos a parte brasileira de produções ao lado da Mawe Productions na DSQUARED2, da Eden.br em Nike × NOCTA e da Seasky Productions na Soli&Sun."
+  - q: "Vocês aceitam trabalhos pequenos, como um dia de fixer para um fotógrafo?"
+    a: "Sim, quando a agenda permite. Nosso foco são produções a partir de US$ 2.000, mas também ajudamos fotógrafos independentes e equipes pequenas com um dia de fixer e apoio de produção pelo Rio."
   - q: "A equipe trabalha em inglês?"
     a: "Sim. A equipe trabalha em inglês e português, e a maioria dos nossos clientes são marcas e agências de fora do Brasil."
+  - q: "Qual orçamento precisamos?"
+    a: "Nossas produções começam a partir de US$ 2.000. Uma produção menor costuma ficar entre US$ 10.000 e US$ 20.000, e produções maiores, de vários dias, ficam acima disso. Fazemos um orçamento para cada projeto."
 ---
 ## O Serviço
 ### Sua Parceira de Produção Local no Brasil.
@@ -33,6 +37,6 @@ Assumimos com frequência a parte brasileira de produções maiores. Na [campanh
 ## Antes de Chegar
 ### Conheça o Terreno Antes de Pousar.
 
-Conhecemos as ruas, as pessoas, a quem pedir acesso e quanto tempo leva de verdade o deslocamento entre duas locações. É essa a diferença entre um dia de filmagem tranquilo e um dia perdido.
+Conhecemos as ruas, as pessoas, a quem pedir acesso e quanto tempo leva de verdade o deslocamento entre duas locações. É essa a diferença entre um dia de filmagem tranquilo e um dia perdido. Funciona em qualquer escala, de uma equipe internacional completa a um único fotógrafo que precisa de um dia de apoio pelo Rio.
 
 Planejando uma filmagem? Nosso guia sobre [como produzir sua próxima campanha no Brasil]({{ '/pt/blog/brazil-is-having-a-moment/' | relative_url }}) cobre estações, locações e o básico das regras de produção.

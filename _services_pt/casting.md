@@ -25,7 +25,7 @@ faq:
 ## O Serviço
 ### Rostos Que Nenhuma Agência Tem.
 
-Fazemos casting para campanhas, filmes e ensaios no Rio de Janeiro e em todo o Brasil, de modelos de agência a pessoas reais encontradas na rua, nas quadras e na comunidade.
+Fazemos casting para campanhas, filmes e ensaios no Rio de Janeiro e em todo o Brasil, de modelos de agência a pessoas reais encontradas na rua, nas quadras e na comunidade. A maior parte passa pelo Fabio, que vive no Rio há 40 anos e cuja rede de talentos, modelos e criadores é de onde vêm nossos castings.
 
 Para [Nike × NOCTA]({{ '/pt/work/nike-nocta/' | relative_url }}), o casting saiu direto da favela: sem agências, sem composites, rostos encontrados pela própria comunidade. Para a [cápsula NFL × Flamengo da ProStandard]({{ '/pt/work/prostandard-flamengo/' | relative_url }}), seis rostos do Rio real estavam diante da câmera sete dias depois da primeira conversa.
 

@@ -25,7 +25,7 @@ faq:
 ## The Service
 ### Faces You Can't Book Through an Agency.
 
-We cast talent for campaigns, films and shoots in Rio de Janeiro and across Brazil, from agency models to real people found in the street, on the courts and in the community.
+We cast talent for campaigns, films and shoots in Rio de Janeiro and across Brazil, from agency models to real people found in the street, on the courts and in the community. Most of it runs through Fabio, who has lived in Rio for 40 years and whose network of talent, models and creators is the one we cast from.
 
 For [Nike × NOCTA]({{ '/work/nike-nocta/' | relative_url }}), the casting happened straight from the favela: no agencies, no model cards, faces found through the community itself. For [ProStandard's NFL × Flamengo capsule]({{ '/work/prostandard-flamengo/' | relative_url }}), six faces from the real Rio were cast and on camera seven days after the first conversation.
 

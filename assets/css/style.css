@@ -1181,6 +1181,18 @@
     color: var(--crimson);
   }
 
+  .service-team { padding-top: 0; }
+  .service-team-intro {
+    max-width: 760px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.85;
+    color: var(--muted);
+    margin: -28px 0 40px;
+  }
+  .service-team-grid { grid-template-columns: repeat(2, 1fr); }
+  .service-team .who-card-num { font-size: 40px; }
+
   .service-body a { color: var(--crimson); }
 
   .service-handles {
@@ -1279,6 +1291,6 @@
     .page-hero-meta { gap: 24px; }
 
     .services-index { padding-top: 130px; padding-bottom: 80px; }
-    .service-grid, .service-handles { grid-template-columns: 1fr; }
+    .service-grid, .service-handles, .service-team-grid { grid-template-columns: 1fr; }
     .service-related, .service-more { padding-left: 24px; padding-right: 24px; }
   }

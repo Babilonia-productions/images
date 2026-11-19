@@ -24,7 +24,7 @@ faq:
 ## The Service
 ### Films With Documentary Instincts.
 
-We produce campaign films, fashion films, branded documentaries and social content in Rio de Janeiro and across Brazil. Our approach pairs documentary instincts with local access: real people, real places, and stories that go beyond the obvious.
+We produce campaign films, fashion films, branded documentaries and social content in Rio de Janeiro and across Brazil. Our approach pairs documentary instincts with local access: real people, real places, and stories that go beyond the obvious. Our producer Helene comes from journalism and documentary filmmaking, and knows which stories actually work for a brand.
 
 We shoot digitally, or on film when the concept calls for it. [Floyd's]({{ '/work/floyd/' | relative_url }}) SS26 campaign put a chessboard on Ipanema beach and was shot entirely on 16mm. For [Nike × NOCTA]({{ '/work/nike-nocta/' | relative_url }}), the 16mm footage later became part of the campaign stills.
 
