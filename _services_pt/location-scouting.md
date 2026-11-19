@@ -9,7 +9,8 @@ card_text: "Scouting, reserva e autorização de locações no Rio e em todos os
 order: 7
 related: [dsquared2, magali-pascal, casa-rosa, ernest-leoty]
 handles:
-  - "Pesquisa e scouting de locações"
+  - "Scouts entregues em fotos, vídeo e apresentação, ou ao vivo por videochamada"
+  - "Casas, residências e casas de serra particulares"
   - "Acesso com proprietários e comunidades"
   - "Autorizações, consentimentos e direito de imagem"
   - "Locações em favelas e comunidades"
@@ -24,6 +25,12 @@ faq:
     a: "Sim. Buscamos e garantimos locações em todos os 26 estados do Brasil."
   - q: "Podemos filmar em qualquer lugar público no Brasil?"
     a: "Não livremente. Locações precisam de consentimento e das liberações certas, e o Brasil é rigoroso com direito de imagem de quem aparece na câmera. Resolvemos as duas coisas antes da filmagem."
+  - q: "Dá para filmar no Cristo Redentor?"
+    a: "Sim. É fácil de acessar, mas filmar lá tem um processo próprio e exige licença, que nós solicitamos. O Pão de Açúcar e as praias são mais simples."
+  - q: "Vocês encontram casas e mansões particulares?"
+    a: "Sim. Temos boas conexões com mansões, residências e casas na serra, com ou sem piscina. Elas pedem um pouco mais de antecedência do que locações públicas."
+  - q: "Como vocês entregam os scouts de locação?"
+    a: "Em fotos, vídeo ou uma apresentação compartilhada, ou ao vivo por videochamada direto da locação, se você quiser ver em tempo real."
 ---
 ## O Serviço
 ### A Locação É o Conceito.
@@ -37,7 +44,14 @@ Para a filmagem noturna da [DSQUARED2 SS26]({{ '/pt/work/dsquared2/' | relative_
 
 As praias vêm primeiro, e o Rio tem muitas, de Ipanema a enseadas tranquilas cercadas de natureza. Depois as cenas típicas do Brasil: bares e restaurantes com personalidade, monumentos, mirantes e favelas. Os lugares escondidos são onde mais nos divertimos, como a favela na Zona Norte do Rio onde uma produção recente da ProStandard virou uma jornada de moto com manobras.
 
+## É Difícil?
+### A Maior Parte do Rio É Mais Fácil do Que Parece.
+
+O Pão de Açúcar e as praias são simples. O Cristo Redentor é fácil de acessar, mas tem um processo próprio, com licença de filmagem. Casas particulares levam um pouco mais de tempo, dependendo do que você precisa, e temos boas conexões com mansões, residências e casas na serra, com ou sem piscina, mais antigas ou mais novas.
+
+Entregamos os scouts do jeito que for melhor para você: fotos, vídeo, uma apresentação compartilhada ou uma videochamada ao vivo da locação.
+
 ## Além do Rio
 ### Um País de Cenários.
 
-O Brasil tem escala continental: as praias do Nordeste, a Floresta Amazônica, as cidades do Sul. Veja [como escolher sua locação no Brasil]({{ '/pt/blog/brazil-is-having-a-moment/' | relative_url }}) e nossa visão sobre [filmar na favela]({{ '/blog/shooting-in-the-favela-producing-campaigns-brazil-communities/' | relative_url }}) (em inglês).
+Além do Centro e da Zona Sul, já fizemos scouting e filmamos em Niterói, em Grumari e nas praias mais adiante no litoral, e em favelas como a Cidade de Deus e a Tijuquinha. Fora do estado, já trabalhamos em São Paulo, Minas Gerais e no Maranhão. O Brasil tem escala continental: as praias do Nordeste, a Floresta Amazônica, as cidades do Sul. Veja [como escolher sua locação no Brasil]({{ '/pt/blog/brazil-is-having-a-moment/' | relative_url }}) e nossa visão sobre [filmar na favela]({{ '/blog/shooting-in-the-favela-producing-campaigns-brazil-communities/' | relative_url }}) (em inglês).
