@@ -12,7 +12,10 @@ handles:
   - "Equipe e equipamentos locais"
   - "Casting e scouting de talentos"
   - "Scouting de locações, acesso e autorizações"
-  - "Transporte e logística"
+  - "Transporte da produção e traslados do aeroporto"
+  - "Reservas de hotel, por uma pequena taxa"
+  - "Catering"
+  - "Tradutores quando necessário, embora nossa equipe seja multilíngue"
   - "Coordenação de produção em inglês e português"
   - "Resolução de problemas no set"
 faq:
@@ -32,6 +35,8 @@ faq:
     a: "Achar que podem filmar em qualquer lugar. Locações precisam de consentimento e liberações legais, e o Brasil é rigoroso com direito de imagem de quem aparece na câmera."
   - q: "Produzir no Brasil é barato?"
     a: "Mais barato que na Europa ou nos EUA, sim, mas costuma custar mais do que se espera. É preciso cumprir as regras locais, bons equipamentos custam caro em todo lugar, e pagamos cachês justos e profissionais para equipe, modelos e talentos."
+  - q: "Vocês cuidam de hotéis, transporte e catering?"
+    a: "Sim. Cuidamos do transporte da produção e dos traslados do aeroporto, do catering e de reservas de hotel por uma pequena taxa. Tradutores estão disponíveis se necessário, mas nossa equipe é multilíngue, então raramente é preciso."
 ---
 ## O Serviço
 ### Sua Parceira de Produção Local no Brasil.

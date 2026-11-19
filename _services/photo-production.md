@@ -19,7 +19,7 @@ faq:
   - q: "Do you shoot stills as well as film?"
     a: "Both, usually on the same production. Most of our campaigns deliver motion and stills together, from one crew, rather than two separate bookings."
   - q: "Can you provide the photographer?"
-    a: "Yes. We match a photographer to your concept, or support the photographer you bring with casting, locations and crew."
+    a: "Yes. We have photographers we work with regularly, but every photographer sees the world differently, so we match one to your concept, style and budget. Or we support the photographer you bring with casting, locations and crew."
   - q: "Where in Rio do you shoot?"
     a: "Wherever the concept needs: beaches like Ipanema, Copacabana and Praia Vermelha, the Centro Histórico, Urca, neighborhood courts and Rio's favelas, plus locations across all 26 Brazilian states."
 ---

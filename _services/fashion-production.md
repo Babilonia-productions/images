@@ -2,10 +2,10 @@
 title: "Fashion Shoot Production in Rio de Janeiro"
 short_title: "Fashion Production"
 seo_title: "Fashion Shoot Production in Rio de Janeiro | Babilônia"
-description: "Fashion campaign and fashion film production in Rio de Janeiro for global labels: casting, locations, styling and crew, from Ipanema to favela rooftops."
+description: "Fashion campaign, lookbook and e-commerce production in Rio de Janeiro for global labels: casting, locations, styling and crew, from Ipanema to favela rooftops."
 tag: "SERVICE · FASHION"
 subtitle: "Real Rio as the set. No studio required."
-card_text: "Fashion campaigns and fashion films for labels from DSQUARED2 to independent brands, shot on Rio's real locations."
+card_text: "Campaigns, fashion films, lookbooks and e-commerce for labels from DSQUARED2 to independent brands, shot on Rio's real locations."
 order: 3
 related: [dsquared2, magali-pascal, casa-rosa, ernest-leoty]
 handles:
@@ -14,6 +14,8 @@ handles:
   - "Location scouting across Rio and Brazil"
   - "Styling, hair and makeup"
   - "Stills and fashion film from one production"
+  - "Lookbooks and e-commerce shoots"
+  - "Behind-the-scenes content"
   - "Night and natural-light shoots"
 faq:
   - q: "Do you produce fashion films as well as stills?"
@@ -22,6 +24,10 @@ faq:
     a: "DSQUARED2, Nike × NOCTA, Farm, Arezzo, Ernest Leoty, Floyd, Magali Pascal, Casa Rosa and Lokoa The Label, among others."
   - q: "When is the best season for a fashion shoot in Rio?"
     a: "Rio works all year. December to March brings long summer days and peak energy, with higher prices. June to October is the Brazilian winter: pleasant weather, fewer tourists and more local availability."
+  - q: "Do you produce lookbooks and e-commerce shoots?"
+    a: "Yes, as well as campaigns, fashion films and behind-the-scenes content."
+  - q: "Do you have your own stylists and photographers?"
+    a: "We have regulars we trust, but we pick the creative for each project based on your style, what you need and your budget."
 ---
 ## The Service
 ### Fashion Campaigns With a Pulse.
@@ -29,6 +35,13 @@ faq:
 Fashion is most of what we produce. We have shot SS26 campaigns for [DSQUARED2]({{ '/work/dsquared2/' | relative_url }}), [Ernest Leoty]({{ '/work/ernest-leoty/' | relative_url }}) and [Floyd]({{ '/work/floyd/' | relative_url }}), launched the ALEGRIA collection for [Magali Pascal]({{ '/work/magali-pascal/' | relative_url }}), and worked with labels including Farm, Arezzo and Lokoa The Label.
 
 Rio gives a fashion campaign what a studio can't: sun-bleached rock and tree cover, the Copacabana seawall, the rooftops and staircases of the favela at night. We find the place that carries the collection, then cast and crew around it.
+
+Beyond campaigns, we produce lookbooks, e-commerce shoots and behind-the-scenes content.
+
+## The Team Around You
+### The Right Creative, Not the Usual One.
+
+We have stylists, hair and makeup artists, photographers and videographers we work with regularly. But every creative sees the world in their own way, so we don't default to the same names. We look at your style, what the project needs and your budget, and find the best fit.
 
 ## Why Rio
 ### The City Does the Styling.

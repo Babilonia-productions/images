@@ -12,7 +12,10 @@ handles:
   - "Local crew and equipment"
   - "Casting and talent scouting"
   - "Location scouting, access and permits"
-  - "Transport and logistics"
+  - "Production transport and airport transfers"
+  - "Hotel bookings, for a small fee"
+  - "Catering"
+  - "Translators when needed, though our team is multilingual"
   - "Production coordination in English and Portuguese"
   - "On-set problem solving"
 faq:
@@ -32,6 +35,8 @@ faq:
     a: "Thinking they can shoot anywhere. Locations need consent and legal clearances, and Brazil is strict about image rights for anyone who appears on camera."
   - q: "Is producing in Brazil cheap?"
     a: "Cheaper than Europe or the US, yes, but often more than people expect. Local rules have to be complied with, good gear costs money everywhere, and we pay crew, models and talent fair, professional rates."
+  - q: "Do you handle hotels, transport and catering?"
+    a: "Yes. We handle production transport and airport transfers, catering, and hotel bookings for a small fee. Translators are available if needed, though our team is multilingual, so it's rarely necessary."
 ---
 ## The Service
 ### Your Local Production Partner in Brazil.

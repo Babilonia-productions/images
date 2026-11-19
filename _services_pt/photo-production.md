@@ -19,7 +19,7 @@ faq:
   - q: "Vocês fazem foto além de filme?"
     a: "Os dois, normalmente na mesma produção. A maioria das nossas campanhas entrega vídeo e foto juntos, com uma só equipe, em vez de duas contratações separadas."
   - q: "Vocês fornecem o fotógrafo?"
-    a: "Sim. Indicamos um fotógrafo que combine com o seu conceito, ou damos suporte ao fotógrafo que você trouxer, com casting, locações e equipe."
+    a: "Sim. Temos fotógrafos com quem trabalhamos com frequência, mas cada um enxerga o mundo de um jeito, então escolhemos quem combina com o seu conceito, estilo e orçamento. Ou damos suporte ao fotógrafo que você trouxer, com casting, locações e equipe."
   - q: "Onde no Rio vocês fotografam?"
     a: "Onde o conceito pedir: praias como Ipanema, Copacabana e Praia Vermelha, o Centro Histórico, a Urca, quadras de bairro e favelas do Rio, além de locações em todos os 26 estados do Brasil."
 ---
