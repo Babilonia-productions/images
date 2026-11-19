@@ -25,9 +25,12 @@ Put simply, if you use someone's face to sell something without their permission
 
 A good release in Brazil is specific. A vague "all media, forever" line is exactly what you want to avoid. At minimum it should say:
 
-- **How long.** The period the images can be used, from the campaign launch to its end date.
-- **Where.** Social media and TV are different things, and so are online ads, print and out-of-home. Name the media.
-- **How the talent can use it.** Whether and how often they can repost the work, and whether they can use it in their portfolio.
+- **How long.** The usage period. Six months to a year is typical.
+- **Which media.** Social media and TV are different things, and so are online ads, print and out-of-home. Name them.
+- **Which territory.** Brazil only, a region, or worldwide.
+- **Reposting.** Whether you can keep posting new content from the shoot later, say a year on, and how often the talent can repost it or use it in their portfolio.
+
+When the usage period ends, you can renegotiate. A renewal usually runs at 20% to 30% of the original image release fee.
 
 Usage terms are part of the deal with the talent, and TV really does make a difference. Decide where the campaign will run before casting, not after.
 
@@ -35,6 +38,10 @@ Usage terms are part of the deal with the talent, and TV really does make a diff
   <img src="{{ '/assets/img/nike-nocta-01.png' | relative_url }}" alt="Nike NOCTA campaign image of a model jumping over a Brazilian flag painted on a favela court, heading a football">
   <figcaption>Nike × NOCTA, cast straight from the favela. Real people, so real releases.</figcaption>
 </figure>
+
+## What happens when a brand gets it wrong
+
+Best case, you're asked to take the images down, which hurts enough mid-campaign. Worst case, if it was handled badly, the brand gets sued. And as the STJ ruling above makes clear, the person doesn't have to prove they were harmed.
 
 ## The people you didn't cast
 
