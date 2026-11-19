@@ -1,0 +1,30 @@
+{%- comment -%}
+  Related blog posts by English slug: {% include related-posts.html slugs=page.related_posts %}
+  Future-dated posts are not built, so a scheduled post only appears here
+  once it is published and the link can never point at a missing page.
+  Portuguese pages use the PT translation when one exists.
+{%- endcomment -%}
+{%- capture rp_items -%}
+{%- for s in include.slugs -%}
+  {%- assign rp_post = site.posts | where: "slug", s | where_exp: "p", "p.lang != 'pt'" | first -%}
+  {%- if rp_post -%}
+    {%- assign rp_label = "" -%}
+    {%- if page.lang == "pt" -%}
+      {%- assign rp_pt_url = "/pt" | append: rp_post.url -%}
+      {%- assign rp_pt = site.posts | where: "url", rp_pt_url | first -%}
+      {%- if rp_pt -%}{%- assign rp_post = rp_pt -%}{%- else -%}{%- assign rp_label = " (em inglês)" -%}{%- endif -%}
+    {%- endif %}
+    <li><a href="{{ rp_post.url | relative_url }}">{{ rp_post.title }}</a>{{ rp_label }}</li>
+  {%- endif -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- if rp_items != "" %}
+<section class="related-links fade-up">
+  <div class="section-label">
+    <span class="section-label-line"></span>
+    <span class="section-label-text">{% if page.lang == "pt" %}Do Blog{% else %}From the Blog{% endif %}</span>
+  </div>
+  <ul class="related-links-list">{{ rp_items }}
+  </ul>
+</section>
+{%- endif %}

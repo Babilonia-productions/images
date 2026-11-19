@@ -30,6 +30,7 @@ faq:
     a: "We have regulars we trust, but we pick the creative for each project based on your style, what you need and your budget."
   - q: "Can you book a studio?"
     a: "Yes. We work with studios regularly, including on our Latin Grammys work. It makes sense when you need a lookbook and a lifestyle campaign at the same time."
+related_posts: [fashion-brands-ss2027-campaigns-rio-production-company, rio-locations-beyond-ipanema, carnival-campaign-ideas-for-brands, how-to-cast-real-people-in-brazil]
 ---
 ## The Service
 ### Fashion Campaigns With a Pulse.

@@ -6,6 +6,7 @@ description: "Drone rules in Brazil after the 2026 changes: ANAC's RBAC 100, SIS
 excerpt: "Brazil changed its drone rules in 2026. You can still bring your own drone, but it needs three agencies on board and a clearance for every flight."
 og_image: /assets/img/og/magali-pascal.jpg
 og_image_alt: "Magali Pascal ALEGRIA campaign shot in Rio"
+services: [video-production, location-scouting]
 ---
 Yes, you can bring your own drone to Brazil. We also have drones of our own. Either way, a drone shot here involves three government agencies and an authorization for every single flight, and the rules changed in 2026, so a lot of what's online is out of date.
 

@@ -6,6 +6,7 @@ description: "How producing a music video differs from a brand campaign: it's bu
 excerpt: "A campaign is about the brand. A music video is about the artist: who they are and what they want to say. That changes how you produce it."
 og_image: /assets/img/og/nike-nocta.jpg
 og_image_alt: "Nike NOCTA campaign key art shot in Rio"
+services: [music-video-production]
 ---
 We produce campaigns and music videos with a lot of the same people, the same gear and the same city. They're still very different jobs, and it helps to know why before you start planning one.
 

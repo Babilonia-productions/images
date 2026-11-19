@@ -6,6 +6,7 @@ description: "How to keep a crew and its gear safe on a shoot in Rio de Janeiro:
 excerpt: "A friend of ours booked a motorbike through an app to move gear across Rio. The whole kit was gone. Here's how we run shoots so that doesn't happen."
 og_image: /assets/img/og/coolway.jpg
 og_image_alt: "Coolway footwear campaign shot across Rio"
+services: [production-services-brazil, community-projects]
 ---
 A friend of ours needed to move gear across Rio for a shoot, so they booked a motorbike through an app because it was cheap and fast. The gear never arrived. The entire kit was stolen.
 

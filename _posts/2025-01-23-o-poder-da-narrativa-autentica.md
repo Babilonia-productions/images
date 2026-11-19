@@ -5,6 +5,7 @@ og_image: /assets/img/og/post-storytelling.jpg
 og_image_alt: "Retrato de campanha fotografado nas pedras de uma praia do Rio"
 lang: pt
 permalink: /pt/blog/the-power-of-authentic-storytelling/
+services: [video-production, campaign-production]
 ---
 As redes sociais, a televisão e o mundo digital estão transbordando de anúncios, todos disputando a sua atenção. Mas sejamos honestos: de quantos deles você realmente se lembra?
 

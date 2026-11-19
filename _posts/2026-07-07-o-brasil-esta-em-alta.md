@@ -5,6 +5,7 @@ og_image: /assets/img/og/post-brazil-moment.jpg
 og_image_alt: "Campanha de moda no Rio fotografada na Praia Vermelha, sob o Pão de Açúcar"
 lang: pt
 permalink: /pt/blog/brazil-is-having-a-moment/
+services: [campaign-production, production-services-brazil]
 ---
 O Brasil está em alta.
 

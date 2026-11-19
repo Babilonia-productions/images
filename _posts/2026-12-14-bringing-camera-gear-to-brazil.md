@@ -6,6 +6,7 @@ description: "What to bring and what to rent for a shoot in Brazil: pack the cam
 excerpt: "Bring the camera you love. Rent the tripod. That's most of the answer, but the details matter, especially if you shoot on film."
 og_image: /assets/img/og/floyd.jpg
 og_image_alt: "Floyd campaign shot on 16mm film on Ipanema beach"
+services: [production-services-brazil, remote-production]
 ---
 Bring the camera you love. Rent the tripod. That's most of the answer to "should we bring our own gear to Brazil?", but the details matter, especially if you shoot on film.
 

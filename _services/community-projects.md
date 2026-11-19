@@ -24,6 +24,7 @@ faq:
     a: "Up to about 100 guests. Anything larger needs a dedicated event production company."
   - q: "Do you help with influencer activations?"
     a: "Yes. A visit with a social angle, a small presentation or talk, music or dance. We find the place, the people and the access."
+related_posts: [shooting-in-the-favela-producing-campaigns-brazil-communities, shooting-during-carnival-in-rio, is-it-safe-to-shoot-in-rio]
 ---
 ## The Service
 ### Small, Local and Rooted in the Community.

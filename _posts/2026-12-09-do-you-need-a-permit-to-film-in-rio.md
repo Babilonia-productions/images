@@ -6,6 +6,7 @@ description: "How filming permits work in Rio de Janeiro: city permits for publi
 excerpt: "Yes. In Rio, filming in any public location needs a permit. The good news is that it's rarely hard. It's almost always just a matter of time and cost."
 og_image: /assets/img/og/prostandard-flamengo.jpg
 og_image_alt: "The full ProStandard NFL × Flamengo cast on the Rio beachfront under the palms"
+services: [production-services-brazil, location-scouting]
 ---
 Yes. The city of Rio requires a permit to film in any public location. The better news is that permits here are rarely hard to get. In our experience it's never really about difficulty. It's about time and cost.
 

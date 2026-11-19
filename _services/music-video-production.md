@@ -24,6 +24,7 @@ faq:
     a: "Yes. We work with the artist, the director representing them, and the label if there is one, so the video adds up and represents the art."
   - q: "Can you shoot in favelas and other hard-to-reach locations?"
     a: "Yes. We shoot in favelas with locals who know the residents' association, and we've produced music videos across theaters, beaches, favelas and artists' own homes."
+related_posts: [how-much-does-a-music-video-cost-in-brazil, making-a-music-video-vs-a-campaign, music-video-formats-rio, how-to-cast-real-people-in-brazil]
 ---
 ## The Service
 ### A Video That Sounds Like the Artist.

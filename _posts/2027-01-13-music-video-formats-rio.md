@@ -6,6 +6,7 @@ description: "Five music video formats you can shoot in Rio de Janeiro, from a o
 excerpt: "A music video in Rio can be one room and a few props, or three days across a theater, a beach and a favela. Here are five formats and what each one needs."
 og_image: /assets/img/og/casa-rosa.jpg
 og_image_alt: "Casa Rosa campaign, vintage silhouettes against a red wall in Rio"
+services: [music-video-production, location-scouting]
 ---
 "Music video" covers a lot of ground. It can be one room and a few props, or three days across the city with an art director and a crew. Picking the format first makes everything else easier, including the budget.
 

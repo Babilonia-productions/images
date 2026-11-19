@@ -24,6 +24,7 @@ faq:
     a: "Sim. Trabalhamos com o artista, com o diretor que o representa e com a gravadora, se houver, para que tudo se encaixe e o clipe represente a arte."
   - q: "Vocês filmam em favelas e locações de acesso difícil?"
     a: "Sim. Filmamos em favelas com moradores que conhecem a associação de moradores, e já produzimos videoclipes em teatros, praias, favelas e na casa dos próprios artistas."
+related_posts: [how-much-does-a-music-video-cost-in-brazil, making-a-music-video-vs-a-campaign, music-video-formats-rio, how-to-cast-real-people-in-brazil]
 ---
 ## O Serviço
 ### Um Clipe Com a Cara do Artista.

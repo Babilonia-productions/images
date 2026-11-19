@@ -6,6 +6,7 @@ description: "What to put in a production brief so you get an accurate quote fas
 excerpt: "You don't need a 20-page deck to get a quote. You need about six answers, and one of them is the number you'd rather not say out loud."
 og_image: /assets/img/og/soli-sun.jpg
 og_image_alt: "Soli&Sun campaign, the bag at a Rio street market"
+services: [campaign-production, photo-production, remote-production]
 ---
 You don't need a 20-page deck to get a good quote. You need a handful of answers, and one of them is the number most people would rather not say out loud.
 

@@ -3,6 +3,7 @@ title: "The Power of Authentic Storytelling: Why Invest in Branded Documentaries
 excerpt: "Social media, television, and the digital world are brimming with ads, all vying for your attention. But let's be honest: how many of them do you actually remember?"
 og_image: /assets/img/og/post-storytelling.jpg
 og_image_alt: "A campaign portrait shot on the rocks of a Rio beach"
+services: [video-production, campaign-production]
 ---
 Social media, television, and the digital world are brimming with ads, all vying for your attention. But let's be honest: how many of them do you actually remember?
 

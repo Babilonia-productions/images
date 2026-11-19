@@ -6,6 +6,7 @@ description: "How we cast non-models in Brazil: open street castings, finding a 
 excerpt: "An actor based in France wanted to reconnect with Brazil in his music video, and he needed a real Brazilian family. We found one fast. Here's how casting real people works here."
 og_image: /assets/img/og/nike-nocta.jpg
 og_image_alt: "Nike NOCTA campaign key art shot in Rio"
+services: [fashion-production, music-video-production, casting]
 ---
 Not long ago we were producing a music video for an actor who lives in France but comes from Brazil. The video was about reconnecting with where he's from, so he needed a real, typical Brazilian family on screen, not a cast that looked like one. Ten people, all ages, the kind of family you'd actually meet here.
 

@@ -6,6 +6,7 @@ description: "Ideas for brand campaigns around Rio Carnival: working organically
 excerpt: "Lots of brands show up for Carnival. Very few go into where it comes from. That's the opportunity, and here's how we'd use it."
 og_image: /assets/img/og/coolway.jpg
 og_image_alt: "Coolway campaign, morning light on the Copacabana seawall"
+services: [fashion-production, campaign-production]
 ---
 Every year, a lot of brands show up for Carnival. The ones that do it well do it organically. Brands like Matte Leão, Baer-Mate and Heineken each bring their own local spin. Internationally, Jaded London is one we think did it really well.
 

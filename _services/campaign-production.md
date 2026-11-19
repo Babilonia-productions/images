@@ -32,6 +32,7 @@ faq:
     a: "Cheaper than Europe or the US, yes, but often more than people expect. Local rules have to be complied with, good gear costs money everywhere, and we pay crew, models and talent fair, professional rates."
   - q: "What if the weather is bad on the shoot day?"
     a: "If the weather is really bad, we move the date at no extra charge."
+related_posts: [how-much-does-it-cost-to-shoot-in-brazil, how-to-write-a-production-brief, best-time-to-shoot-in-rio-de-janeiro, brazil-is-having-a-moment]
 ---
 ## The Service
 ### One Team, Brief to Final File.

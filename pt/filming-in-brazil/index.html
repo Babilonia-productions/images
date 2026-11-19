@@ -64,6 +64,9 @@ faq:
   - group: "Segurança, Clima e Onde Filmamos"
     q: "Onde no Brasil vocês já filmaram?"
     a: "Em todo o Rio de Janeiro, das praias da Zona Sul a Grumari e favelas como a Cidade de Deus e a Tijuquinha, além de Niterói, São Paulo, Minas Gerais e Maranhão. Os próximos da lista: Amazonas e Goiás."
+related_posts: [do-you-need-a-permit-to-film-in-rio, image-rights-brazil-model-release, how-much-does-it-cost-to-shoot-in-brazil, fixer-production-service-or-production-company-brazil, flying-a-drone-in-brazil, bringing-camera-gear-to-brazil, is-it-safe-to-shoot-in-rio, best-time-to-shoot-in-rio-de-janeiro]
+services: [production-services-brazil, location-scouting, casting, campaign-production, remote-production]
+related: [prostandard-flamengo, soli-sun, dsquared2]
 ---
 {% assign faq_groups = page.faq | group_by: "group" %}
 <section class="page-hero fade-up">
@@ -96,5 +99,11 @@ faq:
   </div>
 </section>
 {% endfor %}
+
+{% include related-posts.html slugs=page.related_posts %}
+
+{% include related-services.html slugs=page.services %}
+
+{% include related-work.html slugs=page.related label="Trabalhos Recentes" %}
 
 {% include cta-strip.html %}

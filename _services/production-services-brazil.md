@@ -37,6 +37,7 @@ faq:
     a: "Cheaper than Europe or the US, yes, but often more than people expect. Local rules have to be complied with, good gear costs money everywhere, and we pay crew, models and talent fair, professional rates."
   - q: "Do you handle hotels, transport and catering?"
     a: "Yes. We handle production transport and airport transfers, catering, and hotel bookings for a small fee. Translators are available if needed, though our team is multilingual, so it's rarely necessary."
+related_posts: [fixer-production-service-or-production-company-brazil, do-you-need-a-permit-to-film-in-rio, bringing-camera-gear-to-brazil, is-it-safe-to-shoot-in-rio, how-much-does-it-cost-to-shoot-in-brazil]
 ---
 ## The Service
 ### Your Local Production Partner in Brazil.

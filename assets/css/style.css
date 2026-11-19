@@ -1253,6 +1253,30 @@
 
   .service-more { padding: 0 48px 100px; }
 
+  .related-links, .related-services { padding: 0 48px 80px; }
+  .related-links-list {
+    list-style: none;
+    margin-top: 24px;
+    max-width: 760px;
+    border-top: 1px solid rgba(15,15,15,0.1);
+  }
+  .related-links-list li {
+    padding: 16px 0;
+    border-bottom: 1px solid rgba(15,15,15,0.1);
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .related-links-list a {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 22px;
+    letter-spacing: 0.02em;
+    color: var(--black);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .related-links-list a:hover { color: var(--crimson); }
+  .services-latest { padding-top: 40px; padding-bottom: 120px; }
+
   .service-chips {
     list-style: none;
     display: flex;
@@ -1328,5 +1352,5 @@
 
     .services-index { padding-top: 130px; padding-bottom: 80px; }
     .service-grid, .service-handles, .service-team-grid { grid-template-columns: 1fr; }
-    .service-related, .service-more { padding-left: 24px; padding-right: 24px; }
+    .service-related, .service-more, .related-links, .related-services { padding-left: 24px; padding-right: 24px; }
   }
