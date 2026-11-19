@@ -48,4 +48,4 @@ Câmera, luz e maquinária vêm das locadoras do Rio, e as imagens aéreas de um
 ## Documentário de Marca
 ### Histórias Que as Pessoas Escolhem Assistir.
 
-O público segue, compra e compartilha as marcas cujo trabalho parece real. Um filme com pegada documental conquista essa atenção em vez de interromper. Nosso documentário para a Beautiful Destinations está atualmente no circuito internacional de festivais. Leia [por que as marcas estão investindo em documentários]({{ '/pt/blog/the-power-of-authentic-storytelling/' | relative_url }}).
+O público segue, compra e compartilha as marcas cujo trabalho parece real. Um filme com pegada documental conquista essa atenção em vez de interromper. Nosso documentário *Me Chamam de Nativo*, para a Beautiful Destinations, está atualmente no circuito internacional de festivais. Leia [por que as marcas estão investindo em documentários]({{ '/pt/blog/the-power-of-authentic-storytelling/' | relative_url }}).

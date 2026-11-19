@@ -48,7 +48,7 @@ Além de campanhas, produzimos lookbooks, fotos para e-commerce, conteúdo de ba
 
 Temos stylists, cabeleireiros e maquiadores, fotógrafos e videomakers com quem trabalhamos com frequência. Mas cada criativo enxerga o mundo do seu jeito, então não usamos sempre os mesmos nomes. Olhamos o seu estilo, o que o projeto precisa e o seu orçamento, e encontramos quem combina melhor.
 
-Entre os parceiros frequentes estão o stylist Gabriel Menezes, o cabeleireiro Igor Oliveira e os fotógrafos Victor Pollock e [Rafael Moura](https://www.instagram.com/rafael_moura/){:target="_blank" rel="noopener noreferrer"}.
+Entre os parceiros frequentes estão o stylist Gabriel Menezes, o cabeleireiro Igor Oliveira e os fotógrafos Victor Pollock e [Rafael Moura](https://www.instagram.com/rafael_moura/){:target="_blank" rel="noopener noreferrer"}. No vídeo, muitas vezes é a nossa Helene Doetsch atrás da câmera.
 
 ## Por Que o Rio
 ### A Cidade Faz o Styling.
